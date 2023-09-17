@@ -1,0 +1,2561 @@
+﻿rank,company_name,primary_industry,percentage_growth,city,state_province,ceo_name,year
+1,SwanLeap,Software,77260,Madison,WI,Brad Hollister,2018
+2,Justworks,Software,27150,New York,NY,Isaac Oates,2018
+3,Shape Security,Software,23576,Mountain View,CA,Derek Smith,2018
+4,Periscope Data,Software,23227,San Francisco,CA,Harry Glaser,2018
+5,"Arrowhead Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,17847,Pasadena,CA,Christopher Anzalone,2018
+6,"Viveve Medical , Inc.",Medical devices,16887,Englewood,со,Scott Durbin,2018
+7,iLearning Engines,Software,14848,Bethesda,MD,Harish Chidambaran,2018
+8,Exact Sciences Corp,Biotechnology / pharmaceutical,14694,Madison,WI,Kevin Conroy,2018
+9,Podium,Software,13381,Lehi,UT,Eric Rea,2018
+10,Markforged,Electronic devices / hardware,12687,Watertown,MA,Gregory Mark,2018
+11,COLO - D,Communications / networking,10942,Drummondville,QC,Patrick David,2018
+12,BioCatch,Software,10451,New York,NY,Howard Edelstein,2018
+13,Reflektive,Software,8240,San Francisco,CA,Rajeev Behera,2018
+14,PowerInbox,Software,7544,New York,NY,Jeff Kupietzky,2018
+15,"xG Technology , Inc.",Communications / networking,7515,Sarasota,FL,Roger Branton,2018
+16,"Intercept Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,7418,New York,NY,Mark Pruzanski,2018
+17,Ideanomics,Software,7253,New York,NY,Brett McGonegal,2018
+18,FLEXE,Software,6960,Seattle,WA,Karl Siebrecht,2018
+19,"Aarki , Inc.",Software,6533,Mountain View,CA,Sid Bhatt,2018
+20,Signifyd,Software,6417,San Jose,CA,Rajesh Ramanand,2018
+21,Homesnap,Software,6336,Bethesda,MD,John Mazur,2018
+22,"Augmenix , Inc.",Medical devices,5125,Bedford,MA,John Pedersen,2018
+23,Softheon,Software,4904,Stony Brook,NY,Eugene Sayan,2018
+24,Salsify,Software,4896,Boston,MA,Jason Purcell,2018
+25,Momentum Solar,Energy tech,4677,South Plainfield,NJ,Arthur Souritzidis,2018
+26,UiPath,Software,4614,New York,NY,Daniel Dines,2018
+27,GoGuardian,Software,4409,El Segundo,CA,Advait Shinde,2018
+28,Bench Accounting,Software,4373,Vancouver,BC,lan Crosby,2018
+29,Fundera,Software,4362,New York,NY,Jared Hecht,2018
+30,"Sorrento Therapeutics , Inc.",Biotechnology / pharmaceutical,3870,San Diego,CA,Henry Ji,2018
+31,"Attivo Networks , Inc",Software,3854,Fremont,CA,Tushar Kothari,2018
+32,"Remark Holdings , Inc.",Digital content / media / entertainment,3741,Las Vegas,NV,Kai - Shing Tao,2018
+33,Snaps,Software,3733,New York,NY,Christian Brucculeri,2018
+34,KnowBe4,Software,3726,Clearwater,FL,Stu Sjouwerman .,2018
+35,Newsela,Digital content / media / entertainment,3471,New York,NY,Matthew Gross,2018
+36,Applied Genetic Technologies Corp,Biotechnology / pharmaceutical,3396,Alachua,FL,Sue Washer,2018
+37,Liftoff,Software,3380,Palo Alto,CA,Mark Ellis,2018
+38,"STRATA Skin Sciences , Inc.",Medical devices,3337,Horsham,PA,Dr. Dolev Rafaeli,2018
+39,Virtual Health,Software,3336,New York,NY,Adam Sabloff,2018
+40,Mohawk,Software,3285,New York,NY,Yaniv Sarig,2018
+41,Domino Data Lab,Software,3257,San Francisco,CA,Nick Elprin,2018
+42,"Aratana Therapeutics , Inc.",Biotechnology / pharmaceutical,3234,Leawood,KS,Steven St. Peter,2018
+43,"Neos Therapeutics , Inc.",Biotechnology / pharmaceutical,3201,Grand Prairie,TX,Jerry McLaughlin,2018
+44,"Carta , Inc.",Software,3130,Palo Alto,CA,Henry Ward,2018
+45,"22nd Century Group , Inc.",Biotechnology / pharmaceutical,3038,Williamsville,NY,"Henry Sicignano , III",2018
+46,Snap ! Raise,Software,2993,Seattle,WA,Cole Morgan,2018
+47,"Amicus Therapeutics , Inc.",Biotechnology / pharmaceutical,2917,Cranbury,NJ,John F. Crowley,2018
+48,CardFlight,Software,2917,New York,NY,Derek Webster,2018
+50,Aha !,Software,2871,Menlo Park,CA,Brian de Haaff,2018
+51,Seller Labs,Software,2847,Athens,GA,Hank Harris,2018
+52,Choozle,Software,2838,Denver,со,Andrew Fischer,2018
+53,Untappd,Software,2809,Wilmington,NC,Kurt Taylor,2018
+54,SoClean,Medical devices,2805,Peterborough,ΝΗ,Robert Wilkins,2018
+55,Mesosphere,Software,2736,San Francisco,CA,Florian Leibert,2018
+56,"Fuse Medical , Inc.",Medical devices,2706,Richardson,TX,Christopher C. Reeg,2018
+57,CrossInstall,Software,2622,San Francisco,CA,Jeff Marshall,2018
+58,Pluribus Networks,Communications / networking,2581,San Jose,CA,Kumar Srikantan,2018
+59,Chatbooks,Software,2555,Provo,UT,Nate Quigley,2018
+60,Azure Knowledge Corporation,Digital content / media / entertainment,2534,Piscatway,NJ,Jay Ruparel,2018
+61,"Innoviva , Inc.",Biotechnology / pharmaceutical,2476,Brisbane,CA,,2018
+62,YouAppi,Software,2437,San Francisco,CA,Moshe Vaknin,2018
+63,Prodigy Game,Software,2387,Burlington,ON,Rohan Mahimker,2018
+64,MoneyLion,Software,2338,New York,NY,Dee Choubey,2018
+65,ShipHawk,Software,2298,Santa Barbara,CA,Jeremy Bodenhamer,2018
+66,"White Ops , Inc.",Software,2122,New York,NY,Sandeep Swadia,2018
+67,"QASymphony , Inc.",Software,2053,Atlanta,GA,Dave Keil,2018
+68,Owned Outcomes Inc.,Software,1974,Las Vegas,NV,Anita Pramoda,2018
+69,Skuid,Software,1951,Chattanooga,TN,Ken McElrath,2018
+70,Kenna Security,Software,1912,San Francisco,CA,Karim Toubba,2018
+71,Radius Networks,Software,1855,Washington,DC,Marc Wallace,2018
+72,Fever,Digital content / media / entertainment,1847,New York,NY,Ignacio Bachiller,2018
+73,"Braze , Inc.",Software,1844,New York,NY,Bill Magnuson,2018
+74,Lob.com Inc.,Software,1811,San Francisco,CA,Leore Avidar,2018
+75,Rumble,Digital content / media / entertainment,1757,Toronto,ON,Chris Pavlovski,2018
+76,Databricks Inc.,Software,1728,San Francisco,CA,Ali Ghodsi,2018
+77,GridGain Systems,Software,1724,Foster City,CA,Abe Kleinfeld,2018
+78,"Alkami Technology , Inc.",Software,1724,Plano,TX,Mike Hansen,2018
+79,"Exelixis , Inc.",Biotechnology / pharmaceutical,1702,Alameda,CA,"Michael M. Morrissey , Ph.D.",2018
+80,"TransEnterix , Inc.",Medical devices,1673,Morrisville,NC,Todd M. Pope,2018
+81,Newline Interactive,Electronic devices / hardware,1666,Plano,TX,Kevin Wang,2018
+82,Wave,Software,1647,Toronto,ON,Kirk Simpson,2018
+83,Springbot,Software,1640,Atlanta,GA,Brooks Robinson,2018
+84,"Concert Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,1578,Lexington,MA,Roger Tung,2018
+85,UpNest,Software,1533,Burlingame,CA,Simon Ru,2018
+86,OppLoans,Software,1527,Chicago,IL,Jared Kaplan,2018
+87,Influitive,Software,1523,Toronto,ON,Mark Organ,2018
+88,"Imprimis Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,1513,San Diego,CA,Mark L. Baum,2018
+89,"Sarepta Therapeutics , Inc.",Biotechnology / pharmaceutical,1484,Cambridge,MA,Douglas S. Ingram,2018
+90,ClassPass Inc.,Software,1483,New York,NY,Fritz Lanman,2018
+91,Dialekta,Digital content / media / entertainment,1444,Montreal,QC,Cyril Chaib,2018
+92,Health Care.com,Digital content / media / entertainment,1421,Miami,FL,Howard Yeh,2018
+93,Service Titan,Software,1385,Glendale,CA,Ara Mahdessian,2018
+94,"Fulgent Genetics , Inc.",Biotechnology / pharmaceutica,1366,Temple City,CA,Ming Hsieh,2018
+95,"FTE Networks , Inc.",Communications / networking,1338,Naples,FL,Michael Palleschi,2018
+96,Matterport,Software,1303,Sunnyvale,CA,Bill Brown,2018
+97,VOTI Detection,Software,1299,Saint - Laurent,ос,Rory Olson,2018
+98,Passport,Software,1263,Charlotte,NC,Bob Youakim,2018
+99,Egalet Corp,Biotechnology / pharmaceutical,1261,Wayne,PA,Robert Radie,2018
+100,ANEXIO,Communications / networking,1250,Raleigh,NC,Tony Pompliano,2018
+101,Left,Communications / networking,1242,Maple Ridge,BC,Christopher Jensen,2018
+102,Remitly,Software,1209,Seattle,WA,Matt Oppenheimer,2018
+103,Vidyard,Software,1198,Kitchener,ON,Michael Litt,2018
+104,"PowerReviews , Inc.",Software,1173,Chicago,IL,Matt Moog,2018
+104,"Apollo Endosurgery , Inc.",Biotechnology / pharmaceutical,1166,Austin,TX,Todd Newton,2018
+105,"Trinity Technology Partners , Inc",Software,1161,Greenbelt,MD,Bruce E. Lansdowne,2018
+106,TripleLift,Digital content / media / entertainment,1156,New York,NY,Eric Berry,2018
+107,Whistle Sports,Digital content / media / entertainment,1154,New York,NY,John West,2018
+108,Foodee,Software,1145,Vancouver,BC,Ryan Spong,2018
+109,"Eagle Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,1139,Woodcliff Lake,NJ,Scott Tarriff,2018
+110,Payfone,Software,1132,New York,NY,Rodger Desai,2018
+111,FixMeStick Technologies Inc.,Software,1132,Montreal,QC,Marty Algire,2018
+112,Strawhouse Inc.,Digital content / media / entertainment,1125,Kelowna,BC,Mark How,2018
+113,Headspace,Digital content / media / entertainment,1122,Santa Monica,CA,Rich Pierson,2018
+114,Signs.com,Software,1112,Salt Lake City,UT,Kirk Green,2018
+115,"Advaxis , Inc.",Biotechnology / pharmaceutical,1103,Princeton,NJ,Kenneth A. Berlin,2018
+116,Vectra,Software,1099,San Jose,CA,Hitesh Sheth,2018
+117,Dynamic Yield,Software,1018,New York,NY,Liad Agmon,2018
+118,Tanium Inc.,Software,995,Emeryville,CA,Orion Hindawi,2018
+119,Examity,Software,984,Newton,MA,Michael London,2018
+120,Scalefast,Software,959,El Segundo,CA,Nicolas Stehle,2018
+121,Refresh Financial,Software,934,Kelowna,BC,Michael Wendland,2018
+122,TouchBistro,Software,928,Toronto,ON,Alex Barrotti,2018
+123,district m,Digital content / media / entertainment,926,Montreal,QC,Jean - François Cote,2018
+124,Vydia,Digital content / media / entertainment,916,Holmdel,NJ,Roy Lamanna,2018
+125,"Segment.io , Inc.",Software,912,San Francisco,CA,Peter Reinhardt,2018
+126,Redis Labs,Software,910,Mountain View,CA,Ofer Bengal,2018
+127,"Yapta , Inc.",Software,901,Seattle,WA,James Filsinger,2018
+128,Phenom People,Software,899,Ambler,PA,Mahe Bayireddi,2018
+129,"Looking Glass Cyber Solutions , Inc.",Software,883,Reston,VA,Chris Coleman,2018
+130,Central Reach,Software,881,Pompano Beach,FL,Chris Sullens,2018
+131,Distil Networks,Software,872,Arlington,VA,Tiffany Olson Kleemann,2018
+132,Greenhouse,Software,863,New York,NY,Daniel Chait,2018
+133,Hireology,Software,834,Chicago,IL,Adam Robinson,2018
+134,Diply,Digital content / media / entertainment,830,London,ON,Taylor Ablitt,2018
+135,Koddi,Software,826,Fort Worth,TX,George Popstefanov,2018
+136,StackAdapt Inc.,Software,821,Toronto,ON,Ildar Shaw,2018
+137,Zipwhip,Software,818,Seattle,WA,John Lauer,2018
+138,Leanplum,Software,809,San Francisco,CA,Momchil Kyurkchiev,2018
+139,Mersive Technologies,Software,806,Denver,со,Robert Balgley,2018
+140,Carbon Credit Solutions,Software,804,Airdrie,AB,Ed Alfke,2018
+141,The Muse,Digital content / media / entertainment,796,New York,NY,Kathryn Minshew,2018
+142,Zeel,Software,783,New York,NY,Samer Hamadeh,2018
+143,PlanGrid,Software,775,San Francisco,CA,Tracy Young,2018
+144,Anaplan,Software,766,San Francisco,CA,Frank Calderoni,2018
+145,Doximity,Software,757,San Francisco,CA,Jeff Tangney,2018
+146,Félix & Paul Studios,Digital content / media / entertainment,755,Montreal,ос,Stéphane Rituit,2018
+147,Snapsheet,Software,755,Chicago,IL,Brad Weisberg,2018
+148,Volante Systems,Software,704,Toronto,ON,Joseph Lee,2018
+149,Kinova,Electronic devices / hardware,699,Boisbriand,QC,Charles Deguire,2018
+150,"Blueprint Technologies , LLC",Software,696,Bellevue,WA,Ryan Neal,2018
+151,Verified First LLC,Software,695,Meridian,ID,Devon Dickinson,2018
+152,Truveris,Software,683,New York,NY,Jeff Eberle,2018
+153,TickPick,Digital content / media / entertainment,682,New York,NY,Brett Goldberg,2018
+154,Visier,Software,679,Vancouver,BC,John Schwarz,2018
+155,"PTC Therapeutics , Inc.",Biotechnology / pharmaceutical,670,South Plainfield,NJ,Staurt W. Peltz,2018
+156,TodayTix,Digital content / media / entertainment,668,New York,NY,Brian Fenty,2018
+157,Eastside Games Inc.,Digital content / media / entertainment,663,Vancouver,BC,Joshua Nilson,2018
+158,JFrog,Software,654,Sunnyvale,CA,Shlomi Ben Haim,2018
+159,Maropost,Software,650,Toronto,ON,Ross Paquette,2018
+160,Ayuda Media Systems Inc.,Digital content / media / entertainment,647,Montreal,QC,Luc Filatreault,2018
+161,Allego,Software,646,Needham Heights,MA,Yuchun Lee,2018
+162,"Health Union , LLC",Digital content / media / entertainment,622,Philadelphia,PA,Olivier Chateau,2018
+163,TapClicks,Software,616,San Jose,CA,Babak Hedayati,2018
+164,Conversion Labs,Biotechnology / pharmaceutical,608,New York,NY,Justin Schreiber,2018
+165,Ratehub,Software,605,Toronto,ON,Alyssa Furtado,2018
+166,Newtrax Technologies Inc.,Electronic devices / hardware,600,Montreal,QC,Alexandre Cervinka,2018
+167,"Excel Impact , LLC",Digital content / media / entertainment,594,Medina,OH,Alex Matseikovich,2018
+168,"Trade Desk , Inc.",Software,592,Ventura,CA,Jeff Green,2018
+169,MMB Networks,Software,591,Toronto,ON,Tim Angus,2018
+170,Welltok,Software,584,Denver,со,Jeff Margolis,2018
+171,"iSpot.tv , Inc.",Software,572,Bellevue,WA,Sean Muller,2018
+172,Artsy,Digital content / media / entertainment,570,New York,NY,Carter Cleveland,2018
+173,Advantum Health,Software,569,Louisville,KY,Venkat Sharma,2018
+174,"The Revenue Optimization
+Companies ( T - ROC )",Software,554,Coral Gables,FL,Brett Beveridge,2018
+175,Unitas Global,Communications / networking,548,Los Angeles,CA,Patrick Shutt,2018
+176,"ProPhase Labs , Inc.",Biotechnology / pharmaceutical,548,Doylsetown,PA,Ted William Karkus,2018
+177,Index Exchange,Digital content / media / entertainment,548,Toronto,ON,Andrew Casale,2018
+178,SRAX,Digital content / media / entertainment,544,Los Angeles,CA,Chris Miglino,2018
+179,Mapbox,Software,542,Washington,DC,Eric Gundersen,2018
+180,Mavenlink,Software,541,Irvine,CA,Ray Grainger,2018
+181,Wrike,Software,539,San Jose,CA,Andrew Filev,2018
+182,MacStadium,Communications / networking,536,Atlanta,GA,Gregory McGraw,2018
+183,CallRail,Software,530,Atlanta,GA,Andy Powell,2018
+184,Definitive Healthcare,Software,528,Framingham,MA,Jason Krantz,2018
+185,Lucidchart,Software,525,South Jordan,UT,Karl Sun,2018
+186,Prodigy Ventures Inc.,Software,520,Toronto,ON,Tom Beckerman,2018
+187,"Agenus , Inc.",Medical devices,515,Lexington,MA,Garo Armen,2018
+188,Klipfolio,Software,514,Ottawa,ON,Allan Wille,2018
+189,WealthForge,Software,513,Richmond,VA,Bill Robbins,2018
+190,"Relatient , Inc.",Software,507,Franklin,TN,Michele Perry,2018
+191,"Nutanix , Inc.",Software,503,San Jose,CA,Dheeraj Pandey,2018
+192,"Corcept Therapeutics , Inc.",Biotechnology / pharmaceutical,500,Menlo Park,CA,Joseph K. Belanoff,2018
+193,Canada Drives,Software,500,Vancouver,BC,Cody Green,2018
+194,Morning Consult,Software,496,Washington,DC,Michael Ramlet,2018
+195,Industry Dive,Digital content / media / entertainment,493,Washington,DC,Sean Griffey,2018
+196,Arcane Digital,Digital content / media / entertainment,491,London,ON,Lindsay Schneider,2018
+197,Pure Storage,Electronic devices / hardware,486,Mountain View,CA,Charles Giancarlo,2018
+198,PagerDuty,Software,486,San Francisco,CA,Jennifer Tejada,2018
+199,Sortable,Software,483,Kitchener,ON,Christopher Reid,2018
+200,Top Hat,Software,481,Toronto,ON,Mike Silagadze,2018
+201,TraceLink,Software,480,North Reading,MA,Shabbir Dahod,2018
+202,VALINTRY,Software,478,Winter Park,FL,Daryl Dixon,2018
+203,Cloudnexa,Software,477,Philadelphia,PA,Joel Davne,2018
+204,GSoft,Software,476,Montréal,QC,Simon De Baene,2018
+205,AppLovin,Digital content / media / entertainment,474,Palo Alto,CA,Adam Foroughi,2018
+206,"Hortonworks , Inc.",Software,469,Santa Clara,CA,Rob Bearden,2018
+207,Andrea Electronics Corp,Digital content / media / entertainment,468,Bohemia,NY,Douglas J. Andrea,2018
+208,POSITIVEID Corp,Digital content / media / entertainment,467,Delray Beach,FL,William J. Caragol,2018
+209,Kabbage,Software,467,Atlanta,GA,Rob Frohwein,2018
+210,Couchbase,Software,462,Santa Clara,CA,Matt Cain,2018
+212,OneStream Software,Software,461,Rochester,MI,Tom Shea,2018
+213,Sharecare,Software,455,Atlanta,GA,Jeff Arnold,2018
+214,ReliaQuest,Software,451,Tampa,FL,Brian Murphy,2018
+215,"Retrophin , Inc.",Biotechnology / pharmaceutical,449,San Diego,CA,Stephen J. Aselage,2018
+216,Sales Loft,Software,448,Atlanta,GA,Kyle Porter,2018
+217,"Dialpad , Inc.",Software,446,San Francisco,CA,Craig Walker,2018
+218,Onapsis Inc.,Software,444,Boston,MA,Mariano Nunez,2018
+219,Quid,Software,436,San Francisco,CA,Bob Goodson,2018
+220,"Domo , Inc.",Software,436,American Fork,UT,Josh James,2018
+221,Phobio,Electronic devices / hardware,434,Atlanta,GA,Stephen Wakeling,2018
+222,BuyATab Online Inc.,Software,433,Vancouver,BC,Johann Tergesen,2018
+223,"ViewRay , Inc.",Medical devices,432,Oakwood Village,OH,Scott Drake,2018
+224,Coupa Software,Software,431,San Mateo,CA,Robert Bernshteyn,2018
+225,Ambassador Software,Software,429,Royal Oak,MI,Jeffrey Epstein,2018
+226,"Yieldmo , Inc.",Software,423,New York,NY,Michael Yavonditte,2018
+227,Contactability,Software,419,Costa Mesa,CA,Lev Barinskiy,2018
+228,ObservePoint,Software,419,Provo,UT,Rob Seolas,2018
+229,Dashlane,Software,410,New York,NY,Emmanuel Schalit,2018
+230,Unbounce,Software,409,Vancouver,BC,Rick Perreault,2018
+231,KLDiscovery,Software,409,McLean,VA,Christopher Weiler,2018
+232,Social Tables,Software,396,Washington,DC,Dan Berger,2018
+233,"Blucora , Inc.",Software,391,Irving,TX,John S. Clendening,2018
+234,PureCars,Software,390,Atlanta,GA,Sam Mlyrea,2018
+235,"Amag Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,390,Waltham,MA,William K. Heiden,2018
+236,Axonify,Software,390,Waterloo,ON,Carol Leaman,2018
+237,Mobile Posse,Software,387,Arlington,VA,Jon Jackson,2018
+238,Sauce Labs,Software,386,San Francisco,CA,Charles Ramsey,2018
+239,Smartsheet,Software,378,Bellevue,WA,Mark Mader,2018
+240,ZipRecruiter,Software,378,Santa Monica,CA,lan Siegel,2018
+241,Resolver Inc.,Software,378,Toronto,ON,Will Anderson,2018
+242,Druva,Software,376,Sunnyvale,CA,Jaspreet Singh,2018
+243,SendtoNews Video,Digital content / media / entertainment,372,Victoria,BC,Matthew Watson,2018
+244,"Pieris Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,371,Boston,MA,Stephen S. Yoder,2018
+245,Course Hero,Software,371,Redwood City,CA,Andrew Grauer,2018
+246,Zadara,Software,367,Irvine,CA,Nelson Nahum,2018
+247,"Ziopharm Oncology , Inc.",Biotechnology / pharmaceutical,365,Boston,MA,Laurence J. N. Cooper,2018
+248,LogMeIn,Software,361,Boston .,MA,Bill Wagner,2018
+249,Avant,Software,360,Chicago,IL,Al Goldstein,2018
+250,"Cloudera , Inc.",Software,354,Palo Alto,CA,Tom Reilly,2018
+251,"iRhythm Technologies , Inc.",Medical devices,353,San Francisco,CA,Kevin M. King,2018
+252,"Digital Harbor , Inc.",Software,351,McLean,VA,Rohit Agarwal,2018
+253,IEX,Software,350,New York,NY,Brad Katsuyama,2018
+254,eSentire,Software,349,Cambridge,ON,Kerry Bailey,2018
+255,Twilio,Software,349,San Francisco,CA,Jeff Lawson,2018
+256,Convergent Dental,Medical devices,348,Needham,MA,Michael Cataldo,2018
+257,"HTG Molecular Diagnostics , Inc.",Medical devices,343,Tucson,AZ,Timothy B. Johnson,2018
+258,Plusgrade LP,Software,341,Montreal,QC,Ken Harris,2018
+259,Prolific Interactive,Software,339,New York,NY,Bobak Emamian,2018
+260,MomentFeed,Software,336,Santa Monica,CA,Robert Blatt,2018
+261,GoCanvas,Software,331,Reston,VA,James Quigley,2018
+262,"Vertex Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,329,Boston,MA,Jeffery Leiden,2018
+263,AcuityAds Inc.,Digital content / media / entertainment,328,Toronto,ON,Tal Hayek,2018
+264,Onit,Software,327,Houston,TX,Eric M. Elfman,2018
+265,Gimbal,Digital content / media / entertainment,327,Los Angeles,CA,Rob Emrich,2018
+266,"Alimera Sciences , Inc",Biotechnology / pharmaceutical,326,Alpharetta,GA,Dan Myers,2018
+267,Aquantia Corp,Semiconductor,322,San Jose,CA,Faraj Aalaei,2018
+268,GumGum,Software,319,Santa Monica,CA,Ophir Tanz,2018
+269,Delphix,Software,318,Redwood City,CA,Chris Cook,2018
+270,"ICU Medical , Inc.",Medical devices,318,San Clemente,CA,Vivek Jain,2018
+271,Urjanet,Software,317,Atlanta,GA,Sanjoy Malik,2018
+271,New Relic,Software,317,San Francisco,CA,Lew Cirne,2018
+272,P2Sample,Digital content / media / entertainment,310,Alpharetta,GA,Mathijs De Jong,2018
+273,"Alliqua BioMedical , Inc.",Biotechnology / pharmaceutical,309,Langhorne,PA,David Johnson,2018
+274,"Clovis Oncology , Inc.",Biotechnology / pharmaceutical,307,Boulder,со,Patrick J. Mahaffy,2018
+275,SiteLock,Software,306,Scottsdale,AZ,Neill Feather,2018
+276,Avani Technology Solutions,Software,305,Rochester,NY,Sameer Penakalapati,2018
+277,"Inovio Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,304,Plymouth Meeting,PA,Joseph Kim,2018
+278,Upstream Works Software,Software,304,Vaughan,ON,Robert McDougall,2018
+279,Tipalti,Software,304,San Mateo,CA,Chen Amit,2018
+280,Oscar Health,Biotechnology / pharmaceutical,303,New York,NY,Mario Schlosser,2018
+281,King Memory,Software,301,Columbus,OH,Darryl Tanner / Chad Crnkovich,2018
+282,DigitalOcean,Software,300,New York,NY,Mark Templeton,2018
+283,"GTT Communications , Inc.",Communications / networking,299,McLean,VA,Rick Calder,2018
+284,Influenster,Digital content / media / entertainment,296,New York,NY,Aydin Acar,2018
+285,"Lexicon Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,295,The Woodlands,TX,Lonnel Coats,2018
+286,Fonteva,Software,291,Arlington,VA,Jerry Huskins,2018
+287,"Ironwood Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,290,Cambridge,MA,Peter Hecht,2018
+288,Voices.com,Digital content / media / entertainment,287,London,ON,David Ciccarelli,2018
+289,ADMA Biologics,Biotechnology / pharmaceutical,285,Ramsey,NJ,Adam Grossman,2018
+290,Fuze,Software,281,Boston,MA,Colin Doherty,2018
+291,Myokardia Inc.,Biotechnology / pharmaceutical,280,South San Francisco,CA,Tassos Anastasios Gianakakos,2018
+292,Gametime,Digital content / media / entertainment,280,San Francisco,CA,Brad Griffith,2018
+293,Tealium,Software,279,San Diego,CA,Jeff Lunsford,2018
+294,Reltio,Software,278,Redwood Shores,CA,Manish Sood,2018
+295,"Hickok , Inc.",Medical devices,278,Cleveland,OH,Brian E. Powers,2018
+296,"Digital Turbine , Inc.",Digital content / media / entertainment,275,Austin,TX,Bill Stone,2018
+297,Xencor Inc.,Biotechnology / pharmaceutical,275,Monrovia,CA,"Bassil I. Dahiyat , Ph.D.",2018
+298,Chef Software Inc.,Software,274,Seattle,WA,Barry Crist,2018
+299,Quanterix,Biotechnology / pharmaceutical,273,Lexington,MA,Kevin Hrusovsky,2018
+300,AdTheorent,Digital content / media / entertainment,273,New York,NY,Executive Team,2018
+301,Cision,Software,271,Chicago,IL,Kevin D. Akeroyd,2018
+302,QGenda,Software,268,Atlanta,GA,Greg Benoit,2018
+303,FSAstore.com/HSAstore.com,Digital content / media / entertainment,268,New York,NY,Jeremy S. Miller,2018
+304,CytoSorbents Corporation,Medical devices,267,Monmouth Junction,NJ,"Phillip P. Chan , M.D. , Ph.D.",2018
+305,eOriginal .,Software,266,Baltimore,MD,Brian Madocks,2018
+306,Maximum Games,Digital content / media / entertainment,265,Walnut Creek,CA,Christina Seelye,2018
+307,Modernizing Medicine,Software,264,Boca Raton,FL,Daniel Cane,2018
+308,n2grate,Communications / networking,263,Greenbelt,MD,Steve Halligan,2018
+309,"Research Innovations , Inc.",Software,263,Alexandria,VA,Jack Harrington,2018
+310,Sojern,Software,263,San Francisco,CA,Mark Rabe,2018
+311,Inphi Corp,Semiconductor,262,Santa Clara,CA,Dr. Ford Tamer,2018
+312,Snipp Interactive,Software,262,Toronto,ON,Atul Sabharwal,2018
+313,Malwarebytes,Software,260,Santa Clara,CA,Marcin Kleczynski,2018
+314,"AxoGen , Inc.",Biotechnology / pharmaceutical,259,Alachua,FL,Karen Zaderej,2018
+315,"Array Biopharma , Inc.",Biotechnology / pharmaceutical,259,Boulder,со,Ron Squarer,2018
+316,SmartDrive Systems,Software,258,San Diego,CA,Steve Mitgang,2018
+317,"Instructure , Inc.",Software,258,Salt Lake City,UT,Josh Coates,2018
+318,NimbeLink,Electronic devices / hardware,256,Plymouth,MN,Scott Schwalbe,2018
+319,"Celldex Therapeutics , Inc.",Biotechnology / pharmaceutical,255,Hampton,NJ,Anthony S. Marucci,2018
+320,Dealer - FX,Software,255,Markham,ON,Gary Kalk,2018
+321,Copperleaf,Software,255,Vancouver,BC,Judi Hess,2018
+322,"Sensus Healthcare , Inc.",Medical devices,254,Boca Raton,FL,Joseph C. Sardano,2018
+323,Health Catalyst,Software,254,Salt Lake City,UT,Dan Burton,2018
+324,CLEAR,Software,253,New York,NY,Caryn Seidman Becker,2018
+325,UserTesting,Software,253,San Francisco,CA,Andy MacMillan,2018
+326,Turbonomic,Software,252,Boston,MA,Benjamin Nye,2018
+327,Pioneering Technology,Energy tech,252,Mississauga,ON,Kevin Callahan,2018
+328,Glaukos Corp,Medical devices,249,San Clemente,CA,Thomas W. Burns,2018
+329,Acero Health Technologies,Software,247,Alexandria,VA,Alan Merchant,2018
+330,symplr,Software,247,Houston,TX,Rick Pleczko,2018
+331,Nextremity Solutions,Medical devices,247,Warsaw,IN,Rod Mayer,2018
+332,Alteryx,Software,246,Irvine,CA,Dean Stoecker,2018
+333,"Semler Scientific , Inc.",Medical devices,243,San Jose,CA,"Douglas Murphy - Chutorian , M.D.",2018
+334,BlackLine,Software,243,Los Angeles,CA,Therese Tucker,2018
+335,Biz2Credit Inc.,Software,242,New York,NY,Rohit Arora,2018
+336,"Zscaler , Inc.",Software,242,San Jose,CA,Jay Chaudhry,2018
+337,Seal Software,Software,239,Walnut Creek,CA,Ulf Zetterberg,2018
+338,"Zendesk , Inc.",Software,239,San Francisco,CA,Mikkel Svane,2018
+339,Big Viking Games,Software,239,London,ON,Albert Lai,2018
+340,JW Player,Software,236,New York,NY,Dave Otten,2018
+341,"Workday , Inc.",Software,236,Pleasanton,CA,Aneel Bhusri,2018
+342,HireVue,Software,231,South Jordan,UT,Kevin Parker,2018
+343,Zillow Group,Software,230,Seattle,WA,Spencer Rascoff,2018
+344,"Macrogenics , Inc.",Biotechnology / pharmaceutical,230,Rockville,MD,Scott Koenig,2018
+345,Vanda Pharmaceuticals Inc.,Biotechnology / pharmaceutical,229,Washington,DC,"Mihael H. Polymeropoulos , M.D.",2018
+346,Sonatype,Software,228,Fulton,MD,Wayne Jackson,2018
+347,AvidXchange .,Software,228,Charlotte,NC,Michael Praeger,2018
+348,Higher Logic,Software,228,Arlington,VA,Kevin Boyce,2018
+349,"Supernus Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,226,Rockville,MD,Jack A. Khattar,2018
+350,Facebook Inc,Software,226,Menlo Park,CA,Mark Zuckerberg,2018
+351,Vendasta,Software,225,Saskatoon,SK,Brendan King,2018
+352,Demandbase,Software,225,San Francisco,CA,Chris Golec,2018
+353,Ondot Systems Inc.,Software,224,Santa Clara,CA,Bharghavan Vaduvur,2018
+354,"HubSpot , Inc.",Software,224,Cambridge,MA,Brian Halligan,2018
+355,Convercent,Software,224,Denver,со,Patrick Quinlan,2018
+356,"Corindus Vascular Robotics , Inc.",Medical devices,223,Waltham,MA,Mark Toland,2018
+357,Xevo,Software,221,Bellevue,WA,Dan Gittleman,2018
+358,Intrexon Corp,Biotechnology / pharmaceutical,221,Germantown,MD,Randal J. Kirk,2018
+359,"Box , Inc.",Software,221,Redwood City,CA,Aaron Levie,2018
+360,"Cypress Semiconductor
+Corporation",Semiconductor,221,San Jose,CA,Hassane El - Khoury,2018
+361,"Moda Operandi , Inc",Digital content / media / entertainment,219,New York,NY,Ganesh Srivats,2018
+362,33Across,Digital content / media / entertainment,219,New York,NY,Eric Wheeler,2018
+363,Agilis Systems,Software,218,St. Louis,MO,Paul Inman,2018
+364,Buildium,Software,218,Boston,MA,Chris Litster,2018
+365,Nakisa,Software,216,Montreal,ос,Babak Varjavandi,2018
+366,"Ani Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,216,Baudette,MN,Arthur Przybyl,2018
+367,"Maxlinear , Inc.",Semiconductor,216,Carlsbad,CA,"Kishore Seendripu , Ph.D.",2018
+368,360insights,Software,216,Whitby,ON,Jason Atkins,2018
+369,Nuxeo,Software,214,Brooklyn,NY,Eric Barroca,2018
+370,Rokt,Software,214,New York,NY,Bruce Buchanan,2018
+371,Splunk,Software,214,San Francisco,CA,Doug Merritt,2018
+372,"ForeScout Technologies , Inc.",Software,211,San Jose,CA,Michael DeCesare,2018
+373,Foursquare,Software,210,New York,NY,Jeff Glueck,2018
+374,Jornaya,Digital content / media / entertainment,210,Conshohocken,PA,Ross Shanken,2018
+375,"NeuroMetrix , Inc.",Medical devices,210,Waltham,MA,Shai N. Gozani,2018
+376,PrinterLogic,Software,210,St. George,UT,Ryan Wedig,2018
+377,Clio,Software,208,Burnaby,BC,Jack Newton,2018
+378,PrecisionLender,Software,205,Cary,NC,Carl Ryden,2018
+379,SOTI,Software,204,Mississauga,ON,Carl Rodrigues,2018
+380,Financeit,Software,204,Toronto,ON,Michael Garrity,2018
+381,ScienceLogic,Software,203,Reston,VA,David Link,2018
+382,Parkmobile,Software,203,Atlanta,GA,Jon Ziglar,2018
+383,"Invuity , Inc.",Medical devices,202,San Francisco,CA,Philip Sawyer,2018
+384,AppFolio,Software,202,Santa Barbara,CA,Jason Randall,2018
+385,Inside Ventures,Digital content / media / entertainment,201,Overland Park,KS,Trevor Nohe,2018
+386,AXS,Software,200,Los Angeles,CA,Bryan Perez,2018
+387,Incyte Corp,Biotechnology / pharmaceutical,200,Wilmington,DE,Hervé Hoppenot,2018
+388,Uberflip,Software,200,Toronto,ON,Yoav Schwartz,2018
+389,Uken Games,Digital content / media / entertainment,199,Toronto,ON,Chris Ye,2018
+390,Zapproved,Software,199,Portland,OR,Monica Enand,2018
+391,Greenphire,Software,199,King Of Prussia,PA,Jim Murphy,2018
+392,Igloo Software,Software,199,Kitchener,ON,Dan Latendre,2018
+393,Tier1 CRM Inc.,Software,198,Toronto,ON,Mark Notten,2018
+394,"Rethink Autism , Inc.",Software,197,New York,NY,Daniel A. Etra,2018
+395,Vena Solutions,Software,197,Toronto,ON,Shawn Cadeau,2018
+396,"Axtria , Inc.",Software,197,Berkeley Heights,NJ,Jaswinder Chadha,2018
+397,Oportun,Software,197,San Carlos,CA,Raul Vazquez,2018
+398,EVERFI,Software,196,Washington,DC,Tom Davidson,2018
+399,Gubagoo,Software,195,Boca Raton,FL,Brad Title,2018
+400,Redfin,Software,195,Seattle,WA,Glenn Kelman,2018
+401,Palo Alto Networks,Software,194,Santa Clara,CA,Mark D. McLaughlin,2018
+402,Tricentis,Software,194,Mountain View,CA,Sandeep Johri,2018
+403,"PlayAGS , Inc.",Digital content / media / entertainment,194,Las Vegas,NV,David B. Lopez,2018
+404,"IZEA Worldwide , Inc.",Digital content / media / entertainment,194,Winter Park,FL,Ted Murphy,2018
+405,"Applied Optoelectronics , Inc.",Communications / networking,193,Sugar Land,TX,Dr. Thompson Lin,2018
+406,Cognitive Medical Systems,Software,193,San Diego,CA,"Emory Fry , M.D.",2018
+407,Eddyfi Technologies,Electronic devices / hardware,192,Quebec,QC,Martin Theriault,2018
+408,"TixTrack , Inc",Software,192,Santa Monica,CA,Steven Sunshine,2018
+409,Rodeo FX Inc.,Digital content / media / entertainment,191,Montreal,QC,Sebastien Moreau,2018
+410,"Paratek Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,191,Boston,MA,Michael F. Bigham,2018
+411,Paragon Bioservices,Biotechnology / pharmaceutical,190,Baltimore,MD,Pete Buzy,2018
+412,Wahoo Fitness,Electronic devices / hardware,189,Atlanta,GA,Chip Hawkins,2018
+413,"Castlight Health , Inc.",Software,188,San Francisco,CA,John Doyle,2018
+414,Paycom,Software,187,Oklahoma City,OK,Chad Richison,2018
+415,"Vox Media , Inc.",Digital content / media / entertainment,186,Washington,DC,Jim Bankoff,2018
+416,Vetsource,Software,186,Portland,OR,Kurt Green,2018
+417,"Cancer Genetics , Inc.",Biotechnology / pharmaceutical,186,Rutherford,NJ,John A. Roberts,2018
+418,Cloud for Good,Software,185,Asheville,NC,Tal Frankfurt,2018
+419,Interaxon,Electronic devices / hardware,184,Toronto,ON,Derek Luke,2018
+420,Appnovation,Software,184,Vancouver,BC,Arnold Leung,2018
+421,DiscoverOrg,Software,184,Vancouver,WA,Henry Schuck,2018
+422,ClickDimensions,Software,183,Atlanta,GA,Mike Dickerson,2018
+423,"Net Element , Inc.",Software,183,North Miami Beach,FL,Oleg Firer,2018
+424,"ServiceNow , Inc.",Software,183,Santa Clara,CA,John Donahoe,2018
+425,ISAAC Instruments,Communications / networking,183,Chambly,QC,Jacques De Larochellière,2018
+426,Nextiva,Software,182,Scottsdale,AZ,Tomas Gorny,2018
+427,"Arista Networks , Inc.",Software,182,Santa Clara,CA,Jayshree Ullal,2018
+428,Acrelec America,Software,181,Pittsburgh,PA,Frank Amoruso,2018
+429,OnShift,Software,180,Cleveland,OH,Mark Woodka,2018
+430,XOMA Corp,Biotechnology / pharmaceutical,179,Emeryville,CA,James R. Neal,2018
+431,Blackline Safety,Electronic devices / hardware,178,Calgary,AB,Cody Slater,2018
+432,"Dexcom , Inc.",Medical devices,177,San Diego,CA,Kevin Sayer,2018
+433,"Meet Group , Inc.",Digital content / media / entertainment,176,New Hope,PA,Geoffrey Cook,2018
+434,Broadleaf Commerce,Software,176,Plano,TX,Brian Polster,2018
+435,Athena Software,Software,174,Waterloo,ON,Geoff Bellew,2018
+436,Thycotic,Software,174,Washington,DC,James Legg,2018
+437,Q4 Inc.,Software,173,Toronto,ON,Darrell Heaps,2018
+438,Geotab,Software,173,Oakville,ON,Neil Cawse,2018
+439,Liquidus,Digital content / media / entertainment,172,Chicago,IL,Todd Holmes,2018
+440,Innovid,Software,172,New York,NY,Zvika Netter,2018
+441,Limeade,Software,172,Bellevue,WA,Henry Albrecht,2018
+442,C3 Metrics,Digital content / media / entertainment,171,Portsmouth,ΝΗ,Mark Hughes,2018
+443,Pfenex Inc.,Biotechnology / pharmaceutical,170,San Diego,CA,Eef Schimmelpennink,2018
+444,Skytap,Software,170,Seattle,WA,Thor Culverhouse,2018
+445,"U.S. Stem Cell , Inc.",Medical devices,169,Sunrise,FL,Michael Tomas,2018
+446,SailPoint,Software,168,Austin,TX,Mark McClain,2018
+447,Aventri,Software,168,Norwalk,CT,Oni Chukwu,2018
+448,Skyword,Software,166,Boston,MA,Tom Gerace,2018
+449,"Penumbra , Inc.",Medical devices,166,Alameda,CA,Adam Elsesser,2018
+450,"Momenta Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,166,Cambridge,MA,Craig A. Wheeler,2018
+451,Riva CRM Integration,Software,165,Edmonton,AB,Aldo Zanoni,2018
+452,Aeryon Labs Inc.,Electronic devices / hardware,164,Waterloo,ON,Bill McHale,2018
+453,ORBCOMM,Electronic devices / hardware,164,Rochelle Park,NJ,Marc Eisenberg,2018
+454,"Qorvo , Inc.",Semiconductor,164,Greensboro,NC,Robert Bruggeworth,2018
+455,Fleet Complete,Software,164,Toronto,ON,Andonios Lourakis,2018
+456,Quantenna,Semiconductor,164,San Jose,CA,Dr. Sam Heidari,2018
+457,"NantHealth , Inc.",Medical devices,164,Culver City,CA,Patrick Soon - Shiong,2018
+458,"Proofpoint , Inc.",Software,163,Sunnyvale,CA,Gary Steele,2018
+459,"Acacia Communications , Inc.",Semiconductor,163,Maynard,MA,Murugesan Shanmugaraj,2018
+460,"Ichor Holdings , Ltd.",Semiconductor,163,Fremont,CA,Thomas M. Rohrs,2018
+461,Accurate Background,Software,162,Irvine,CA,Dave Dickerson,2018
+462,"SendGrid , Inc.",Software,162,Denver,со,Sameer Dholakia,2018
+463,MINDBODY,Software,161,San Luis Obispo,CA,Rick Stollmeyer,2018
+464,Pluralsight,Software,161,Farmington,UT,Aaron Skonnard,2018
+465,Klick,Digital content / media / entertainment,161,Toronto,ON,Leerom Segal,2018
+466,"Square , Inc.",Software,160,San Francisco,CA,Jack Dorsey,2018
+467,ANGI Homeservices Inc.,Digital content / media / entertainment,160,Golden,со,Chris Terrill,2018
+468,Agreement Express,Software,159,Vancouver,BC,Mike Gardner,2018
+469,"Veeva Systems , Inc.",Software,159,Pleasanton,CA,Peter Gassner,2018
+470,ScribbleLive,Digital content / media / entertainment,158,Toronto,ON,Efrem Ainsley,2018
+471,Ellie Mae,Software,158,Pleasanton,CA,Jonathan Corr,2018
+472,Avalara,Software,158,Seattle,WA,Scott McFarlane,2018
+473,"Abiomed , Inc.",Medical devices,158,Danvers,MA,Michael R. Minogue,2018
+474,"Avid Bioservices , Inc.",Biotechnology / pharmaceutical,157,Tustin,CA,Roger J. Lias,2018
+475,Indellient,Software,157,Oakville,ON,Adam Caromicoli,2018
+476,CadmiumCD,Software,157,Forest Hill,MD,Michelle Wyatt,2018
+477,In Rhythm,Software,156,New York,NY,Gunjan Doshi,2018
+478,TicketManager,Software,155,Calabasas,CA,Tony Knopp,2018
+479,Budget Dumpster,Software,155,Westlake,OH,John Fenn,2018
+480,InfoTrust,Digital content / media / entertainment,155,Blue Ash,OH,Alex Yastrebenetsky,2018
+481,EventMobi,Software,154,Toronto,ON,Bob Vaez,2018
+482,Durect Corp,Biotechnology / pharmaceutical,153,Cupertino,CA,James E. Brown,2018
+483,"Cemtrex , Inc.",Electronic devices / hardware,153,Farmingdale,NY,Saagar Govil,2018
+484,Conversica,Software,152,Foster City,CA,Alex Terry,2018
+485,Nulogy,Software,150,Toronto,ON,Jason Tham,2018
+486,Simplify Healthcare,Software,150,Southfield,MI,Mohammed Vaid,2018
+487,"Intersect ENT , Inc.",Medical devices,150,Menlo Park,CA,Lisa Earnhardt,2018
+488,Orbital Tracking Corp.,Communications / networking,148,Aventura,FL,David Phipps,2018
+489,"Zoom Telephonics , Inc.",Software,147,Boston,MA,Frank B. Manning,2018
+490,Devada,Digital content / media / entertainment,147,Research Triangle,Park NC,Matt Tormollen,2018
+491,Archer,Software,147,Berwyn,PA,Bryan Dori,2018
+492,"Sooryen Technologies , Inc.",Software,146,Oradell,NJ,Ram Ganesan,2018
+493,Genomind,Biotechnology / pharmaceutical,146,King of Prussia,PA,Michael Koffler,2018
+494,"Everbridge , Inc.",Software,146,Burlington,MA,Jaime Ellertson,2018
+495,"MKS Instruments , Inc.",Semiconductor,145,Andover,MA,Gerald G. Colella,2018
+496,"Q2 Holdings , Inc.",Software,145,Austin,TX,Matt Flake,2018
+497,"US Tech Solutions , Inc.",Software,144,Jersey City,NJ,Manoj Agarwal,2018
+498,PayLease,Software,144,San Diego,CA,Dirk Wakeham,2018
+499,"Tracon Pharmaceuticals , Inc.",Medical devices,143,San Diego,CA,Charles P. Theuer,2018
+500,Netwrix Corporation,Software,143,Irvine,CA,Steve Dickson,2018
+1,UiPath,Software,37458,New York,NY,Daniel Dines,2019
+2,"Sarepta Therapeutics , Inc.",Biotechnology / pharmaceutical,23925,Cambridge,MA,Douglas Ingram,2019
+3,AuditBoard,Software,16682,Los Angeles,CA,Daniel Kim / Jay Lee,2019
+4,Outreach,Software,16069,Seattle,WA,Manny Medina,2019
+5,"iLearning Engines , Inc.",Software,15846,Bethesda,MD,Harish Chidambaran,2019
+6,Urgently,Software,11624,Vienna,VA,Chris Spanos,2019
+7,SentinelOne,Software,10275,Mountain View,CA,Tomer Weingarten,2019
+8,Wibbitz,Software,9083,New York,NY,Zohar Dayan,2019
+9,LendingPoint,Software,8813,Kennesaw,GA,Tom Burnside,2019
+10,"Fortress Biotech , Inc.",Biotechnology / pharmaceutical,8463,New York,NY,Lindsay A. Rosenwald,2019
+11,"Ideanomics , Inc.",Software,8100,New York,NY,Alfred Poor,2019
+12,Auvik Networks,Software,7914,Waterloo,ON,Marc Morin,2019
+13,LumenAd,Software,7392,Missoula,MT,Ryan Hansen,2019
+14,App Orchid Inc,Software,6782,San Ramon,CA,Krishna Kumar,2019
+15,Swan Leap,Software,6383,Madison,WI,Brad Hollister,2019
+16,"Intercept Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,6363,New York,NY,Mark Pruzanski,2019
+17,Ecopia.Al,Software,6186,Toronto,ON,Yuanming Shu,2019
+18,Podium,Software,5391,Lehi,UT,Eric Rea,2019
+19,Unison,Software,5280,San Francisco,CA,Thomas Sponholtz,2019
+20,Drips,Software,4966,Akron,OH,"Aaron Christopher "" AC "" Evans",2019
+21,Terminus,Software,4679,Atlanta,GA,Tim Kopp,2019
+22,"10x Genomics , Inc.",Biotechnology / pharmaceutical,4667,Pleasanton,CA,Serge Saxonov,2019
+23,PeerStreet,Software,4586,El Segundo,CA,Brewster Johnson,2019
+24,West Creek,Software,4405,Glen Allen,VA,Rob Finnegan,2019
+25,Arctic Wolf Networks,Software,4327,Sunnyvale,CA,Brian NeSmith,2019
+26,Pendo,Software,4304,Raleigh,NC,Todd Olson,2019
+27,Green Print,Energy tech,4281,Atlanta,GA,Pete Davis,2019
+28,FullStory,Software,4147,Atlanta,GA,Scott Voigt,2019
+29,"Arrowhead Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,4126,Pasadena,CA,Christopher Anzalone,2019
+30,Mojio,Software,4056,Vancouver,BC,Kenny Hawk,2019
+31,"Vislink Technologies , Inc.",Digital content / media / entertainment,4009,Hackettstown,NJ,Roger G. Branton,2019
+32,"Helix TCS , Inc.",Software,3805,Denver,со,Zachary L. Venegas,2019
+33,Asset Panda,Software,3779,Frisco,TX,Rex Kurzius,2019
+34,"Accelerate Diagnostics , Inc.",Medical devices,3757,Tucson,AZ,Lawrence Mehren,2019
+35,Patient Pop,Software,3723,Santa Monica,CA,Luke Kervin / Travis Schneider,2019
+36,DataCamp,Software,3437,New York,NY,Martijn Theuwissen,2019
+37,Feedonomics,Software,3371,Woodland Hills,CA,Shawn Lipman,2019
+38,FLEXE,Software,3338,Seattle,WA,Karl Siebrecht,2019
+39,SoClean,Medical devices,3280,Peterborough .,ΝΗ,Robert Wilkins,2019
+40,Flexiti,Software,3245,Orangeville,ON,Peter Kalen,2019
+41,Highspot .,Software,3172,Seattle,WA,Robert Wahbe,2019
+42,Copper,Software,3085,San Francisco,CA,Dennis Fois,2019
+43,"Regenxbio , Inc.",Biotechnology / pharmaceutical,2901,Rockville,MD,Ken Mills,2019
+44,Nozomi Networks,Software,2791,San Francisco,CA,Edgard Capdevielle,2019
+45,Ayla Networks,Software,2784,Milpitas,CA,Jon Cobb,2019
+46,"NXT - ID , Inc.",Software,2675,Melbourne,FL,Gino M. Pereira,2019
+47,Fivetran,Software,2644,Oakland,CA,George Fraser,2019
+48,Calendly,Software,2588,Atlanta,GA,Tope Awotona,2019
+49,Solovis,Software,2582,Irving,TX,Josh Smith,2019
+50,Shipbob,Software,2550,Chicago,IL,Dhruv Saxena,2019
+51,ShipMonk,Software,2471,Fort Lauderdale,FL,Jan Bednar,2019
+52,Fattmerchant,Software,2447,Orlando,FL,Suneera Madhani,2019
+53,"lota Communications , Inc.",Software,2391,Allentown,PA,Terrence DeFranco,2019
+54,Databricks,Software,2349,San Francisco,CA,Ali Ghodsi,2019
+55,KnowBe4,Software,2337,Clearwater,FL,Stu Sjouwerman,2019
+56,"VTV Therapeutics , Inc.",Biotechnology / pharmaceutical,2296,High Point,NC,Stephen L. Holcombe,2019
+57,"Fitness Cubed , Inc.",Electronic devices / hardware,2295,Chicago,IL,Arnav Dalmia,2019
+58,Aarki,Software,2276,Sunnyvale,CA,Siddhartha Bhatt,2019
+59,Ridgeline International,Communications / networking,2272,Tysons Corner,VA,Erik Wittreich,2019
+60,"Exelixis , Inc.",Biotechnology / pharmaceutical,2197,Alameda,CA,"Michael M. Morrissey , PhD",2019
+61,"Neurocrine Biosciences , Inc.",Biotechnology / pharmaceutical,2183,San Diego,CA,"Kevin C. Gorman , PhD",2019
+62,Quadrant Resource,Software,2123,Redmond,WA,Vamshi Kancharakuntla,2019
+63,"Digital Turbine , Inc.",Software,2117,Austin,TX,Bill Stone,2019
+64,Acima Credit,Software,2005,Sandy,UT,Aaron Allred,2019
+65,Noom,Medical devices,1938,New York,NY,Saeju Jeong,2019
+66,Phononic,Semiconductor,1934,Durham,NC,Dr. Tony Atti,2019
+67,"Radius Networks , Inc.",Software,1915,Washington,DC,Marc Wallace,2019
+68,"Snap , Inc.",Software,1912,Santa Monica,CA,Evan Spiegel,2019
+69,"Editas Medicine , Inc.",Biotechnology / pharmaceutical,1861,Cambridge,MA,Cynthia ( Cindy ) Collins,2019
+70,Fusion Recruiting Labs,Software,1852,Red Bank,NJ,Alexander McKeown,2019
+71,Clarifai,Software,1842,New York,NY,Matthew Zeiler,2019
+72,Axiom,Software,1821,O'Fallon,MO,Michael J. Reth,2019
+73,Autho,Software,1813,Bellevue,WA,Eugenio Pace,2019
+74,Impact Analytics,Software,1806,Linthicum,MD,Prashant Agrawal,2019
+75,mParticle,Software,1752,New York,NY,Michael Katz,2019
+76,Freshly,Software,1724,New York,CA,Michael Wystrach,2019
+77,Bluecore,Software,1718,New York,NY,Fayez Mohamood,2019
+78,"Adamas Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,1677,Emeryville,CA,Gregory T. Went,2019
+79,MindTickle,Software,1676,San Francisco,CA,Krishna Depura,2019
+80,Virtual Health,Software,1664,New York,NY,Adam Sabloff,2019
+81,CampusLogic,Software,1639,Chandler,AZ,Gregg Scoresby,2019
+82,"Quantum Metric , Inc.",Software,1575,Monument,со,Mario Ciabarra,2019
+83,"Audioeye , Inc.",Software,1570,Tucson,AZ,Todd A. Bankofier,2019
+84,"Lytics , Inc.",Software,1565,Portland,OR,James McDermott,2019
+85,Andela,Software,1527,New York,NY,Jeremy Johnson,2019
+86,Scientist.com,Biotechnology / pharmaceutical,1522,Solana Beach,CA,"Kevin Lustig , PhD",2019
+87,Salsify,Software,1507,Boston,MA,Jason Purcell,2019
+88,HopSkipDrive,Software,1484,Los Angeles,CA,Joanna McFarland,2019
+89,"Fuse Medical , Inc.",Medical devices,1471,Richardson,TX,Christopher C. Reeg,2019
+90,Cloudbeds,Software,1451,San Diego,CA,Adam Harris,2019
+91,OppLoans,Software,1435,Chicago,IL,Jared Kaplan,2019
+92,Left,Communications / networking,1424,Maple Ridge,BC,Chris Jensen,2019
+93,Centripetal,Communications / networking,1418,Herndon,VA,Steven Rogers,2019
+94,QOS Networks,Communications / networking,1418,Irvine,CA,Frank Cittadino,2019
+95,HomeLight,Digital content / media / entertainment,1403,San Francisco,CA,Drew Uher,2019
+96,Roadmunk,Software,1378,Toronto,ON,Latif Nanji,2019
+97,GlassView,Digital content / media / entertainment,1337,New York,NY,James G. Brooks,2019
+98,Loopio,Software,1330,Toronto,ON,Zak Hemraj,2019
+99,"Attivo Networks , Inc",Software,1288,Fremont,CA,Tushar Kothari,2019
+100,Azure Knowledge Corporation,Digital content / media / entertainment,1288,Piscataway,NJ,Jay Ruparel,2019
+101,Carta,Software,1287,San Francisco,CA,Henry Ward,2019
+102,SimpleNexus,Software,1280,Lehi,UT,Matt Hansen,2019
+103,AppCard Inc,Software,1262,New York,NY,Yair Goldfinger,2019
+104,"Neos Therapeutics , Inc.",Biotechnology / pharmaceutical,1218,Grand Prairie,TX,Jerry McLaughlin,2019
+105,XY - The Persistent Company,Software,1210,San Diego,CA,Arie Trouw,2019
+106,Tulip,Software,1210,Toronto,ON,Ali Asaria,2019
+107,PowerInbox,Software,1201,New York,NY,Jeff Kupietzky,2019
+108,"Viveve Medical , Inc.",Medical devices,1180,Englewood,со,Scott Durbin,2019
+109,Dataminr,Software,1166,New York,NY,Ted Bailey,2019
+110,Markforged,Electronic devices / hardware,1157,Watertown,MA,Gregory Mark,2019
+111,"Crowdstreet , Inc.",Software,1131,Portland,OR,Tore Steen,2019
+112,VOTI Detection Inc.,Software,1124,Saint - Laurent,QC,Rory Olson,2019
+113,G2,Software,1116,Chicago,IL,Godard Abel,2019
+114,Newline Interactive,Electronic devices / hardware,1109,Plano,TX,Kevin Wang,2019
+115,Signifyd,Software,1084,San Jose,CA,Rajesh Ramanand,2019
+116,UpNest,Software,1078,Burlingame,CA,Simon Ru,2019
+117,Exact Sciences Corp,Biotechnology / pharmaceutical,1052,Madison,WI,Kevin Conroy,2019
+118,Spin Car,Software,1047,Syracuse,NY,Devin Daly,2019
+119,Kenna Security,Software,1045,San Francisco,CA,Karim Toubba,2019
+120,Phenom People,Software,1045,Ambler,PA,Mahe Bayireddi,2019
+121,Wellframe,Software,1045,Boston,MA,Jacob Sattelmair,2019
+122,Juvo Mobile,Communications / networking,1036,San Francisco,CA,Steve Polsky,2019
+123,"Service Titan , Inc.",Software,1031,Glendale,CA,Ara Mahdessian,2019
+124,Discuss.io,Software,1013,Seattle,WA,Zach Simmons,2019
+125,Algolia,Software,1005,San Francisco,CA,Nicolas Dessaigne,2019
+126,Decipher Technology Studios,Software,995,Alexandria,VA,Chris Holmes,2019
+127,Reonomy,Software,990,New York,NY,Rich Sarkis,2019
+128,Cluep,Software,986,Toronto,ON,Karan Walia,2019
+129,WorkFusion,Software,974,New York,NY,Alex Lyashok,2019
+130,Alkami,Software,958,Plano,TX,Mike Hansen,2019
+131,Rumble,Digital content / media / entertainment,955,Toronto,ON,Chris Pavlovski,2019
+132,Gametime,Digital content / media / entertainment,952,San Francisco,CA,Brad Griffith,2019
+133,Eagle Eye Networks,Electronic devices / hardware,936,Austin,TX,Dean Drako,2019
+134,Evolve Vacation Rental,Software,927,Denver,со,Brian Egan,2019
+135,Convergent Energy + Power,Energy tech,920,New York,NY,Johannes Rittershausen,2019
+136,Prodigy Education,Software,909,Burlington,ON,Rohan Mahimker,2019
+137,Advantum Health,Software,898,Louisville,KY,,2019
+138,"Pieris Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,893,Boston,MA,Stephen S. Yoder,2019
+139,Big Switch,Software,874,Santa Clara,CA,Douglas Murray,2019
+140,ActiveCampaign,Software,870,Chicago,IL,Jason Vande Boom,2019
+141,Volanté Systems,Software,868,North York,ON,Sunil Selby,2019
+142,La Jolla Pharmaceutical Co.,Biotechnology / pharmaceutical,851,San Diego,CA,George F. Tidmarsh,2019
+143,Forter,Software,846,New York,NY,Michael Reitblat,2019
+144,StackAdapt,Software,843,Toronto,ON,Ildar Sharafutdinov,2019
+145,Nuvectra Corp,Medical Devices,832,Plano,TX,Fred B. Parks,2019
+146,"Gravy Analytics , Inc.",Software,824,Sterling,VA,Jeff White,2019
+147,Harbor Compliance,Software,810,Lancaster,PA,Mike Montali,2019
+148,GridGain Systems,Software,797,Foster City,CA,Abe Kleinfeld,2019
+149,TripleLift,Digital content / media / entertainment,790,New York,NY,Eric Berry,2019
+150,Remitly,Software,780,Seattle,WA,Matt Oppenheimer,2019
+151,Devo Technology,Software,775,Cambridge,MA,Walter Scott,2019
+152,DISCO,Software,774,Austin,TX,Kiwi Camara,2019
+153,Device42,Software,770,West Haven,CT,Raj Jalan,2019
+154,Liftoff,Software,759,Palo Alto,CA,Mark Ellis,2019
+155,Health Care.com,Digital content / media / entertainment,759,Miami,FL,Howard Yeh,2019
+156,"Trinity Technology Partners , Inc.",Software,751,Greenbelt,MD,Bruce E. Lansdowne,2019
+157,"Epizyme , Inc.",Biotechnology / pharmaceutical,748,Cambridge,MA,Robert Bazemore,2019
+158,Turo,Software,747,San Francisco,CA,Andre Haddad,2019
+159,Sightline,Software,744,Las Vegas,NV,Kirk Sanford,2019
+160,Lob,Software,727,San Francisco,CA,Leore Avidar,2019
+161,Fundera,Software,722,New York,NY,Jared Hecht,2019
+162,AUDIENCEX,Digital content / media / entertainment,709,Marina Del Rey,CA,Reeve Benaron,2019
+163,"Mohawk Group Holdings , Inc.",Software,707,New York,NY,Yaniv Sarig,2019
+164,LowestRates.ca,Software,705,Toronto,ON,Justin Thouin,2019
+165,Kira Systems,Software,693,Toronto,ON,Noah Waisberg,2019
+166,"PTC Therapeutics , Inc.",Biotechnology / pharmaceutical,681,South Plainfield,NJ,Stuart R. Peltz,2019
+167,"ViewRay , Inc.",Medical devices,679,Oakwood Village,OH,Scott Drake,2019
+168,CytomX,Biotechnology / pharmaceutical,672,South San Francisco,CA,Sean A. McCarthy,2019
+169,"09 Solutions , Inc.",Software,669,Dallas,TX,Chakri Gottemukkala,2019
+170,Zenoti,Software,669,Bellevue,WA,Sudheer Koneru,2019
+171,"Agence Dialekta , Inc.",Digital content / media / entertainment,669,Montréal,ос,Cyril Chaib,2019
+172,"VividCortex , Inc.",Software,650,Charlottesville,VA,Amena Ali,2019
+173,"Mapbox , Inc.",Software,644,Washington .,DC,Eric Gundersen,2019
+174,Insticator,Digital content / media / entertainment,643,New York,NY,Zack Dugow,2019
+175,"Vydia , Inc.",Digital content / media / entertainment,636,Holmdel,NJ,Roy LaManna,2019
+176,LiveSafe Inc.,Software,636,Arlington,VA,Carolyn Parent,2019
+177,3Gtms,Software,633,Shelton,CT,Mitch Weseley,2019
+178,Jobber,Software,625,Edmonton,AB,Sam Pillar,2019
+179,TouchBistro,Software,620,Toronto,ON,Alex Barrotti,2019
+180,Piano,Software,615,New York,NY,Trevor Kaufman,2019
+181,Adaptive Biotechnologies,Biotechnology / pharmaceutical,614,Seattle,WA,Chad Robins,2019
+182,Snap Raise,Software,608,Seattle,WA,Cole Morgan,2019
+183,Salute Mission Critical,Communications / networking,600,Clinton TWP,MI,Jason Okroy,2019
+184,Binary Fountain,Software,598,McLean,VA,Ramu Potarazu,2019
+185,Payfone,Software,596,New York,NY,Rodger Desai,2019
+186,PathFactory,Software,587,Toronto,ON,Dev Ganesan,2019
+187,"Ranker , Inc.",Digital content / media / entertainment,586,Los Angeles,CA,Clark Benson,2019
+188,"Zipwhip , Inc.",Software,584,Seattle,WA,John Lauer,2019
+189,"Conversion Labs , Inc.",Digital content / media / entertainment,583,New York,NY,Justin Schreiber,2019
+190,"Sorrento Therapeutics , Inc.",Biotechnology / pharmaceutical,581,San Diego,CA,Dr. Henry Ji,2019
+191,Sidecar,Software,576,Philadelphia,PA,Andre Golsorkhi,2019
+192,Icertis,Software,573,Bellevue,WA,Samir Bodas,2019
+193,Springbot,Software,573,Atlanta,GA,Brooks Robinson,2019
+194,Qubole,Software,573,Santa Clara,CA,Ashish Thusoo,2019
+195,Forward Financing,Software,573,Boston,MA,Justin Bakes,2019
+196,Gather,Software,570,Atlanta,GA,Nicholas Miller,2019
+197,Afiniti,Software,561,Washington,DC,Zia Chishti,2019
+198,"LiftForward , Inc.",Software,552,New York,NY,Jeffrey Rogers,2019
+199,CrossInstall,Software,547,San Francisco,CA,Jeff Marshall,2019
+200,TrackTik,Software,544,Montréal,QC,Simon Ferragne,2019
+201,Examity,Software,542,Newton,MA,Michael London,2019
+202,Mersive Technologies,Software,541,Denver,со,Rob Balgley,2019
+203,Owned Outcomes,Software,540,Las Vegas,NV,Anita Pramoda,2019
+204,Vectra Al,Software,535,San Jose,CA,Hitesh Sheth,2019
+205,Redis Labs,Software,533,Mountain View,CA,Ofer Bengal,2019
+206,"Inspire Medical Systems , Inc.",Medical Devices,531,Golden Valley,MN,Timothy P. Herbert,2019
+207,OneStream Software,Software,528,Rochester,MI,Tom Shea,2019
+208,Orgenesis Inc.,Biotechnology / pharmaceutical,527,Germantown,MD,Vered Caplan,2019
+209,Health Union,Digital content / media / entertainment,521,Philadelphia,PA,Olivier Chateau,2019
+210,The Muse,Digital content / media / entertainment,520,New York,NY,Kathryn Minshew,2019
+211,Newsela,Digital content / media / entertainment,520,New York,NY,Matthew Gross,2019
+212,Visier,Software,516,Vancouver,BC,John Schwarz,2019
+213,Strawhouse Inc.,Digital content / media / entertainment,512,Kelowna,BC,Jason Kryski,2019
+214,Passport,Software,510,Charlotte,NC,Bob Youakim,2019
+215,Index Exchange,Digital content / media / entertainment,509,Toronto,ON,Andrew Casale,2019
+216,Sabio Mobile,Digital content / media / entertainment,508,Santa Monica,CA,Aziz Rahim,2019
+217,Paladin,Software,506,Burnaby,BC,Ted Reid,2019
+218,Innovaccer,Software,506,San Francisco,CA,Abhinav Shashank,2019
+219,CB Insights,Software,497,New York,NY,Anand Sanwal,2019
+220,Formlabs,Electronic devices / hardware,496,Somerville,MA,Max Lobovsky,2019
+221,Hireology,Software,493,Chicago,IL,Adam Robinson,2019
+222,Vanrx Pharmasystems,Biotechnology / pharmaceutical,493,Burnaby,BC,Chris Procyshyn,2019
+223,Foodee Inc.,Software,493,Vancouver,BC,Ryan Spong,2019
+224,Gimbal,Digital content / media / entertainment,489,Los Angeles,CA,Rob Emrich,2019
+225,"Pure Storage , Inc.",Software,487,Mountain View,CA,Charles Giancarlo,2019
+226,GuildOne,Software,485,Calgary,AB,James Graham,2019
+227,Apixio,Software,483,San Mateo,CA,"Darren Schulte , MD",2019
+228,"Dermira , Inc.",Biotechnology / pharmaceutical,480,Menlo Park,CA,Thomas G. Wiggans,2019
+229,"Telaria , Inc.",Software,474,New York,NY,Mark S. Zagorski,2019
+230,Oscar,Biotechnology / pharmaceutical,473,New York,NY,Mario Schlosser,2019
+231,Feedzai,Software,472,San Mateo,CA,Nuno Sebastiao,2019
+232,Central Reach,Software,471,Pompano Beach,FL,Chris Sullens,2019
+233,RiskLens,Software,470,Spokane,WA,Nick Sanna,2019
+234,Morning Consult,Software,470,Washington,DC,Michael Ramlet,2019
+235,"CloudCommerce , Inc.",Software,465,Santa Barbara,CA,Andrew Van Noy,2019
+236,Aura,Software,464,San Francisco,CA,James Gutierrez,2019
+237,Excel Impact LLC,Digital content / media / entertainment,458,North Miami,FL,Alex Matseikovich,2019
+238,Wave,Software,457,Toronto,ON,Kirk Simpson,2019
+239,Nevro Corp,Medical devices,456,Redwood City,CA,Keith Grossman,2019
+240,"Remark Holdings , Inc.",Digital content / media / entertainment,456,Las Vegas,NV,Kai - Shing Tao,2019
+241,Quizlet,Software,454,San Francisco,CA,Matthew Glotzbach,2019
+242,"CloudBolt Software , Inc.",Software,451,Rockville,MD,Brian Kelly,2019
+243,SheerID,Software,450,Portland,OR,Jake Weatherly,2019
+244,LANDR Audio Inc.,Software,449,Montréal,QC,Pascal Pilon,2019
+245,Motus,Software,449,Boston,MA,Craig Powell,2019
+246,BitSight,Software,447,Boston,MA,Tom Turner,2019
+247,JFrog,Software,445,Sunnyvale,CA,Shlomi Ben Haim,2019
+248,Vidyard,Software,442,Kitchener,ON,Michael Litt,2019
+249,Onit,Software,441,Houston,TX,Eric M. Elfman,2019
+250,Skuid,Software,440,Chattanooga,TN,Ken McElrath,2019
+251,District M,Digital content / media / entertainment,439,Montréal,QC,Jean - François Côté,2019
+252,"Surge Holdings , Inc.",Digital content / media / entertainment,438,Bartlett,TN,Kevin Brian Cox,2019
+253,"HTG Molecular Diagnostics , Inc.",Medical devices,432,Tucson,AZ,John L. Lubniewski,2019
+254,Aucerna,Software,432,Calgary,AB,Wayne Sim,2019
+255,Choozle,Software,431,Denver,со,Andrew Fischer,2019
+256,Race Roster,Digital content / media / entertainment,429,London,ON,Alex Vander Hoeven,2019
+257,BroadbandTV,Digital content / media / entertainment,429,Vancouver,BC,Shahrzad Rafati,2019
+258,Braviant Holdings,Software,423,Chicago,IL,Stephanie Klein,2019
+259,Lucidchart,Software,422,South Jordan,UT,Karl Sun,2019
+260,Doxim,Software,420,Markham,ON,Chris Rasmussen,2019
+261,Built In,Software,419,Chicago,IL,Maria Christopoulos Katris,2019
+262,"Palatin Technologies , Inc.",Biotechnology / pharmaceutical,418,Cranbury,NJ,Carl Spana,2019
+263,Nektar Therapeutics,Biotechnology / pharmaceutical,417,San Francisco,CA,Howard Robin,2019
+264,Tanium Inc.,Software,417,Emeryville,CA,Orion Hindawi / Fazal Merchant,2019
+265,Greenhouse Software,Software,415,New York,NY,Daniel Chait,2019
+266,Bold Innovation Group,Software,414,Winnipeg,MB,Yvan Boisjoli,2019
+267,Definitive Healthcare,Software,413,Framingham,MA,Jason Krantz,2019
+268,MineralTree,Software,407,Cambridge,MA,Micah Remley,2019
+269,Nimbelink,Electronic devices / hardware,407,Plymouth,MN,Scott Schwalbe,2019
+270,Fix Inc.,Software,407,Toronto,ON,James Novak,2019
+271,diff,Software,406,Montréal,QC,Benjamin Crudo,2019
+272,"Intellia Therapeutics , Inc.",Biotechnology / pharmaceutical,404,Cambridge,MA,John Leonard,2019
+273,LeagueApps,Software,402,New York,NY,Brian Litvack,2019
+274,Service Lane eAdvisor,Software,401,Sterling Heights,MI,David Bruszewski,2019
+275,"Corcept Therapeutics , Inc.",Biotechnology / pharmaceutical,400,Menlo Park,CA,Joseph K. Belanoff,2019
+276,CytoSorbents Corp,Medical devices,399,Monmouth Junction,NJ,"Phillip P. Chan , MD , PhD",2019
+277,TickPick,Digital content / media / entertainment,396,New York,NY,Brett Goldberg,2019
+278,Course Hero,Software,396,Redwood City,CA,Andrew Grauer,2019
+279,Aspire Software,Software,390,Chesterfield,MO,Mark Tipton,2019
+280,Buyatab Online Inc.,Software,389,Vancouver,BC,Matias Marquez,2019
+281,CallRail,Software,387,Atlanta,GA,Andy Powell,2019
+282,Anaplan,Software,386,San Francisco,CA,Frank Calderoni,2019
+283,"Innoviva , Inc.",Biotechnology / pharmaceutical,384,Brisbane,CA,Geoffrey Hulme,2019
+284,"Snapsheet , Inc.",Software,379,Chicago,IL,Brad Weisberg,2019
+285,"Nutanix , Inc.",Software,379,San Jose,CA,Dheeraj Pandey,2019
+286,Smartsheet,Software,378,Bellevue,WA,Mark Mader,2019
+287,Apptentive,Software,377,Seattle,WA,Robi Ganguly,2019
+288,Uken Games,Digital content / media / entertainment,377,Toronto,ON,Chris Ye,2019
+289,PoliteMail Software,Software,376,Portsmouth,ΝΗ,Michael Des Rochers,2019
+290,"Blucora , Inc.",Digital content / media / entertainment,376,Irving,TX,John S. Clendening,2019
+291,"Dialpad , Inc.",Software,376,San Francisco,CA,Craig Walker,2019
+292,SendtoNews,Digital content / media / entertainment,372,Victoria,BC,Matthew Watson,2019
+293,Movista,Software,372,Bentonville,AR,Stan Zylowski,2019
+294,"Alteryx , Inc.",Software,371,Irvine,CA,Dean Stoecker,2019
+295,"KalVista Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,365,Cambridge,MA,T. Andrew Crockett,2019
+296,"CarGurus , Inc.",Software,361,Cambridge,MA,Langley Steinert,2019
+297,WealthForge,Software,359,Richmond,VA,Bill Robbins,2019
+298,TraceLink,Biotechnology / pharmaceutical,357,North Reading,MA,Shabbir Dahod,2019
+299,EyeKor,Biotechnology / pharmaceutical,350,Madison,WI,Dr. Christopher J. Murphy,2019
+300,Tipalti,Software,346,San Mateo,CA,Chen Amit,2019
+301,Higher Logic,Software,345,Arlington,VA,Kevin Boyce,2019
+302,"LogMeIn , Inc.",Software,343,Boston,MA,Bill Wagner,2019
+303,SentryOne,Software,341,Charlotte,NC,Bob Potter,2019
+304,Industry Dive,Digital content / media / entertainment,341,Washington,DC,Michael Sean Griffey,2019
+305,Verified First,Software,338,Meridian,ID,Devon Dickinson,2019
+306,Ecobee,Electronic devices / hardware,337,Toronto,ON,Stuart Lombard,2019
+307,Wrike,Software,336,San Jose,CA,Andrew Filev,2019
+308,ObservePoint,Software,336,Provo,UT,Robert Seolas,2019
+309,"SmashFly Technologies , Inc.",Software,335,Concord,MA,Thom Kenney,2019
+310,Onapsis,Software,331,Boston,MA,Mariano Nunez,2019
+311,FixMeStick Technologies Inc.,Software,327,Montréal,QC,Marty Algire,2019
+312,"Harrow Health , Inc.",Biotechnology / pharmaceutical,326,Nashville,TN,Mark L. Baum,2019
+313,Assent Compliance,Software,326,Ottawa,ON,Andrew Waitman,2019
+314,Signs.com,Software,324,Salt Lake City,UT,Marty McGhie,2019
+315,Carbon Credit Solutions,Software,322,Airdrie,AB,Ed Alfke,2019
+316,Intelligent Systems Corp,Software,320,Norcross,GA,J. Leland Strange,2019
+317,"The Trade Desk , Inc.",Software,319,Ventura,CA,Jeff Green,2019
+318,Nasuni,Software,319,Boston,MA,Paul Flanagan,2019
+319,Netlist Inc.,Electronic devices / hardware,318,Irvine,CA,Chun Hong,2019
+320,"CV Sciences , Inc.",Biotechnology / pharmaceutical,318,Las Vegas,NV,Joseph D. Dowling,2019
+321,Canada Drives Ltd.,Software,316,Vancouver,BC,Cody Green,2019
+322,GSoft,Software,315,Montréal,ос,Simon De Baene,2019
+323,Segment,Software,313,San Francisco,CA,Peter Reinhardt,2019
+324,Yapta,Software,312,Seattle,WA,James Filsinger,2019
+325,"Couchbase , Inc.",Software,312,Santa Clara,CA,Matt Cain,2019
+326,Reltio,Software,311,Redwood Shores,CA,Manish Sood,2019
+327,"ICU Medical , Inc.",Medical devices,310,San Clemente,CA,Vivek Jain,2019
+328,"Irhythm Technologies , Inc.",Medical devices,308,San Francisco,CA,Kevin M. King,2019
+329,"Avani Technology Solutions , Inc.",Communications / networking,307,Rochester,NY,Sameer Penakalapati,2019
+330,Doximity,Software,307,San Francisco,CA,Jeff Tangney,2019
+331,MacStadium,Communications / networking,306,Atlanta,GA,Gregory McGraw,2019
+332,MessageGears,Software,304,Atlanta,GA,Roger Barnette,2019
+333,"GTT Communications , Inc.",Communications / networking,304,McLean,VA,Rick Calder,2019
+334,QGenda,Software,303,Atlanta,GA,Greg Benoit,2019
+335,LiveRamp,Software,300,San Francisco,CA,Scott Howe,2019
+336,Zadara,Software,298,Irvine,CA,Nelson Nahum,2019
+337,Titan Pharmaceuticals Inc.,Biotechnology / pharmaceutical,296,South San Francisco,CA,Sunil Bhonsle,2019
+338,Pixieset,Digital content / media / entertainment,295,Vancouver,BC,Simon Wong,2019
+339,"Corindus Vascular Robotics , Inc.",Medical devices,295,Waltham,MA,Mark Toland,2019
+340,Unitas Global,Communications / networking,292,Los Angeles,CA,Patrick Shutt,2019
+341,Personalis,Biotechnology / pharmaceutical,292,Menlo Park,CA,John West,2019
+342,Blueprint Medicines Corp,Biotechnology / pharmaceutical,291,Cambridge,MA,Jeff Albers,2019
+343,Twilio Inc,Software,289,San Francisco,CA,Jeff Lawson,2019
+344,Fundrise,Software,288,Washington,DC,Ben Miller,2019
+345,"Bluebird Bio , Inc.",Biotechnology / pharmaceutical,288,Cambridge,MA,Nick Leschly,2019
+346,"Kasisto , Inc.",Software,284,New York,NY,Zor Gorelov,2019
+347,"House Advantage , LLC",Software,283,Las Vegas,NV,Jon Wolfe,2019
+348,"Dashlane , Inc.",Software,282,New York,NY,Emmanuel Schalit,2019
+349,Mavenlink,Software,281,Irvine,CA,Ray Grainger,2019
+350,ZipRecruiter,Software,279,Santa Monica,CA,lan Siegel,2019
+351,"MongoDB , Inc.",Software,279,New York,NY,Dev C. Ittycheria,2019
+352,ISAAC Instruments,Communications / networking,278,"Saint - Bruno - de
+Montarville",ос,Jacques DeLarochellière,2019
+353,"MoSys , Inc.",Semiconductor,278,San Jose,CA,Dan Lewis,2019
+354,"B9Creations , LLC",Electronic devices / hardware,277,Rapid City,SD,Shon Anderson,2019
+355,SalesLoft,Software,275,Atlanta,GA,Kyle Porter,2019
+356,ReliaQuest,Software,275,Tampa,FL,Brian Murphy,2019
+357,"iSpot.tv , Inc.",Digital content / media / entertainment,273,Bellevue,WA,Sean Muller,2019
+358,"T2 Biosystems , Inc.",Biotechnology / pharmaceutical,273,Lexington,MA,John McDonough,2019
+359,"Coupa Software , Inc.",Software,267,San Mateo,CA,Rob Bernshteyn,2019
+360,Thycotic,Software,266,Washington .,DC,James Legg,2019
+361,Tricentis,Software,265,Mountain View,CA,Sandeep Johri,2019
+362,Total Server Solutions,Communications / networking,263,Atlanta,GA,Gary Simat,2019
+363,meQuilibrium,Software,262,Boston,MA,Janesse Bruce,2019
+364,LogicManager,Software,261,Boston,MA,Steven Minsky,2019
+365,Malwarebytes,Software,260,Santa Clara,CA,Marcin Kleczynski,2019
+366,BiggerPockets,Software,257,Denver,со,Scott Trench,2019
+367,eCompliance,Software,257,Toronto,ON,Adrian Bartha,2019
+368,Sauce Labs Inc.,Software,255,San Francisco,CA,Aled Miles,2019
+369,Hazelcast,Software,255,Palo Alto,CA,Kelly Herrell,2019
+370,Vici Media,Digital content / media / entertainment,254,Philadelphia,PA,Todd Schumacher,2019
+371,"Cara Therapeutics , Inc.",Biotechnology / pharmaceutical,254,Stamford,CT,Derek Chalmers,2019
+372,"Zscaler , Inc.",Software,254,San Jose,CA,Jay Chaudhry,2019
+373,UQM Technologies Inc.,Energy tech,253,Longmont,со,Joseph R. Mitchell,2019
+374,Saviynt,Software,252,El Segundo,CA,Amit Saha,2019
+375,Sangoma,Communications / networking,252,Markham,ON,William Wignall,2019
+376,Druva,Software,251,Sunnyvale,CA,Jaspreet Singh,2019
+377,ThousandEyes,Software,250,San Francisco,CA,Mohit Lad,2019
+378,Lendio,Software,250,Lehi,UT,Brock Blake,2019
+379,Ligand Pharmaceuticals Inc.,Biotechnology / pharmaceutical,250,San Diego,CA,John Higgins,2019
+380,Origami Risk,Software,248,Chicago,IL,Robert G. Petrie III,2019
+381,Seller Labs,Software,245,Athens,GA,Hank Harris,2019
+382,"Domo , Inc.",Software,245,American Fork,UT,Josh James,2019
+383,Willow Tree,Software,244,Charlottesville,VA,Tobias Dengel,2019
+384,"MAS Global Consulting , LLC",Software,242,Palm Harbor,FL,Monica Hernandez,2019
+385,SS & C Technologies Holdings Inc.,Software,242,Windsor,CT,William C. Stone,2019
+386,Wahoo Fitness,Electronic devices / hardware,242,Atlanta,GA,Mike Saturnia,2019
+387,PrecisionLender,Software,242,Charlotte,NC,Carl Ryden,2019
+388,"Cloudera , Inc.",Software,241,Palo Alto,CA,Marty Cole,2019
+389,Seal Software,Software,241,Walnut Creek,CA,John O'Melia,2019
+390,Buildertrend,Software,240,Omaha,NE,,2019
+391,AcuityAds Inc.,Digital content / media / entertainment,239,Toronto,ON,Tal Hayek,2019
+392,Tripleseat,Software,239,Concord,MA,Jonathan Morse,2019
+393,GoCanvas,Software,239,Reston,VA,James Quigley,2019
+394,Sonatype,Software,239,Fulton,MD,Wayne Jackson,2019
+395,¡ TechArt Group,Software,239,New York,NY,Sergei Kovalenko,2019
+396,Tresata,Software,238,Charlotte,NC,Abhishek Mehta,2019
+397,Reservations.com,Digital content / media / entertainment,238,Orlando,FL,Yatin Patel,2019
+398,Relatient,Software,234,Franklin,TN,Michele Perry,2019
+399,Behaviour Interactive,Digital content / media / entertainment,234,Montréal,QC,Rémi Racine,2019
+400,Fastly,Software,234,San Francisco,CA,Artur Bergman,2019
+401,"Portola Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,232,South San Francisco,CA,Scott Garland,2019
+402,"Asure Software , Inc.",Software,231,Austin,TX,Patrick F. Goepel,2019
+403,Cardiva Medical,Medical devices,229,Santa Clara,CA,John Russell,2019
+404,"Journey Holding Corporation ( DBA
+Ride Systems and DoubleMap )",Software,228,Indianapolis,IN,Justin Rees,2019
+405,Fleetcomplete,Software,227,Toronto,ON,Andonios ( Tony ) Lourakis,2019
+406,Health - E Commerce,Digital content / media / entertainment,226,New York,NY,Jeremy Miller,2019
+407,InteraXon Inc.,Electronic devices / hardware,225,Toronto,ON,Derek Luke,2019
+408,DiscoverOrg,Software,225,Vancouver,WA,Henry Schuck,2019
+409,Client Command,Digital content / media / entertainment,225,Cumming,GA,Jonathan Lucenay,2019
+410,HVR,Software,224,San Francisco,CA,Anthony Brooks - Williams,2019
+411,KLDiscovery,Software,222,McLean,VA,Christopher Weiler,2019
+412,"Eagle Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,222,Woodcliff Lake,NJ,Scott Tarriff,2019
+413,"New Relic , Inc.",Software,222,San Francisco,CA,Lew Cirne,2019
+414,Plusgrade,Software,221,Montréal,QC,Ken Harris,2019
+415,Vetsource,Biotechnology / pharmaceutical,221,Portland,OR,Kurt Green,2019
+416,"Research Innovations , Inc.",Software,220,Alexandria,VA,Jack Harrington,2019
+417,in Motion Now,Software,218,Morrisville,NC,Ben Hartmere,2019
+418,"Verdant Environmental
+Technologies , Inc.",Electronic devices / hardware,218,Lachine,ос,Alain Belanger,2019
+419,InfoTrust,Digital content / media / entertainment,218,Blue Ash,OH,Alex Yastrebenetsky,2019
+420,Axonify,Software,218,Waterloo,ON,Carol Leaman,2019
+421,Conversica,Software,216,Foster City,CA,Alex Terry,2019
+422,P2Sample,Digital content / media / entertainment,215,Alpharetta,GA,Mathijs de Jong,2019
+423,Terra Tech Corp.,Biotechnology / pharmaceutical,214,Irvine,CA,Derek Peterson,2019
+424,"Meet Group , Inc.",Digital content / media / entertainment,214,New Hope,PA,Geoffrey Cook,2019
+425,Sharecare,Software,214,Atlanta,GA,Jeff Arnold,2019
+426,ANGI Homeservices Inc.,Software,213,Golden,со,Brandon Ridenour,2019
+427,ClearCompany,Software,213,Boston,MA,Andre Lavoie,2019
+428,Copperleaf,Software,213,Vancouver,BC,Judi Hess,2019
+429,Welltok,Software,212,Denver,со,Jeff Margolis,2019
+430,PowerSchool,Software,212,Folsom,CA,Hardeep Gulati,2019
+431,"Facebook , Inc.",Digital content / media / entertainment,211,Menlo Park,CA,Mark Zuckerberg,2019
+432,Tealium,Software,210,San Diego,CA,Jeff Lunsford,2019
+433,Fusion Risk Management,Software,210,Rolling Meadow,IL,David Nolan,2019
+434,"22nd Century Group , Inc.",Biotechnology / pharmaceutical,210,Williamsville,NY,Henry Sicignano III,2019
+435,Delphix,Software,209,Redwood City,CA,Chris Cook,2019
+436,Quanterix Corp.,Medical devices,209,Billerica,MA,Kevin Hrusovsky,2019
+437,In Rhythm,Software,209,New York,NY,Gunjan Doshi,2019
+438,"Axogen , Inc.",Biotechnology / pharmaceutical,207,Alachua,FL,Karen Zaderej,2019
+439,"Semler Scientific , Inc.",Medical devices,207,San Jose,CA,"Douglas Murphy - Chutorian ,
+MD",2019
+440,"Biolife Solutions , Inc.",Biotechnology / pharmaceutical,206,Bothell,WA,Michael Rice,2019
+440,"U.S. Stem Cell , Inc.",Biotechnology / pharmaceutical,206,Sunrise,FL,Michael Tomas,2019
+441,PureCars,Digital content / media / entertainment,206,Atlanta,GA,Sam Mylrea,2019
+442,C3.ai,Software,205,Redwood City,CA,Thomas M. Siebel,2019
+443,Eddyfi Technologies,Electronic devices / hardware,200,Quebec,QC,Martin Theriault,2019
+444,eOriginal,Software,200,Baltimore,MD,Brian Madocks,2019
+445,"Zoom Telephonics , Inc.",Communications / networking,200,Boston,MA,Frank B. Manning,2019
+446,Fuze,Software,199,Boston,MA,Colin Doherty,2019
+447,Geotab,Software,198,Oakville,ON,Neil Cawse,2019
+448,Kabbage,Software,198,Atlanta,GA,Rob Frohwein,2019
+449,Tier1 Financial Solutions,Software,196,Toronto,ON,Mark Notten,2019
+450,rewardStyle,Digital content / media / entertainment,196,Dallas,TX,Baxter Box,2019
+451,Lightspeed Voice,Communications / networking,195,North Venice,FL,Brad Fuller,2019
+452,Vertex Pharmaceuticals Inc.,Biotechnology / pharmaceutical,195,Boston,MA,Jeffery Leiden,2019
+453,"ShotSpotter , Inc.",Software,195,Newark,CA,Ralph A. Clark,2019
+454,"Spark Therapeutics , Inc.",Biotechnology / pharmaceutical,193,Philadelphia,PA,Jeffrey D. Marrazzo,2019
+455,Smarsh,Software,193,Portland,OR,Brian Cramer,2019
+456,Nephros Inc.,Medical devices,193,South Orange,NJ,Daron G. Evans,2019
+457,Unbounce,Software,192,Vancouver,BC,Rick Perreault,2019
+458,Intelligent Video Solutions,Software,192,Waukesha,WI,Kevin Marti,2019
+459,Brillient Corporation,Software,189,Reston,VA,Sukumar lyer,2019
+460,Buffalo Computer Graphics,Software,188,Blasdell,NY,Roy Waas,2019
+461,Uberflip,Software,187,Toronto,ON,Yoav Schwartz,2019
+462,"Zendesk , Inc.",Software,187,San Francisco,CA,Mikkel Svane,2019
+463,YCharts,Software,187,Chicago,IL,Sean Brown,2019
+464,SmartFinancial.com,Software,187,Costa Mesa,CA,Lev Barinskiy,2019
+465,"Instructure , Inc.",Software,186,Salt Lake City,UT,Daniel Goldsmith,2019
+466,"Tenable Holdings , Inc.",Software,186,Columbia,MD,Amit Yoran,2019
+467,"NovaBay Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,186,Emeryville,CA,Justin Hall,2019
+468,"Supernus Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,185,Rockville,MD,Jack A. Khattar,2019
+469,EVERFI,Software,184,Washington,DC,Tom Davidson,2019
+470,"Yext , Inc.",Software,184,New York,NY,Howard Lerman,2019
+471,Ichor Systems,Semiconductor,183,Fremont,CA,Thomas M. Rohrs,2019
+472,PagerDuty,Software,183,San Francisco,CA,Jennifer Tejada,2019
+473,Quid,Software,183,San Francisco,CA,Bob Goodson,2019
+474,iTel,Communications / networking,183,Kamloops,BC,Dan Rink,2019
+475,eSentire,Software,182,Cambridge,ON,Kerry Bailey,2019
+476,"HubSpot , Inc.",Software,182,Cambridge,MA,Brian Halligan,2019
+477,Splunk,Software,182,San Francisco,CA,Doug Merritt,2019
+478,Media Alpha,Software,182,Los Angeles,CA,Steve Yi,2019
+479,SmartDrive Systems,Software,180,San Diego,CA,Steve Mitgang,2019
+480,VALINTRY,Software,180,Winter Park,FL,Daryl Dixon,2019
+481,"DASAN Zhone Solutions , Inc.",Digital content / media / entertainment,180,Oakland,CA,Yung Kim,2019
+482,Gubagoo Inc.,Software,180,Boca Raton,FL,Brad Title,2019
+483,AvidXchange,Software,179,Charlotte,NC,Michael Praeger,2019
+484,Modernizing Medicine,Software,177,Boca Raton,FL,Daniel Cane,2019
+485,Inside Ventures,Digital content / media / entertainment,176,Overland Park,KS,Trevor Nohe,2019
+486,Devolutions Inc.,Software,175,Lachine,QC,David Hervieux,2019
+487,Igloo Software,Software,174,Kitchener,ON,Dan Latendre,2019
+488,Zynex Medical,Medical devices,174,Englewood,со,Thomas Sandgaard,2019
+489,Nextiva,Software,174,Scottsdale,AZ,Tomas Gorny,2019
+490,Agilis Systems,Software,173,Chesterfield,MO,Paul Inman,2019
+491,GPS Trackit,Software,173,Roswell,GA,Keith Schneider,2019
+492,"BlackLine , Inc.",Software,172,Los Angeles,CA,Therese Tucker,2019
+493,"CareDx , Inc.",Biotechnology / pharmaceutical,172,Brisbane,CA,Peter Maag,2019
+494,"Workday , Inc.",Software,172,Pleasanton,CA,Aneel Bhusri,2019
+495,symplr,Software,170,Houston,TX,Rick Pleczko,2019
+496,"Proofpoint , Inc.",Software,170,Sunnyvale,CA,Gary Steele,2019
+497,Clio,Software,170,Burnaby,BC,Jack Newton,2019
+498,Vendasta,Software,170,Saskatoon,SK,Brendan King,2019
+499,Quidel Corp.,Biotechnology / pharmaceutical,166,San Diego,CA,Douglas C. Bryant,2019
+500,Vena Solutions,Software,166,Toronto,ON,Don Mal,2019
+1,"Arrowhead Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,106508,Pasadena,California,Christopher Anzalone,2020
+2,Ultragenyx Pharmaceutical Inc.,Biotechnology / pharmaceutical,77880,Novato,California,Emil D. Kakkis,2020
+3,Branch Metrics,Software & SaaS,48918,Redwood City,California,Alex Austin,2020
+4,OneTrust,Software & SaaS,48337,Atlanta,Georgia,Kabir Barday,2020
+5,Transmit Security,Software & SaaS,45688,Boston,Massachusetts,Mickey Boodaei,2020
+6,Drift,Software & SaaS,35475,Boston,Massachusetts,David Cancel,2020
+7,Karyopharm Therapeutics Inc.,Biotechnology / pharmaceutical,26454,Newton,Massachusetts,Michael G. Kauffman,2020
+8,CharterUP,Software & SaaS,24737,Atlanta,Georgia,Armir Harris,2020
+9,"Cara Therapeutics , Inc.",Biotechnology / pharmaceutical,23023,Stamford,Connecticut,Derek Chalmers,2020
+10,"Akebia Therapeutics , Inc.",Biotechnology / pharmaceutical,21724,Cambridge,Massachusetts,John Butler,2020
+11,FIXD,Electronic devices / hardware,17663,Atlanta,Georgia,John Gattuso,2020
+12,"Collegium Pharmaceutical , Inc.",Biotechnology / pharmaceutical,17241,Stoughton,Massachusetts,Joe Ciaffoni,2020
+13,Traliant,Software & SaaS,16059,"Manhattan
+Beach",California,Mike Pallatta,2020
+14,ApplyBoard,Software & SaaS,12581,Kitchener,Ontario,Martin Basiri,2020
+15,Ada,Software & SaaS,12467,Toronto,Ontario,Mike Murchison,2020
+16,Mistplay,Software & SaaS,11485,Montreal,Quebec,Henri Machalani,2020
+17,"Heron Therapeutics , Inc.",Biotechnology / pharmaceutical,11313,San Diego,California,Barry Quart,2020
+18,"HUNGRY Marketplace , Inc.",Software & SaaS,10914,Arlington,Virginia,Jeff Grass,2020
+19,Nanit,Electronic devices / hardware,10845,New York,New York,Sarah Dorsett,2020
+20,iLearning Engines Inc.,Software & SaaS,10304,Bethesda,Maryland,Harish Chidambaran,2020
+21,PureSpectrum,Software & SaaS,9860,"Westlake
+Village",California,Michael McCrary,2020
+22,Bolt,Software & SaaS,9727,San Francisco,California,Ryan Breslow,2020
+23,"Adamas Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,9452,Emeryville,California,Neil F. McFarlane,2020
+24,Samsara,Software & SaaS,9031,San Francisco,California,Sanjit Biswas,2020
+25,Homie,Software & SaaS,8646,South Jordan,Utah,Johnny Hanna,2020
+26,LeaseQuery,Software & SaaS,8551,Atlanta,Georgia,George Azih,2020
+27,DefinedCrowd,Software & SaaS,8550,Seattle,Washington,Daniela Braga,2020
+28,Ocrolus,Software aas,7919,New York,New York,Sam Bobley,2020
+29,OJO Labs,Software & SaaS,7785,Austin,Texas,John Berkowitz,2020
+30,League,Software & SaaS,7684,Toronto,Ontario,Michael Serbinis,2020
+31,Freestar,"Digital content / media /
+entertainment",7239,Phoenix,Arizona,Kurt Donnell,2020
+32,Consumable Inc.,"Digital content / media /
+entertainment",7174,Jackson,Wyoming,Mark Levin,2020
+33,IntelyCare,Software & SaaS,7047,Quincy,Massachusetts,David Coppins,2020
+34,"Sarepta Therapeutics , Inc.",Biotechnology / pharmaceutical,6925,Cambridge,Massachusetts,Douglas S. Ingram,2020
+35,Semperis,Software & SaaS,6635,New York,New York,Mickey Bresman,2020
+36,Velano Vascular,Medical devices,6063,San Francisco,California,Eric M. Stone,2020
+37,NatGasHub.com,Energy tech,5881,Houston,Texas,Jay Bhatty,2020
+38,Unison,Software & SaaS,5878,San Francisco,California,Thomas Sponholtz,2020
+39,Flexiti,Software & SaaS,5759,Toronto,Ontario,Peter Kalen,2020
+40,Noom,Medical devices,5528,New York,New York,Saeju Jeong,2020
+41,Even Financial,Software & SaaS,5448,New York,New York,Phillip Rosen,2020
+42,Neurocrine Biosciences Inc.,Biotechnology / pharmaceutical,5154,San Diego,California,Kevin C. Gorman,2020
+43,"Fuse Medical , Inc.",Medical devices,3935,Richardson,Texas,Christopher C. Reeg,2020
+44,Exabeam,Software & SaaS,3874,Foster City,California,Nir Polak,2020
+45,"GCI Liberty , Inc.",Software & SaaS,3867,Englewood,Colorado,Ronald A. Duncan,2020
+46,OneSignal,Software & SaaS,3696,San Mateo,California,George Deglin,2020
+47,"Accelerate Diagnostics , Inc.",Medical devices,3679,Tucson,Arizona,Jack Phillips,2020
+48,La Jolla Pharmaceutical Co.,Biotechnology / pharmaceutical,3643,San Diego,California,Larry Edwards,2020
+49,PerimeterX,Software & SaaS,3637,San Mateo,California,Omri Iluz,2020
+50,Gravy Analytics,Software & SaaS,3624,Dulles,Virginia,Jeff White,2020
+51,Mojio,Software & SaaS,3608,Vancouver,British Columbia,Kenny Hawk,2020
+52,Amicus Therapeutics,Biotechnology / pharmaceutical,3576,Cranbury,New Jersey,John F. Crowley,2020
+53,HZO,Electronic devices / hardware,2858,Morrisville,North Carolina,Jim Fahey,2020
+54,"Juniper Square , Inc.",Software & SaaS,2721,San Francisco,California,Alex Robinson,2020
+55,App Orchid,Software & SaaS,2670,San Ramon,California,Vaibhav Nadgauda,2020
+56,Dispatch Health,Medical devices,2591,Denver,Colorado,Mark Prather,2020
+57,Remesh,Software & SaaS,2542,New York,New York,Andrew Konya,2020
+58,Outreach,Software & SaaS,2438,Seattle,Washington,Manny Medina,2020
+59,Quadrant Resource LLC,Software & SaaS,2430,Redmond,Washington,Vamshi Reddy,2020
+60,Twist Bioscience Corp,Biotechnology / pharmaceutical,2297,"South San
+Francisco",California,Emily Leproust,2020
+61,Sift Media,"Digital content / media /
+entertainment",2254,Durham,North Carolina,Jud Bowman,2020
+62,Swan Leap,Software & SaaS,2198,Madison,Wisconsin,Brad Hollister,2020
+63,Awardc,Software SaaS,2183,Orem,Utah,Steve Sonnenberg,2020
+64,Talent.com,Software & SaaS,2035,Montreal,Quebec,Lucas Martinez,2020
+65,Vital Hub Corp.,Software & SaaS,1993,Toronto,Ontario,Dan Matlow,2020
+66,HireArt,Software & SaaS,1969,New York,New York,Chris Forbes,2020
+67,Urgently,Software & SaaS,1968,Vienna,Virginia,Chris Spanos,2020
+68,AuditBoard,Software & SaaS,1947,Cerritos,California,Scott Arnold,2020
+69,Kong Inc.,Software & SaaS,1908,San Francisco,California,Augusto Marietti,2020
+70,Socure,Software & SaaS,1905,New York,New York,Tom Thimot,2020
+71,Fivetran,Software & SaaS,1884,Oakland,California,George Fraser,2020
+72,Acadia Pharmaceuticals Inc.,Biotechnology / pharmaceutical,1856,San Diego,California,Stephen R. Davis,2020
+73,ShipMonk,Software & SaaS,1844,"Fort
+Lauderdale",Florida,Jan Bednar,2020
+74,Pendo,Software & SaaS,1791,Raleigh,North Carolina,Todd Olson,2020
+75,"Corbus Pharmaceuticals Holdings ,
+Inc.",Biotechnology / pharmaceutical,1791,Norwood,Massachusetts,Yuval Cohen,2020
+76,Seeq,Software & SaaS,1738,Seattle,Washington,Steve Sliwa,2020
+77,Cubii,Electronic devices / hardware,1506,Chicago,Illinois,Arnav Dalmia,2020
+78,KeyMe,Electronic devices / hardware,1495,New York,New York,Greg Marsh,2020
+79,OwnBackup,Software & SaaS,1486,"Englewood .
+Cliffs",New Jersey,Sam Gutmann,2020
+80,"LiveBarn , Inc.","Digital content / media /
+entertainment",1453,Montreal,Quebec,Farrel Miller,2020
+81,Illumio,Software & SaaS,1397,Sunnyvale,California,Andrew Rubin,2020
+82,Total Expert,Software & SaaS,1350,Minneapolis,Minnesota,Joe Welu,2020
+83,PayRange,Electronic devices / hardware,1325,Portland,Oregon,Paresh Patel,2020
+84,Auvik Networks,Software & SaaS,1306,Waterloo,Ontario,Marc Morin,2020
+85,"Alastin Skincare , Inc.",Biotechnology / pharmaceutical,1305,Carlsbad,California,Diane S. Goostree,2020
+86,Hiya,Software & SaaS,1303,Seattle,Washington,Alex Algard,2020
+87,FLEXE,Software & SaaS,1297,Seattle,Washington,Karl Siebrecht,2020
+88,Impact Analytics,Software & SaaS,1291,Linthicum,Maryland,Prashant Agrawal,2020
+89,PeerStreet,Software & SaaS,1290,El Segundo,California,Brew Johnson,2020
+90,Cybrary,Software & SaaS,1284,College Park,Maryland,Ryan Corey,2020
+91,"Lytics , Inc.",Software & SaaS,1273,Portland,Oregon,James McDermott,2020
+92,Wavo.me Inc.,"Digital content / media /
+entertainment",1268,Montreal,Quebec,Conor Clarke,2020
+93,Better.com,Software & SaaS,1257,New York,New York,Vishal Garg,2020
+94,DataCamp,Software & SaaS,1232,New York,New York,Martijn Theuwissen,2020
+95,FloQast,Software & SaaS,1205,Los Angeles,California,Mike Whitmire,2020
+96,"Workato , Inc.",Software & SaaS,1198,Mountain View,California,Vijay Tella,2020
+97,Calendly,Software & SaaS,1180,Atlanta,Georgia,Tope Awotona,2020
+98,Freshly,Software & SaaS,1176,New York,New York,Michael Wystrach,2020
+99,"Eye Point Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,1157,Watertown,Massachusetts,Nancy Lurker,2020
+100,Podium,Software & SaaS,1148,Lehi,Utah,Eric Rea,2020
+101,Highspot,Software & SaaS,1145,Seattle,Washington,Robert Wahbe,2020
+102,GROUND FLOOR,Software & SaaS,1142,Atlanta,Georgia,Brian Dally,2020
+103,"lota Communications , Inc.",Software & SaaS,1140,Phoenix,Arizona,Terrence DeFranco,2020
+104,Arctic Wolf,Software & SaaS,1131,Sunnyvale,California,Brian NeSmith,2020
+105,Drips,Software & SaaS,1115,Akron,Ohio,"Aaron Christopher ( AC )
+Evans",2020
+106,FullStory,Software & SaaS,1114,Atlanta,Georgia,Scott Voigt,2020
+107,Cuebiq Inc.,Software & SaaS,1092,New York,New York,Antonio Tomarchio,2020
+108,Quantum Metric,Software & SaaS,1086,"Colorado
+Springs",Colorado,Mario Ciabarra,2020
+109,KnowBe4,Software & SaaS,1083,Clearwater,Florida,Stu Sjouwerman,2020
+110,jSonar,Software & SaaS,1083,Waltham,Massachusetts,Ron Bennatan,2020
+111,"Aarki , Inc.",Software & SaaS,1072,Sunnyvale,California,Sid Bhatt,2020
+112,Later,Software & SaaS,1072,Vancouver,British Columbia,Roger Patterson,2020
+113,Alaya Care,Software & SaaS,1049,Montreal,Quebec,Adrian Schauer,2020
+114,Heal,Biotechnology / pharmaceutical,1046,Los Angeles,California,Nick Desai,2020
+115,Homesnap,Software & SaaS,1037,Bethesda,Maryland,John Mazur,2020
+116,ShipBob,Software & SaaS,1030,Chicago,Illinois,Dhruv Saxena,2020
+117,Aircall,Software & SaaS,1029,New York,New York,Olivier Pailhes,2020
+118,Fattmerchant,Software & SaaS,1026,Orlando,Florida,Suneera Madhani,2020
+119,Centauri Health Solutions,Software & SaaS,1019,Scottsdale,Arizona,Adam Miller,2020
+120,Wellframe,Software & SaaS,994,Boston,Massachusetts,Jacob Sattelmair,2020
+121,AUDIENCEX,Communications / networking,994,Marina del Rey,California,Reeve Benaron,2020
+122,AudioEye,Software & SaaS,983,Tucson,Arizona,David Moradi,2020
+123,Kira Systems,Software & SaaS,980,Toronto,Ontario,Noah Waisberg,2020
+124,Centripetal,Communications / networking,957,Herndon,Virginia,Steven Rogers,2020
+125,"Lyft , Inc.",Software & SaaS,953,San Francisco,California,Logan Green,2020
+126,Xometry,Electronic devices / hardware,949,Gaithersburg,Maryland,Randy Altschuler,2020
+127,Blue Prism,Software & SaaS,942,Austin,Texas,Jason Kingdon,2020
+128,Introhive,Software & SaaS,936,Fredericton,New Brunswick,Jody Glidden,2020
+129,Ayla Networks,Software & SaaS,932,Milpitas,California,Jonathan Cobb,2020
+130,Hyperscience,Software & SaaS,927,New York,New York,Peter Brodsky,2020
+131,"Zoom Video Communications , Inc.",Software & SaaS,924,San Jose,California,Eric Yuan,2020
+132,HopSkipDrive,Software & SaaS,9159,Los Angeles,California,Joanna McFarland,2020
+133,"Intercept Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,910,New York,New York,Mark Pruzanski,2020
+134,SoClean,Medical devices,886,Peterborough,New Hampshire,Robert Wilkins,2020
+135,"Fortress Biotech , Inc.",Biotechnology / pharmaceutical,874,New York,New York,"Lindsay A. Rosenwald , MD",2020
+136,Petal MD,Software & SaaS,873,Quebec,Quebec,Patrice Gilbert,2020
+137,CampusLogic,Software & SaaS,862,Chandler,Arizona,Gregg Scoresby,2020
+138,OppLoans,Software & SaaS,860,Chicago,Illinois,Jared Kaplan,2020
+139,Blueshift,Software & SaaS,858,San Francisco,California,Vijay Chittoor,2020
+140,Front,Software & SaaS,857,San Francisco,California,Mathilde Collin,2020
+141,CrowdStreet,Software & SaaS,847,Portland,Oregon,Tore Steen,2020
+142,Rhythm Management Group Corp,Software & SaaS,838,Rockville,Maryland,Rhonda Bray,2020
+143,SimpleNexus,Software & SaaS,834,Lehi,Utah,Matt Hansen,2020
+144,dv01,Software & SaaS,830,New York,New York,Perry Rahbar,2020
+145,"CrowdStrike Holdings , Inc.",Software & SaaS,813,Sunnyvale,California,George Kurtz,2020
+146,10x Genomics,Biotechnology / pharmaceutical,812,Pleasanton,California,Serge Saxonov,2020
+147,Borrowell,Software & SaaS,808,Toronto,Ontario,Andrew Graham,2020
+148,HomeLight,Software & SaaS,808,San Francisco,California,Drew Uher,2020
+149,LendingPoint,Software & SaaS,799,Kennesaw,Georgia,Tom Burnside,2020
+150,Acima Credit,Software & SaaS,793,Draper,Utah,Rob Christiansen,2020
+151,Exact Sciences Corporation,Biotechnology / pharmaceutical,782,Madison,Wisconsin,Kevin Conroy,2020
+152,"Guardant Health , Inc.",Biotechnology / pharmaceutical,775,Redwood City,California,Helmy Eltoukhy,2020
+153,Arena Pharmaceuticals Inc.,Biotechnology / pharmaceutical,775,San Diego,California,Amit D. Munshi,2020
+154,Service Titan,Software & SaaS,773,Glendale,California,Ara Mahdessian,2020
+155,PayBright,Software & SaaS,764,Toronto,Ontario,Wayne Pommen,2020
+156,Autho,Software & SaaS,761,Bellevue,Washington,Eugenio Pace,2020
+157,StackAdapt,Software & SaaS,753,Toronto,Ontario,Ildar Sharafutdinov,2020
+158,Incorta,Software & SaaS,752,San Mateo,California,Osama Elkady,2020
+159,Sysdig,Software & SaaS,750,San Francisco,California,Suresh Vasudevan,2020
+160,Sigmoid,Software & SaaS,734,San Francisco,California,Lokesh Anand,2020
+161,jane.app,Software & SaaS,732,"North
+Vancouver",British Columbia,Alison Taylor,2020
+162,GitLab,Software & SaaS,725,San Francisco,California,Sid Sijbrandij,2020
+163,"Attivo Networks , Inc.",Software & SaaS,724,Fremont,California,Tushar Kothari,2020
+164,Simplify Healthcare,Software & SaaS,720,Aurora,Illinois,Mohammed Vaid,2020
+165,MindTickle,Software & SaaS,719,San Francisco,California,Krishna Depura,2020
+166,Tech Defenders,Electronic devices / hardware,715,Grand Rapids,Michigan,Garry Vonmyhr,2020
+167,Visual Lease,Software & SaaS,702,Woodbridge,New Jersey,"Marc Betesh , Esq . , MCR.h",2020
+168,"RIVA Solutions , Inc.",Software & SaaS,699,McLean,Virginia,Naveen Krishnamurty,2020
+169,Phenom People,Software & SaaS,693,Ambler,Pennsylvania,Mahe Bayireddi,2020
+170,Thinkific,Software & SaaS,690,Vancouver,British Columbia,Greg Smith,2020
+171,Avanan,Software & SaaS,686,New York,New York,Gil Friedrich,2020
+172,"Surge Holdings , Inc.",Biotechnology / pharmaceutical,681,Bartlett,Tennessee,Brian Cox,2020
+173,Loopio Inc.,Software & SaaS,677,Toronto,Ontario,Zak Hemraj,2020
+174,Freightera,Software & SaaS,677,Vancouver,British Columbia,Eric Beckwitt,2020
+175,QOS Networks,Communications / networking,676,Irvine,California,Frank Cittadino,2020
+176,Dataminr,Software & SaaS,674,New York,New York,Ted Bailey,2020
+177,Momentum Solar,Energy tech,672,"South
+Plainfield",New Jersey,Arthur Souritzidis,2020
+178,Prove ( formerly Payfone ),Software & SaaS,670,New York,New York,Rodger Desai,2020
+179,REGENXBIO Inc.,Biotechnology / pharmaceutical,668,Rockville,Maryland,Ken Mills,2020
+180,TriNetX,Software & SaaS,665,Cambridge,Massachusetts,Gadi Lachman,2020
+181,DISCO,Software & SaaS,662,Austin,Texas,Kiwi Camara,2020
+182,Premise Data,Software & SaaS,661,San Francisco,California,Maury Blackman,2020
+183,IGEL,Software & SaaS,661,San Francisco,California,Jed Ayres,2020
+184,SentinelOne,Software & SaaS,658,Mountain View,California,Tomer Weingarten,2020
+185,"KalVista Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,656,"East
+Cambridge",Massachusetts,T. Andrew Crockett,2020
+186,"Datadog , Inc.",Software & SaaS,656,New York,New York,Olivier Pomel,2020
+187,Eagle Eye Networks,Electronic devices / hardware,652,Austin,Texas,Dean Drako,2020
+188,CreatorlQ,Software & SaaS,645,Culver City,California,Igor Vaks,2020
+189,Dental Intelligence,Software & SaaS,645,Pleasant Grove,Utah,Weston Lunsford,2020
+190,Onit,Software & SaaS,641,Houston,Texas,Eric M. Elfman,2020
+191,Groove,Software & SaaS,641,San Francisco,California,Chris Rothstein,2020
+192,Quizlet,Software & SaaS,634,San Francisco,California,Matthew Glotzbach,2020
+193,"Voyager Therapeutics , Inc.",Biotechnology / pharmaceutical,634,Cambridge,Massachusetts,Andre Turenne,2020
+194,Qentelli,Software & SaaS,630,Dallas,Texas,Sanjay Jupudi,2020
+195,"Bluebird Bio , Inc.",Biotechnology / pharmaceutical,626,Cambridge,Massachusetts,Nick Leschly,2020
+196,"Helix Technologies , Inc.",Software & SaaS,621,"Greenwood
+Village",Colorado,Zachary L. Venegas,2020
+197,Billing Platform,Software & SaaS,617,Centennial,Colorado,Dennis Wall,2020
+198,"BioDelivery Sciences International
+Inc.",Biotechnology / pharmaceutical,617,Raleigh,North Carolina,Jeffrey A. Bailey,2020
+199,CloudBolt Software,Software & SaaS,612,Rockville,Maryland,Jeff Kukowski,2020
+200,Tulip,Software & SaaS,609,Toronto,Ontario,Ali Asaria,2020
+201,SpinCar,Software & SaaS,602,Syracuse,New York,Devin Daly,2020
+202,TripleLift,"Digital content / media /
+entertainment",600,New York,New York,Eric Berry,2020
+203,#paid,Software & SaaS,590,Toronto,Ontario,Bryan Gold,2020
+204,"Ridgeline International , Inc.",Communications / networking,588,Tysons Corner,Virginia,Erik Wittreich,2020
+205,Innovaccer,Software & SaaS,587,San Francisco,California,Abhinav Shashank,2020
+206,Binary Fountain,Software & SaaS,587,McLean,Virginia,Ramu Potarazu,2020
+207,Lob,Software & SaaS,587,San Francisco,California,Leore Avidar,2020
+208,Amplitude,Software & SaaS,582,San Francisco,California,Spenser Skates,2020
+209,Ecopia.Al,Software & SaaS,581,Toronto,Ontario,Yuanming Shul,2020
+210,Jobber,Software & SaaS,576,Edmonton,Alberta,Sam Pillar,2020
+211,Kraken Robotic Systems Inc.,Electronic devices / hardware,567,Mount Pearl,Newfoundland,Karl Kenny,2020
+212,Ligid,Software & SaaS,566,Broomfield,Colorado,Sumit Puri,2020
+213,Agenus Inc.,Biotechnology / pharmaceutical,565,Lexington,Massachusetts,Garo H. Armen,2020
+214,ThoughtSpot,Software & SaaS,561,Sunnyvale,California,Sudheesh Nair,2020
+215,Mentour Corp,Software & SaaS,559,Edison,New Jersey,Sumanth Neelam,2020
+216,"Arvinas , Inc.",Biotechnology / pharmaceutical,544,New Haven,Connecticut,John Houston,2020
+217,"Neos Therapeutics , Inc.",Biotechnology / pharmaceutical,544,Grand Prairie,Texas,Jerry McLaughlin,2020
+218,SecurityScorecard,Software & SaaS,543,New York,New York,Aleksandr Yampolskiy,2020
+219,"Senseonics Holdings , Inc.",Medical devices,542,Germantown,Maryland,Timothy T. Goodnow,2020
+220,Device42,Software & SaaS,541,West Haven,Connecticut,Raj Jalan,2020
+221,Fountain,Software & SaaS,541,San Francisco,California,Sean Behr,2020
+222,Cloudbeds,Software & SaaS,539,San Diego,California,Adam Harris,2020
+223,Glia,Software & SaaS,538,New York,New York,Daniel Michaeli,2020
+224,Seismic,Software & SaaS,537,San Diego,California,Doug Winter,2020
+225,iTechArt Group,Software & SaaS,532,New York,New York,Sergey Kovalenko,2020
+226,"Mohawk Group Holdings , Inc.",Software & SaaS,531,New York,New York,Yaniv Sarig,2020
+227,Ondot Systems,Electronic devices / hardware,527,San Jose,California,Vaduvur Bharghavan,2020
+228,Green Print,Energy tech,525,Atlanta,Georgia,Pete Davis,2020
+229,Terminus,Software & SaaS,524,Atlanta,Georgia,Tim Kopp,2020
+230,Remitly,Software & SaaS,519,Seattle,Washington,Matt Oppenheimer,2020
+231,Alkami,Software & SaaS,516,Plano,Texas,Mike Hansen,2020
+232,Connatix,"Digital content / media /
+entertainment",512,New York,New York,David Kashak,2020
+233,VersaPay,Software & SaaS,505,Toronto,Ontario,Craig O'Neill,2020
+234,Segment,Software & SaaS,503,San Francisco,California,Peter Reinhardt,2020
+235,"09 Solutions , Inc.",Software & SaaS,502,Dallas,Texas,Chakri Gottemukkala,2020
+236,"Slack Technologies , Inc.",Software & SaaS,500,San Francisco,California,Stewart Butterfield,2020
+237,Fundera,Software & SaaS,494,New York,New York,Jared Hecht,2020
+238,Saviynt,Software & SaaS,484,El Segundo,California,Amit Saha,2020
+239,Roadmunk,Software & SaaS,480,Toronto,Ontario,Latif Nanji,2020
+240,ImmunoPrecise Antibodies,Biotechnology / pharmaceutical,475,Victoria,British Columbia,Jennifer Bath,2020
+241,Regulus Therapeutics Inc.,Biotechnology / pharmaceutical,472,San Diego,California,Joseph Patrick Hagan,2020
+242,CircleCl,Software & SaaS,467,San Francisco,California,Jim Rose,2020
+243,7shifts,Software & SaaS,465,Saskatoon,Saskatchewan,Jordan Boesch,2020
+244,Built In,Software & SaaS,465,Chicago,Illinois,Maria Christopoulos Katris,2020
+245,TransEnterix,Medical devices,462,Morrisville,North Carolina,Anthony Fernando,2020
+246,Passport,Software & SaaS,457,Charlotte,North Carolina,Bob Youakim,2020
+247,Insticator,"Digital content / media /
+entertainment",457,New York,New York,Zack Dugow,2020
+248,Harbor Compliance,Software & SaaS,454,Lancaster,Pennsylvania,Mike Montali,2020
+249,SmartFinancial.com,Software & SaaS,452,Costa Mesa,California,Lev Barinskiy,2020
+250,Icertis,Software & SaaS,451,Bellevue,Washington,Samir Bodas,2020
+251,SheerlD,Software & SaaS,450,Portland,Oregon,Jake Weatherly,2020
+252,Fundrise,Software & SaaS,443,Washington,DC,Ben Miller,2020
+253,DISQO,Software & SaaS,441,Glendale,California,Armen Adjemian,2020
+254,Printful,Software & SaaS,441,Charlotte,North Carolina,Davis Siksnans,2020
+255,Motus,Software & SaaS,439,Boston,Massachusetts,Craig Powell,2020
+256,Aucerna,Software & SaaS,438,Calgary,Alberta,Wayne Sim,2020
+257,LowestRates.ca,Software & SaaS,437,Toronto,Ontario,Justin Thouin,2020
+258,Piano,Software & SaaS,435,Philadelphia,Pennsylvania,Trevor Kaufman,2020
+259,Liftoff,Software & SaaS,431,Palo Alto,California,Mark Ellis,2020
+260,"Sangamo Therapeutics , Inc.",Biotechnology / pharmaceutical,428,Brisbane,California,Sandy Macrae,2020
+261,Planbox,Software & SaaS,426,Laval,Quebec,Ludwig Melik,2020
+262,Vectra Al,Software & SaaS,424,San Jose,California,Hitesh Sheth,2020
+263,"Advaxis , Inc.",Biotechnology / pharmaceutical,423,Princeton,New Jersey,Kenneth A. Berlin,2020
+264,Unite Us,Software & SaaS,422,New York,New York,Dan Brillman,2020
+265,Orgenesis Inc.,Biotechnology / pharmaceutical,420,Germantown,Maryland,Vered Caplan,2020
+266,Newline Interactive,Electronic devices / hardware,420,Plano,Texas,Kevin Wang,2020
+267,Sangoma Technologies,Communications / networking,418,Markham,Ontario,Bill Wignall,2020
+268,Doxim Inc.,Software & SaaS,415,Markham,Ontario,Michael Rogalski,2020
+269,Recorded Future,Software & SaaS,410,Somerville,Massachusetts,Dr. Christopher Ahlberg,2020
+270,Zipwhip,Software & SaaS,408,Seattle,Washington,John Lauer,2020
+271,Health Union,"Digital content / media /
+entertainment",406,Philadelphia,Pennsylvania,Olivier Chateau,2020
+272,"Exelixis , Inc.",Biotechnology / pharmaceutical,405,Alameda,California,Michael M. Morrissey,2020
+273,FLO AddEnergie,Energy tech,404,Quebec,Quebec,Louis Tremblay,2020
+274,Sales Loft,Software & SaaS,403,Atlanta,Georgia,Kyle Porter,2020
+275,Smile.io,Software & SaaS,402,Kitchener,Ontario,Mike Rossi,2020
+276,Fiix Inc.,Software & SaaS,401,Toronto,Ontario,James Novak,2020
+277,Mersive Technologies,Software & SaaS,400,Denver,Colorado,Rob Balgley,2020
+278,"Inspire Medical Systems , Inc.",Medical devices,399,Golden Valley,Minnesota,Tim Herbert,2020
+279,"Ontrak , Inc. ( FKA Catasys , Inc. )",Software & SaaS,396,Santa Monica,California,Terren S. Peizer,2020
+280,ZoomInfo,Software & SaaS,394,Vancouver,Washington,Henry Schuck .,2020
+281,"Athenex , Inc.",Biotechnology / pharmaceutical,393,Buffalo,New York,Johnson Y.N. Lau,2020
+282,Volanté Systems,Software & SaaS,391,Toronto,Ontario,Sunil Selby,2020
+283,Instaclustr,Software & SaaS,389,Redwood City,California,Peter Lilley,2020
+284,Alteryx,Software & SaaS,387,Irvine,California,Mark Anderson,2020
+285,Elastic,Software & SaaS,385,Mountain View,California,Shay Banon,2020
+286,MacStadium,Communications / networking,384,Atlanta,Georgia,Gregory McGraw,2020
+287,Aldevron,Biotechnology / pharmaceutical,381,Fargo,North Dakota,Kevin Ballinger,2020
+288,Touch Bistro,Software & SaaS,381,Toronto,Ontario,Alex Barrotti,2020
+289,Classy,Software & SaaS,380,San Diego,California,Scot Chisholm,2020
+290,"VRTCAL Markets , Inc.",Software & SaaS,377,Santa Barbara,California,Todd Wooten,2020
+291,VendEngine Inc.,Software & SaaS,372,Brentwood,Tennessee,Silas Deane,2020
+292,MineralTree,Software & SaaS,371,Cambridge,Massachusetts,Micah Remley,2020
+293,Salute Mission Critical,Communications / networking,371,Clinton Twp .,Michigan .,Jason Okroy,2020
+294,Slingshot,Software & SaaS,369,Lehi,Utah,Taylor Olson,2020
+295,"Alnylam Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,366,Cambridge,Massachusetts,John Maraganore,2020
+296,"Digital Turbine , Inc.",Software & SaaS,365,Austin,Texas,Bill Stone,2020
+297,Fund That Flip,Software & SaaS,363,New York,New York,Matt Rodak,2020
+298,Cluep,Software & SaaS,349,Toronto,Ontario,Karan Walia,2020
+299,Nephros,Biotechnology / pharmaceutical,345,South Orange,New Jersey,Andy Astor,2020
+300,"CloudCommerce , Inc.",Software & SaaS,345,San Antonio,Texas,Andrew Van Noy,2020
+301,district m,"Digital content / media /
+entertainment",344,Montreal,Quebec,Jean - François Côté,2020
+302,Kasisto,Software & SaaS,343,New York,New York,Zor Gorelov,2020
+303,"Semler Scientific , Inc.",Medical devices,341,San Jose,California,"Douglas Murphy - Chutorian ,
+MD",2020
+304,"Vislink Technologies , Inc.
+( FKA XG Technology , Inc. )",Communications / networking,340,Hackettstown,New Jersey,Carleton M. Miller,2020
+305,Devo,Software & SaaS,339,Cambridge,Massachusetts,Marc Van Zadelhoff,2020
+306,JFrog,Software & SaaS,336,Sunnyvale,California,Shlomi Ben Haim,2020
+307,Smartsheet Inc.,Software & SaaS,336,Bellevue,Washington,Mark Mader,2020
+308,Bananatag Systems Inc.,Software & SaaS,332,Kelowna,British Columbia,Corey Wagner,2020
+309,Tandem Diabetes Care Inc.,Medical devices,330,San Diego,California,John F. Sheridan,2020
+310,BirdEye,Software & SaaS,329,Palo Alto,California,Naveen Gupta,2020
+311,Slice,Software & SaaS,329,New York,New York,Ilir Sela,2020
+312,BioCatch,Software & SaaS,327,New York,New York,Howard Edelstein,2020
+313,Sirion Labs,Software & SaaS,326,Seattle,Washington,Ajay Agrawal,2020
+314,"Snap , Inc.",Software & SaaS,324,Santa Monica,California,Evan Spiegel,2020
+315,Docebo,Software & SaaS,321,Toronto,Ontario,Claudio Erba,2020
+316,Zenoti,Software & SaaS,320,Bellevue,Washington,Sudheer Koneru,2020
+317,Forward Financing,Software & SaaS,320,Boston,Massachusetts,Justin Bakes,2020
+318,Prodigy Education,Software & SaaS,319,Oakville,Ontario,Rohan Mahimker,2020
+319,Intelligent Systems Corporation,Software & SaaS,319,Norcross,Georgia,J. Leland Strange,2020
+320,GeoComply,Software & SaaS,319,Vancouver,British Columbia,David Briggs,2020
+321,Blackline Safety,Electronic devices / hardware,315,Calgary,Alberta,Cody Slater,2020
+322,PathFactory,Software & SaaS,314,Toronto,Ontario,Dev Ganesan,2020
+323,TickPick,"Digital content / media /
+entertainment",312,New York,New York,Brett Goldberg,2020
+324,Reltio,Software & SaaS,312,"Redwood
+Shores",California,Chris Hylen,2020
+325,"Opiant Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,309,Santa Monica,California,Roger Crystal,2020
+326,MongoDB,Software & SaaS,309,New York,New York,Dev Ittycheria,2020
+327,Twilio Inc.,Software & SaaS,309,San Francisco,California,Jeff Lawson,2020
+328,"Lexicon Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,306,"The
+Woodlands",Texas,Lonnel Coats,2020
+329,"Sientra , Inc.",Biotechnology / pharmaceutical,304,Santa Barbara,California,Jeffrey M. Nugent,2020
+330,SaaSOptics,Software & SaaS,303,"Peachtree
+Corners",Georgia,Tim McCormick,2020
+331,Dashlane Inc.,Software & SaaS,303,New York,New York,Emmanuel Schalit,2020
+332,Helcim,Software & SaaS,303,Calgary,Alberta,Nicolas Beique,2020
+333,Paladin Technologies,Software & SaaS,302,Vancouver,British Columbia,Ted Reid,2020
+334,Tipalti,Software & SaaS,301,San Mateo,California,Chen Amit,2020
+335,Diff Agency,"Digital content / media /
+entertainment",301,Montreal,Quebec,Benjamin Crudo,2020
+336,"Jounce Therapeutics , Inc.",Biotechnology / pharmaceutical,298,Cambridge,Massachusetts,Richard Murray,2020
+337,Radicle,Software & SaaS,296,Calgary,Alberta,Ed Alfke,2020
+338,Keyfactor,Software & SaaS,296,Independence,Ohio,Jordan Rackie,2020
+339,"ViewRay , Inc.",Medical devices,295,"Oakwood
+Village",Ohio,Scott Drake,2020
+340,TraceLink,Software & SaaS,293,North Reading,Massachusetts,Shabbir Dahod,2020
+341,"BitPay , Inc.",Software & SaaS,290,Alpharetta,Georgia,Stephen Pair,2020
+342,TodayTix,Software & SaaS,290,New York,New York,Brian Fenty,2020
+343,Assent Compliance,Software & SaaS,286,Ottawa,Ottawa,Andrew Waitman,2020
+344,"Sorrento Therapeutics , Inc.",Biotechnology / pharmaceutical,286,San Diego,California,Henry Ji,2020
+345,Search Realty Corp.,Software & SaaS,285,Mississauga,Ontario,Sterling Wong,2020
+346,SendtoNews,"Digital content / media /
+entertainment",283,Victoria,British Columbia,Matthew Watson,2020
+347,Dialpad,Software & SaaS,283,San Francisco,California,Craig Walker,2020
+348,"Pinterest , Inc.",Software & SaaS,282,San Francisco,California,Ben Silbermann,2020
+349,"CytomX Therapeutics , Inc.",Biotechnology / pharmaceutical,282,"South San
+Francisco",California,Sean A. McCarthy,2020
+350,"TransMedics Group , Inc.",Biotechnology / pharmaceutical,280,Andover,Massachusetts,Waleed Hassanein,2020
+351,"RiskLens , Inc.",Software & SaaS,277,Spokane,Washington,Nick Sanna,2020
+352,Zscaler,Software & SaaS,277,San Jose,California,Jay Chaudhry,2020
+353,Corcept Therapeutics Inc.,Biotechnology / pharmaceutical,277,Menlo Park,California,"Joseph K. Belanoff , MD",2020
+354,Panda Doc,Software & SaaS,277,San Francisco,California,Mikita Mikado,2020
+355,Edison Software,Software & SaaS,276,San Jose,California,Mikael Berner,2020
+356,MMB Networks,Software & SaaS,276,Toronto,Ontario,Russell Thomas,2020
+357,Redis Labs,Software & SaaS,276,Mountain View,California,Ofer Bengal,2020
+358,Clutch,"Digital content / media /
+entertainment",275,Washington,DC,Mike Beares,2020
+359,LogMeIn,Software & SaaS,275,Boston,Massachusetts,Bill Wagner,2020
+360,LeagueApps,Software & SaaS,275,New York,New York,Brian Litvack,2020
+361,"HTG Molecular Diagnostics , Inc.",Biotechnology / pharmaceutical,274,Tucson,Arizona,John L. Lubniewski,2020
+362,Doximity,Software & SaaS,273,San Francisco,California,Jeff Tangney,2020
+363,"PTC Therapeutics , Inc.",Biotechnology / pharmaceutical,271,"South
+Plainfield",New Jersey,Stuart W. Peltz,2020
+364,Lighthouse,Software & SaaS,271,Seattle,Washington,Brian McManus,2020
+365,Health - E Commerce,"Digital content / media /
+entertainment",269,New York,New York,Jeremy Miller,2020
+366,"Uber Technologies , Inc.",Software & SaaS,268,San Francisco,California,Dara Khosrowshahi,2020
+367,"PolarityTE , Inc.",Biotechnology / pharmaceutical,267,Salt Lake City,Utah,David Seaburg,2020
+368,AODocs,Software & SaaS,266,Atlanta,Georgia,Stéphan Donzé,2020
+369,"Okta , Inc.",Software & SaaS,264,San Francisco,California,Todd McKinnon,2020
+370,CallRail,Software & SaaS,263,Atlanta,Georgia,Andy Powell,2020
+371,"Springbot , Inc.",Software & SaaS,263,Atlanta,Georgia,Brooks Robinson,2020
+372,BlueSnap,Software & SaaS,261,Waltham,Massachusetts,Ralph Dangelmaier,2020
+373,QGenda,Software & SaaS,261,Atlanta,Georgia,Greg Benoit,2020
+374,C3.ai,Software & SaaS,259,Redwood City,California,Thomas M. Siebel,2020
+375,LogicManager,Software & SaaS,258,Boston,Massachusetts,Steven Minsky,2020
+376,Definitive Healthcare,Software & SaaS,258,Framingham,Massachusetts,Jason Krantz,2020
+377,Braviant Holdings,Software & SaaS,257,Chicago,Illinois,Stephanie Klein,2020
+378,LogicMonitor,Software & SaaS,255,Santa Barbara,California,Kevin McGibben,2020
+379,Onapsis,Software & SaaS,254,Boston,Massachusetts,Mariano Nunez,2020
+380,GridGain Systems,Software & SaaS,253,Foster City,California,Abe Kleinfeld,2020
+381,Media Alpha,"Digital content / media /
+entertainment",250,Los Angeles,California,Steve Yi,2020
+382,ClearDATA,Software & SaaS,249,Austin,Texas,Darin Brannan,2020
+383,Adaptive Biotechnologies,Biotechnology / pharmaceutical,246,Seattle,Washington,Chad Robins,2020
+384,Zoocasa,Software & SaaS,244,Toronto,Ontario,Lauren Haw,2020
+385,Bold Commerce,Software & SaaS,244,Winnipeg,Manitoba,Yvan Boisjoli,2020
+386,Canada Drives,Software & SaaS,242,Vancouver,British Columbia,Cody Green,2020
+387,"Mapbox , Inc.",Software & SaaS,242,Washington,DC,Eric Gundersen,2020
+388,"Zynex Medical , Inc.",Medical devices,242,Englewood,Colorado,Thomas Sandgaard,2020
+389,OpSens Inc.,Medical devices,241,Quebec,Quebec,Louis Laflamme,2020
+390,"Indotronix Avani , Inc.",Software & SaaS,239,Rochester,New York,Sameer Penakalapati,2020
+391,"Editas Medicine , Inc.",Biotechnology / pharmaceutical,239,Cambridge,Massachusetts,Cynthia Collins,2020
+392,"Cloudflare , Inc.",Software & SaaS,239,San Francisco,California,Matthew Prince,2020
+393,"iSpot.tv , Inc.","Digital content / media /
+entertainment",238,Bellevue,Washington,Sean Muller,2020
+394,TrackTik,Software & SaaS,238,Montreal,Quebec,Simon Ferragne,2020
+395,"Couchbase , Inc.",Software & SaaS,237,Santa Clara,California,Matt Cain,2020
+396,Lendio,Software & SaaS,237,Lehi,Utah,Brock Blake,2020
+397,Anaplan,Software & SaaS,236,San Francisco,California,Frank Calderoni,2020
+398,"¡ Rhythm Technologies , Inc.",Medical devices,235,San Francisco,California,Kevin King,2020
+399,Sidecar,Software & SaaS,234,Philadelphia,Pennsylvania,Andre Golsorkhi,2020
+400,ICU Medical Inc.,Biotechnology / pharmaceutical,234,San Clemente,California,Vivek Jain,2020
+401,Hireology,Software & SaaS,233,Chicago,Illinois,Adam Robinson,2020
+402,"Evolent Health , Inc.",Biotechnology / pharmaceutical,233,Arlington,Virginia,Frank John Williams,2020
+403,"BioLife Solutions , Inc.",Biotechnology / pharmaceutical,233,Bothell,Washington,Mike Rice,2020
+404,Vici Media,"Digital content / media /
+entertainment",233,Philadelphia,Pennsylvania,Todd Schumacher,2020
+405,Wahoo Fitness,Electronic devices / hardware,232,Atlanta,Georgia,Mike Saturnia,2020
+406,Course Hero,"Digital content / media /
+entertainment",230,Redwood City,California,Andrew Grauer,2020
+407,Xoma Corp,Biotechnology / pharmaceutical,230,Emeryville,California,James R. Neal,2020
+408,Azalea Health,Software & SaaS,230,Atlanta,Georgia,Baha Zeidan,2020
+409,ReliaQuest,Software & SaaS,229,Tampa,Florida,Brian Murphy,2020
+410,Apixio,Software & SaaS,229,San Mateo,California,"Dr. Darren Schulte , MD",2020
+411,Infinite Blue,Software & SaaS,228,Collegeville,Pennsylvania,Frank Shultz,2020
+412,Druva,Software & SaaS,228,Sunnyvale,California,Jaspreet Singh,2020
+413,"GTT Communications , Inc.",Communications / networking,228,McLean,Virginia,Ernie Ortega,2020
+414,Rootstock Software,Software & SaaS,227,San Ramon,California,Patrick Garrehy,2020
+415,Kahua,Software & SaaS,226,Alpharetta,Georgia,Scott Unger,2020
+416,The Trade Desk,Software & SaaS,226,Ventura,California,Jeff Green,2020
+417,Discuss.io,Software & SaaS,225,Seattle,Washington,Simon Glass,2020
+418,"Zillow Group , Inc.","Digital content / media /
+entertainment",224,Seattle,Washington,Rich Barton,2020
+419,NowSecure,Software & SaaS,223,Chicago,Illinois,Alan Snyder,2020
+420,Quanterix Corp,Biotechnology / pharmaceutical,223,Billerica,Massachusetts,Kevin Hrusovsky,2020
+421,Nasuni,Software & SaaS,222,Boston,Massachusetts,Paul Flanagan,2020
+422,Lightspeed Voice,Communications / networking,222,North Venice,Florida,Brad Fuller,2020
+423,Wrike,Software & SaaS,221,San Jose,California,Andrew Filev,2020
+424,meQuilibrium,Software & SaaS,221,Boston,Massachusetts,Jan Bruce,2020
+425,symplr,Software & SaaS,221,Houston,Texas,Rick Pleczko,2020
+426,Perfecta,Software & SaaS,220,Springfield,Virginia,George Zoulias,2020
+427,Willow Tree,Software & SaaS,219,Charlottesville,Virginia,Tobias Dengel,2020
+428,Dynavax Technologies Corp,Biotechnology / pharmaceutical,219,Emeryville,California,Ryan Spencer,2020
+429,"EyeKor , Inc.",Biotechnology / pharmaceutical,218,Madison,Wisconsin,Yijun Huang,2020
+430,Tricentis,Software & SaaS,218,Mountain View,California,Sandeep Johril,2020
+431,Corestream,Software & SaaS,217,Tampa,Florida,Neil Vaswani,2020
+432,OptimizeRx Corp,Software & SaaS,217,Rochester,Michigan,William J. Febbo,2020
+433,Diligent,Software & SaaS,216,New York,New York,Brian Stafford,2020
+434,DOCASAP,Software & SaaS,215,Herndon,Virginia,Puneet Maheshwari,2020
+435,Ambra Health,Software & SaaS,215,New York,New York,Morris Panner,2020
+436,Xiplink,Communications / networking,215,Montreal,Quebec,Jack Waters,2020
+437,Buildertrend,Software & SaaS,213,Omaha,Nebraska,"Dan Houghton /
+Steve Dugger / Jeff Dugger",2020
+438,"CareDx , Inc.",Biotechnology / pharmaceutical,213,Brisbane,California,Peter Maag,2020
+439,SS & C,Software & SaaS,213,Windsor,Connecticut,William C. Stone,2020
+440,Zadara,Software & SaaS,212,Irvine,California,Nelson Nahum,2020
+441,Explorance,Software & SaaS,212,Montreal,Quebec,Samer Saab,2020
+442,Eddyfi Technologies,Electronic devices / hardware,212,Quebec,Quebec,Martin Theriault,2020
+443,Coupa Software,Software & SaaS,211,San Mateo,California,Rob Bernshteyn,2020
+444,OSS,Electronic devices / hardware,209,Escondido,California,David K. Raun,2020
+445,Pure Storage,Software & SaaS,209,Mountain View,California,Charles Giancarlo,2020
+446,"Research Innovations , Inc. ( RII )",Software & SaaS,209,Alexandria,Virginia,Jack Harrington,2020
+447,Abzooba,Software & SaaS,208,Milpitas,California,Vivek Vipul,2020
+448,Gimbal,Software & SaaS,208,Los Angeles,California,Rob Emrich,2020
+449,Vidyard,Software & SaaS,207,Kitchener,Ontario,Michael Litt,2020
+450,Greenhouse Software,Software & SaaS,204,New York,New York,Daniel Chait,2020
+451,"ChemoCentryx , Inc.",Biotechnology / pharmaceutical,203,Mountain View,California,Thomas J. Schall,2020
+452,Aerospike,Software & SaaS,201,Mountain View,California,John Dillon,2020
+453,Ionis Pharmaceuticals Inc.,Biotechnology / pharmaceutical,201,Carlsbad,California,Brett P. Monia,2020
+454,Sonatype,Software & SaaS,201,Fulton,Maryland,Wayne Jackson,2020
+455,ringDNA,Software & SaaS,201,Sherman Oaks,California,Howard Brown,2020
+456,AcuityAds,"Digital content / media /
+entertainment",200,Toronto,Ontario,Tal Hayek,2020
+457,"Trxade Group , Inc.",Biotechnology / pharmaceutical,200,Land O ' Lakes,Florida,Suren Ajjarapu,2020
+458,"Upland Software , Inc.",Software & SaaS,198,Austin,Texas,Jack McDonald,2020
+459,KLDiscovery,Software & SaaS,198,McLean,Virginia .,Chris Weiler,2020
+460,"Epizyme , Inc.",Biotechnology / pharmaceutical,197,Cambridge,Massachusetts,Robert Bazemore,2020
+461,"CarGurus , Inc.",Software & SaaS,197,Cambridge,Massachusetts,Langley Steinert,2020
+462,"Aryaka Networks , Inc.",Communications / networking,195,San Mateo,California,Matt Carter,2020
+463,360Insights,Software & SaaS,195,Whitby,Ontario,Jason Atkins,2020
+464,Relatient,Software & SaaS,195,Franklin,Tennessee,Michele Perry,2020
+465,Unbound Tech,Software & SaaS,194,New York,New York,Professor Yehuda Lindell,2020
+466,Financeit,Software & SaaS,194,Toronto,Ontario,Michael Garrity,2020
+467,Kinova,Medical devices,194,Boisbriand,Quebec,Charles Deguire,2020
+468,Med Bridge,Software & SaaS,192,Seattle,Washington,Justin Kowalchuk,2020
+469,Redfin Corporation,Software & SaaS,192,Seattle,Washington,Glenn Kelman,2020
+470,Signs.com,Software & SaaS,192,Salt Lake City,Utah,Marty McGhie,2020
+471,Rigel Pharmaceuticals Inc.,Biotechnology / pharmaceutical,191,"South San
+Francisco",California,Raul R. Rodriguez,2020
+472,"Syneos Health , Inc.",Medical devices,190,Morrisville,North Carolina,Alistair Macdonald,2020
+473,eOriginal,Software & SaaS,190,Baltimore,Maryland,Brian Madocks,2020
+474,PunchOut2Go,Software & SaaS,190,Charlottesville,Virginia,Brady Behrman,2020
+475,Cloudera Inc.,Software & SaaS,189,Santa Clara,California,Robert Bearden,2020
+476,GSoft,Software & SaaS,188,Montreal,Quebec,Simon De Baene,2020
+477,Zix Corp,Software & SaaS,188,Dallas,Texas,David Wagner,2020
+478,eSentire,Software & SaaS,187,Waterloo,Ontario,Kerry Bailey,2020
+479,Thycotic,Software & SaaS,186,Washington,DC,James Legg,2020
+480,ActivTrak,Software & SaaS,185,Austin,Texas,Rita Selvaggi,2020
+481,"Tenable Holdings , Inc.",Software & SaaS,185,Columbia,Maryland,Amit Yoran,2020
+482,Plusgrade LP,Software & SaaS,183,Montreal,Quebec,Ken Harris,2020
+483,"Roku , Inc.","Digital content / media /
+entertainment",183,San Jose,California,Anthony Wood,2020
+484,"Apptentive , Inc.",Software & SaaS,183,Seattle,Washington,Robi Ganguly,2020
+485,PanGeo Subsea Inc.,Energy tech,183,St. John's,Newfoundland,Moya Cahill,2020
+486,Smarsh Inc.,Software & SaaS,181,Portland,Oregon,Brian Cramer,2020
+487,Topstep,Software & SaaS,180,Chicago,Illinois,Jay Rudman,2020
+488,Single Store,Software & SaaS,180,San Francisco,California,Raj Verma,2020
+489,"DocuSign , Inc.",Software & SaaS,180,San Francisco,California,Dan Springer,2020
+490,Quidel Corp,Biotechnology / pharmaceutical,179,San Diego,California,Douglas C. Bryant,2020
+491,The Meet Group,"Digital content / media /
+entertainment",178,New Hope,Pennsylvania,Geoff Cook,2020
+492,Netwrix,Software & SaaS,178,Irvine,California,Steve Dickson,2020
+493,"Crown Laboratories , Inc.",Biotechnology / pharmaceutical,178,Johnson City,Tennessee,Jeff Bedard,2020
+494,CytoSorbents Corporation,Medical devices,177,"Monmouth
+Junction",New Jersey,"Phillip P. Chan , MD , PhD",2020
+495,Scalefast,Software & SaaS,176,El Segundo,California,Nicolas Stehle,2020
+496,"Square , Inc.",Software & SaaS,176,San Francisco,California,Jack Dorsey,2020
+497,Mobilewalla,Software & SaaS,176,Atlanta,Georgia,Anindya Datta,2020
+498,Shoot Proof LLC,Software & SaaS,176,Atlanta,Georgia,Stephen Marshall,2020
+499,"Nexstar Media Group , Inc.","Digital content / media /
+entertainment",176,Irving,Texas,Perry A. Sook,2020
+500,ADMA Biologics,Biotechnology / pharmaceutical,175,Ramsey,New Jersey,Adam Grossman,2020
+1,"Axonics , Inc.",Medical devices,87037,Irvine,CA,Raymond W. Cohen,2021
+2,GetUpside,Software & SaaS,60259,Washington,DC,Alex Kinnier,2021
+3,Attentive,Software & SaaS,49155,Hoboken,NJ,Brian Long,2021
+4,Shipwell,Software & SaaS,32670,Austin,TX,Gregory Price,2021
+5,Snapcommerce,Software & SaaS,32526,Toronto,ON,Hussein Fazal,2021
+6,"Coherus BioSciences , Inc.",Biotechnology / pharmaceutical,30480,Redwood City,CA,Dennis M. Lanfear,2021
+7,Drift,Software & SaaS,29400,Boston,MA,David Cancel,2021
+8,Nufabrx,Biotechnology / pharmaceutical,22957,Conover,NC,Jordan Schindler,2021
+9,VirnetX Holding Corp.,Software & SaaS,19463,Zephyr Cove,NV,Kendall Larsen,2021
+10,Banyan Software,Software & SaaS,18309,Atlanta,GA,David Berkal,2021
+11,"Dicerna Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,15852,Lexington,MA,Douglas M. Fambrough,2021
+12,Maple,Software & SaaS,15315,Toronto,ON,Brett Belchetz,2021
+13,Sure,Software & SaaS,15232,Santa Monica,CA,Wayne Slavin,2021
+14,"Cara Therapeutics , Inc.",Biotechnology / pharmaceutical,14728,Stamford,CT,Derek T. Chalmers,2021
+15,"Regulus Therapeutics , Inc.",Biotechnology / pharmaceutical,13797,San Diego,CA,Joseph Patrick Hagan,2021
+16,Mistplay Inc.,Software & SaaS,13171,Montréal,QC,Henri - Charles Machalani,2021
+17,"Adamas Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,13009,Emeryville,CA,Neil McFarlane,2021
+18,Expel,Software & SaaS,12858,Herndon,VA,Dave Merkel,2021
+19,Truebill,Software & SaaS,11910,Silver Spring,MD,Haroon Mokhtarzada,2021
+20,Apollo GraphQL,Software & SaaS,11694,San Francisco,CA,Geoff Schmidt,2021
+21,Medly Pharmacy,Software & SaaS,11210,Brooklyn,NY,Marg Patel,2021
+22,"Ultragenyx Pharmaceutical , Inc.",Biotechnology / pharmaceutical,10276,Novato,CA,Emil D. Kakkis,2021
+23,Greenlight,Software & SaaS,9538,Atlanta,GA,Tim Sheehan,2021
+24,Alloy,Software & SaaS,9094,New York,NY,Tommy Nicholas,2021
+25,Armis,Software & SaaS,8826,Palo Alto,CA,Yevgeny Dibrov,2021
+26,"L7 Informatics , Inc.",Software & SaaS,8288,Austin,TX,Vasu Rangadass,2021
+27,BigID,Software & SaaS,7886,New York,NY,Dimitri Sirota,2021
+28,Deep Instinct,Software & SaaS,7199,New York,NY,Guy Caspil,2021
+29,OJO Labs,Software & SaaS,6743,Austin,TX,John Berkowitz,2021
+30,AbCellera,Biotechnology / pharmaceutical,6562,Vancouver,BC,Carl Hansen,2021
+31,Enercross,Energy tech,6230,Houston,TX,Jay Bhatty,2021
+32,Balbix,Software & SaaS,6147,San Jose,CA,Gaurav Banga,2021
+33,Pilot,Software & SaaS,6042,San Francisco,CA,Waseem Daher,2021
+34,Branch,Software & SaaS,6014,Minneapolis,MN,Atif Siddiqi,2021
+35,"Revance Therapeutics , Inc.",Biotechnology / pharmaceutical,5749,Nashville,TN,Mark J. Foley,2021
+36,Kenect,Software & SaaS,5699,Pleasant Grove,UT,Shaun Sorensen,2021
+37,"Voltus , Inc.",Energy tech,5457,San Francisco,CA,Gregg Dixon,2021
+38,"Arcus Biosciences , Inc.",Biotechnology / pharmaceutical,5386,Hayward,CA,Terry J. Rosen,2021
+39,Bolt,Software & SaaS,5326,San Francisco,CA,Ryan Breslow,2021
+40,Bolt Logistics,Software & SaaS,4990,Toronto,ON,Mark Ang,2021
+41,ApplyBoard,Software & SaaS,4921,Kitchener,ON,Martin Basiri,2021
+42,Discord,Communications / networking,4727,San Francisco,CA,Jason Citron,2021
+43,Even,Software & SaaS,4154,Oakland,CA,David Baga,2021
+44,Dialogue,Software & SaaS,4076,Montréal,QC,Cherif Habib,2021
+45,Dragos,Software & SaaS,4052,Hanover,MD,Robert M. Lee,2021
+46,Instabase,Software & SaaS,4038,San Francisco,CA,Anant Bhardwaj,2021
+47,Pela,Electronic devices / hardware,3910,Kelowna,BC,Matthew Bertulli,2021
+48,Gong,Software & SaaS,3907,Palo Alto,CA,Amit Bendov,2021
+49,Sales Boomerang,Software & SaaS,3882,Owings Mills,MD,Alex Kutsishin,2021
+50,"SurgePays , Inc.",Software & SaaS,3705,Bartlett,TN,Brian Cox,2021
+51,"Pulmatrix , Inc.",Biotechnology / pharmaceutical,3671,Lexington,MA,Ted Raad,2021
+52,Blueprint Medicines Corp.,Biotechnology / pharmaceutical,3605,Cambridge,MA,Jeffrey W. Albers,2021
+53,Bitbuy,Software & SaaS,3266,Toronto,ON,Jordan Anderson,2021
+54,Flexiti Financial,Software & SaaS,3143,Toronto,ON,Peter Kalen,2021
+55,OneTrust,Software & SaaS,3080,Atlanta,GA,Kabir Barday,2021
+56,Noom,Software & SaaS,3052,New York,NY,Saeju Jeong,2021
+57,mCloud Technologies,Software & SaaS,3003,Vancouver,BC,Russ McMeekin,2021
+58,"iLearning Engines , Inc.",Software & SaaS,2909,Bethesda,MD,Harish Chidambaran,2021
+59,Leap Tools,Software & SaaS,2888,Toronto,ON,Pawel Rajszel,2021
+60,Samsara,Software & SaaS,2828,San Francisco,CA,Sanjit Biswas,2021
+61,Therabody,Electronic devices / hardware,2742,Los Angeles,CA,Benjamin Nazarian,2021
+62,Semperis,Software & SaaS,2723,Hoboken,NJ,Mickey Bresman,2021
+63,Beam Dental,Software & SaaS,2702,Columbus,OH,Alex Frommeyer,2021
+64,AnyClip,Software & SaaS,2518,New York,NY,Gil Becker,2021
+65,Maxwell,Software & SaaS,2513,Denver,со,John Paasonen,2021
+66,Splitit,Software & SaaS,2486,New York,NY,John Harper,2021
+67,AppZen,Software & SaaS,2477,San Jose,CA,Anant Kale,2021
+68,CRG Automation,Electronic devices / hardware,2473,Louisville,KY,James DeSmet,2021
+69,Claroty,Software & SaaS,2399,New York,NY,Yaniv Vardi,2021
+70,"Vir Biotechnology , Inc.",Biotechnology / pharmaceutical,2383,San Francisco,CA,George Scangos,2021
+71,"Harpoon Therapeutics , Inc.",Biotechnology / pharmaceutical,2364,South San Francisco,CA,Gerald McMahon,2021
+72,Stromcore Energy Inc.,Energy tech,2360,Mississauga,ON,Maxime Vidricaire,2021
+73,Ada,Software & SaaS,2334,Toronto,ON,Mike Murchison,2021
+74,"Rigel Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,2322,South San Francisco,CA,Raul R. Rodriguez,2021
+75,EarnUp Inc.,Software & SaaS,2308,San Francisco,CA,Nadim Homsany,2021
+76,Centripetal,Communications / networking,2252,Reston,VA,Steven Rogers,2021
+77,Propel,Software & SaaS,2207,Santa Clara,CA,Ray Hein,2021
+78,Coinme,Software & SaaS,2198,Seattle,WA,Neil Bergquist,2021
+79,Nozomi Networks,Software & SaaS,2185,San Francisco,CA,Edgard Capdevielle,2021
+80,"Fulgent Genetics , Inc.",Biotechnology / pharmaceutical,2152,Temple City,CA,Ming Hsieh,2021
+81,League,Software & SaaS,2126,Toronto,ON,Michael Serbinis,2021
+82,"VTV Therapeutics , Inc.",Biotechnology / pharmaceutical,2104,High Point,NC,Stephen L. Holcombe,2021
+83,"Arkose Labs , Inc.",Software & SaaS,2010,San Francisco,CA,Kevin Gosschalk,2021
+84,SolarLeadFactory,Digital content / media / entertainment,1966,Sheridan,WY,Clayton Cornell,2021
+85,"Catalyst Biosciences , Inc.",Biotechnology / pharmaceutical,1958,South San Francisco,CA,Nassim Usman,2021
+86,"Paradox , Inc.",Software & SaaS,1956,Scottsdale,AZ,Aaron Matos,2021
+87,Nanit,Electronic devices / hardware,1897,New York,NY,Sarah Dorsett,2021
+88,Traliant,Software & SaaS,1894,Manhattan Beach,CA,John Arendes,2021
+89,OneSignal,Software & SaaS,1852,San Mateo,CA,George Deglin,2021
+90,LinkSquares,Software & SaaS,1805,Boston,MA,Vishal Sunak,2021
+91,MOLOCO,Software & SaaS,1797,Redwood City,CA,Ikkjin Ahn,2021
+92,Gravy Analytics,Software & SaaS,1768,Dulles,VA,Jeff White,2021
+93,LeaseQuery,Software & SaaS,1735,Atlanta,GA,George Azih,2021
+94,YouAppi,Software & SaaS,1730,Palo Alto,CA,Moshe Vaknin,2021
+95,Alaya Care,Software & SaaS,1715,Montréal,ос,Adrian Schauer,2021
+96,Shiftsmart,Software & SaaS,1649,New York,NY,Aakash Kumar,2021
+97,Premise Data,Software & SaaS,1623,San Francisco,CA,Maury Blackman,2021
+98,"Voyager Therapeutics , Inc.",Biotechnology / pharmaceutical,1588,Cambridge,MA,Michael J. Higgins,2021
+99,Workspot,Software & SaaS,1571,Campbell,CA,Amitabh Sinha,2021
+100,"HAAWK , Inc.",Digital content / media / entertainment,1570,Studio City,CA,Ryan Born,2021
+101,Latch,Software & SaaS,1568,New York,NY,Luke Schoenfelder,2021
+102,Yieldstreet,Software & SaaS,1559,New York,NY,Milind Mehere,2021
+103,DataRobot,Software & SaaS,1557,Boston,MA,Dan Wright,2021
+104,Kong Inc.,Software & SaaS,1519,San Francisco,CA,Augusto Marietti,2021
+105,Rhythm Management Group Corp,Software & SaaS,1390,Rockville,MD,Rhonda Bray,2021
+106,"REGENXBIO , Inc.",Biotechnology / pharmaceutical,1387,Rockville,MD,Kenneth T. Mills,2021
+107,Awardco,Software & SaaS,1379,Provo,UT,Steve Sonnenberg,2021
+108,Text Request,Software & SaaS,1355,Chattanooga,TN,Brian Elrod,2021
+109,ShipMonk,Software & SaaS,1350,Fort Lauderdale,FL,Jan Bednar,2021
+110,InstaMortgage,Software & SaaS,1331,San Jose,CA,Shashank Shekhar,2021
+111,Branch Metrics Inc.,Software & SaaS,1313,Redwood City,CA,Alex Austin,2021
+112,LogDNA,Software & SaaS,1293,Mountain View,CA,Tucker Callaway,2021
+113,Kyyba Tech,Software & SaaS,1281,Farmington Hills,MI,Thiru Ganesan,2021
+114,Vercel,Software & SaaS,1277,San Francisco,CA,Guillermo Rauch,2021
+115,Embark,Biotechnology / pharmaceutical,1274,Boston,MA,Ryan Boyko,2021
+116,Wisely,Software & SaaS,1267,Ann Arbor,MI,Mike Vichich,2021
+117,Avidon Health,Software & SaaS,1157,Cranford,NJ,Clark Lagemann,2021
+118,Unite Us,Software & SaaS,1156,New York,NY,Dan Brillman,2021
+119,Later,Software & SaaS,1135,Vancouver,BC,Roger Patterson,2021
+120,SentinelOne,Software & SaaS,1133,Mountain View,CA,Tomer Weingarten,2021
+121,HUNGRY,Software & SaaS,1128,Arlington,VA,Jeff Grass,2021
+122,Fivetran,Software & SaaS,1122,Oakland,CA,George Fraser,2021
+123,Uscreen,Software & SaaS,1120,Gaithersburg,MD,PJ Taei,2021
+124,"Abeona Therapeutics , Inc.",Biotechnology / pharmaceutical,1095,New York,NY,Michael Amoroso,2021
+125,Avanan,Software & SaaS,1094,New York,NY,Gil Friedrich,2021
+126,Single Store,Software & SaaS,1086,San Francisco,CA,Raj Verma,2021
+127,VitalHub Corp.,Software & SaaS,1064,Toronto,ON,Dan Matlow,2021
+128,FundThrough,Software & SaaS,1058,Toronto,ON,Steven Uster,2021
+129,"exp World Holdings , Inc.",Software & SaaS,1052,Bellingham,WA,Glenn Sanford,2021
+130,14th Round Inc.,Electronic devices / hardware,1049,Los Angeles,CA,Jeremy Green,2021
+131,liqid,Software & SaaS,1034,Broomfield,со,Sumit Puri,2021
+132,HiredScore,Software & SaaS,1030,New York,NY,Athena Karp,2021
+133,Well Health Inc.,Software & SaaS,1027,Santa Barbara,CA,Guillaume de Zwirek,2021
+134,Nations Benefits,Software & SaaS,1010,Plantation,FL,"Glenn M. Parker , MD",2021
+135,Upgrade,Software & SaaS,1005,San Francisco,CA,Renaud Laplanche,2021
+136,Outreach,Software & SaaS,999,Seattle,WA,Manny Medina,2021
+137,Stax,Software & SaaS,992,Orlando,FL,Suneera Madhani,2021
+138,"Collegium Pharmaceutical , Inc.",Biotechnology / pharmaceutical,989,Stoughton,MA,Joseph J. Ciaffoni,2021
+139,Benchling,Software & SaaS,987,San Francisco,CA,Sajith Wickramasekara,2021
+140,"Radius Health , Inc.",Biotechnology / pharmaceutical,979,Boston,MA,G. Kelly Martin,2021
+141,Recharge,Software & SaaS,978,Santa Monica,CA,Oisin O'Connor,2021
+142,"Ontrak , Inc.",Software & SaaS,973,Santa Monica,CA,Jonathan Mayhew,2021
+143,Whatfix,Software & SaaS,972,San Jose,CA,Khadim Batti,2021
+144,Talent.com,Digital content / media / entertainment,954,Montréal,QC,"Lucas Martinez / Maxime
+Droux / Benjamin Philion",2021
+145,Sigmoid,Software & SaaS,945,San Francisco,CA,Lokesh Anand,2021
+146,Highspot,Software & SaaS,935,Seattle,WA,Robert Wahbe,2021
+147,Shipfusion Inc.,Software & SaaS,932,Carol Stream,IL,Brandon Luft,2021
+148,XpertSea,Software & SaaS,929,Québec,QC,Valerie Robitaille,2021
+149,"Zoom Video Communications , Inc.",Software & SaaS,924,San Jose,CA,Eric Yuan,2021
+150,"Siga Technologies , Inc.",Biotechnology / pharmaceutical,918,New York,NY,Phillip Louis Gomez,2021
+151,Educative,Software & SaaS,900,Bellevue,WA,Fahim ul Haq,2021
+152,LogicGate,Software & SaaS,899,Chicago,IL,Matt Kunkel,2021
+153,Workato,Software & SaaS,893,Mountain View,CA,Vijay Tella,2021
+154,StackAdapt,Software & SaaS,885,Toronto,ON,Ildar Sharafutdinov,2021
+155,Crayon,Software & SaaS,881,Dallas,TX,Glenn Orcutt,2021
+156,Guardicore,Software & SaaS,876,Boston,MA,Pavel Gurvich,2021
+157,Aligned,Communications / networking,870,Plano,TX,Andrew Schaap,2021
+158,Quantum Metric,Software & SaaS,868,Colorado Springs,со,Mario Ciabarra,2021
+159,Arctic Wolf,Software & SaaS,861,Eden Prairie,MN,Nick Schneider,2021
+160,SmartAsset,Software & SaaS,855,New York,NY,Michael Carvin,2021
+161,OwnBackup,Software & SaaS,837,Englewood Cliffs,NJ,Sam Gutmann,2021
+162,WorkBoard Inc.,Software & SaaS,829,Redwood City,CA,Deidre Paknad,2021
+163,Qumulo,Software & SaaS,807,Seattle,WA,Bill Richter,2021
+164,Accushield,Software & SaaS,806,Atlanta,GA,Allen Barnes,2021
+165,"Ocular Therapeutix , Inc.",Biotechnology / pharmaceutical,805,Bedford,MA,Antony Charles Mattessich,2021
+166,Flexe,Software & SaaS,800,Seattle,WA,Karl Siebrecht,2021
+167,HomeLight,Software & SaaS,798,Scottsdale,AZ,Drew Uher,2021
+168,Remesh,Software & SaaS,789,New York,NY,Andrew Konya,2021
+169,Socure,Software & SaaS,783,New York,NY,Johnny Ayers,2021
+170,PayRange,Software & SaaS,777,Portland,OR,Paresh Patel,2021
+171,"Assembly Biosciences , Inc.",Biotechnology / pharmaceutical,777,South San Francisco,CA,John G. McHutchison,2021
+172,AlertMedia,Software & SaaS,773,Austin,TX,Brian Cruver,2021
+173,Arcadia,Energy tech,771,Washington,DC,Kiran Bhatraju,2021
+174,Pendo,Software & SaaS,767,Raleigh,NC,Todd Olson,2021
+175,"Guideline , Inc.",Software & SaaS,763,San Mateo,CA,Kevin Busque,2021
+176,Algo,Software & SaaS,759,Troy,MI,Amjad Hussain,2021
+177,Domino Data Lab,Software & SaaS,759,San Francisco,CA,Nick Elprin,2021
+178,"Aytu Biopharma , Inc.",Biotechnology / pharmaceutical,758,Englewood,со,Josh Disbrow,2021
+179,XSELL Technologies,Software & SaaS,757,Chicago,IL,Matt Coughlin,2021
+180,Brainvire Infotech Inc.,Software & SaaS,755,Plano,TX,Chintan Shah,2021
+181,"Onna Technologies , Inc.",Software & SaaS,750,New York,NY,Salim Elkhou,2021
+182,Day Two,Software & SaaS,744,Walnut Creek,CA,Dave Henderson,2021
+183,"KalVista Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,744,Cambridge,MA,Andrew Crockett,2021
+184,Fiscal Note,Software & SaaS,739,Washington,DC,Tim Hwang,2021
+185,Twist Bioscience,Biotechnology / pharmaceutical,737,South San Francisco,CA,Emily Leproust,2021
+186,Credly,Software & SaaS,734,New York,NY,Jonathan Finkelstein,2021
+187,Xometry,Software & SaaS,731,Gaithersburg,MD,Randy Altschuler,2021
+188,Filevine,Software & SaaS,730,Salt Lake City,UT,Ryan Anderson,2021
+189,Valsoft,Software & SaaS,729,Saint - Laurent,QC,Sam Youssef,2021
+190,Biktrix Enterprises Inc.,Energy tech,728,Saskatoon,SK,Roshan Thomas,2021
+191,Vive Crop Protection,Biotechnology / pharmaceutical,722,Mississauga,ON,Darren Anderson,2021
+192,FullStory,Software & SaaS,715,Atlanta,GA,Scott Voigt,2021
+193,"Puma Biotechnology , Inc.",Biotechnology / pharmaceutical,713,Los Angeles,CA,Alan H. Auerbach,2021
+194,Calendly,Software & SaaS,713,Atlanta,GA,Tope Awotona,2021
+195,Food Cycle Science,Electronic devices / hardware,713,Ottawa,ON,Bradley Crepeau,2021
+196,Petal MD,Software & SaaS,712,Québec,QC,Patrice Gilbert,2021
+197,AuditBoard,Software & SaaS,694,Cerritos,CA,Scott Arnold,2021
+198,SkySpecs,Energy tech,692,Ann Arbor,MI,Danny Ellis,2021
+199,MindTickle,Software & SaaS,684,San Francisco,CA,Krishna Depura,2021
+200,IntelyCare,Software & SaaS,679,Quincy,MA,David Coppins,2021
+201,Klaviyo,Software & SaaS,679,Boston,MA,Andrew Bialecki,2021
+202,Vyvo,Electronic devices / hardware,679,San Francisco,CA,Seán McVeigh,2021
+203,09 Solutions,Software & SaaS,674,Dallas,TX,Chakri Gottemukkala,2021
+204,EBlock,Software & SaaS,674,Toronto,ON,Jason McClenahan,2021
+205,Prove,Software & SaaS,671,New York,NY,Rodger Desai,2021
+206,Incorta,Software & SaaS,670,San Mateo,CA,Scott Jones,2021
+207,"Fate Therapeutics , Inc.",Biotechnology / pharmaceutical,666,San Diego,CA,Scott Wolchko,2021
+208,"Emulate , Inc.",Biotechnology / pharmaceutical,664,Boston,MA,Jim Corbett,2021
+209,Mason,Electronic devices / hardware,658,Seattle,WA,Nancy Xiao,2021
+210,FreightWaves,Software & SaaS,651,Chattanooga,TN,Craig Fuller,2021
+211,"AnaptysBio , Inc.",Biotechnology / pharmaceutical,650,San Diego,CA,Hamza Suria,2021
+212,Siemplify,Software & SaaS,645,New York,NY,Amos Stern,2021
+213,Aircall,Software & SaaS,645,New York,NY,Olivier Pailhes,2021
+214,"CrowdStrike Holdings , Inc.",Software & SaaS,636,Sunnyvale,CA,George Kurtz,2021
+214,Forter,Software & SaaS,636,New York,NY,Michael Reitblat,2021
+215,Overwatch Imaging,Electronic devices / hardware,635,Hood River,OR,Greg Davis,2021
+216,"Alector , Inc.",Biotechnology / pharmaceutical,635,South San Francisco,CA,Arnon Rosenthal,2021
+217,Sightline Payments,Software & SaaS,632,Las Vegas,NV,Joe Pappano,2021
+218,GeoComply Solutions Inc.,Software & SaaS,629,Vancouver,BC,David Briggs,2021
+219,Blueshift,Software & SaaS,616,San Francisco,CA,Vijay Chittoor,2021
+220,"Bluebird Bio , Inc.",Biotechnology / pharmaceutical,608,Cambridge,MA,Andrew Obenshain,2021
+221,"Amicus Therapeutics , Inc.",Biotechnology / pharmaceutical,606,Philadelphia,PA,John F. Crowley,2021
+222,Fieldwire,Software & SaaS,604,San Francisco,CA,Yves Frinault,2021
+223,Kyligence,Software & SaaS,604,San Jose,CA,Luke Han,2021
+224,Freestar,Software & SaaS,599,Scottsdale,AZ,Kurt Donnell,2021
+225,Treez,Software & SaaS,597,San Francisco,CA,John Yang,2021
+226,QOS Networks,Communications / networking,594,Irvine,CA,Frank Cittadino,2021
+227,"Rescale , Inc.",Software & SaaS,592,San Francisco,CA,Joris Poort,2021
+228,Even Financial,Software & SaaS,591,New York,NY,Phillip Rosen,2021
+229,FloQast,Software & SaaS,588,Sherman Oaks,CA,Mike Whitmire,2021
+230,"Acceleron Pharma , Inc.",Biotechnology / pharmaceutical,586,Cambridge,MA,Habib J. Dable,2021
+231,Bold Penguin,Software & SaaS,582,Columbus,OH,Ilya Bodner,2021
+232,Cybrary,Software & SaaS,576,Riverdale,MD,Kevin Hanes,2021
+233,Loopio,Software & SaaS,569,Toronto,ON,Zak Hemraj,2021
+234,SmartFinancial,Software & SaaS,569,Costa Mesa,CA,Lev Barinskiy,2021
+235,"Editas Medicine , Inc.",Biotechnology / pharmaceutical,561,Cambridge,MA,James C. Mullen,2021
+236,Proctorio,Software & SaaS,554,Scottsdale,AZ,Mike Olsen,2021
+237,Glia,Software & SaaS,554,New York,NY,Daniel Michaeli,2021
+238,Contrast Security,Software & SaaS,551,Los Altos,CA,Alan Naumann,2021
+239,Simplify Healthcare,Software & SaaS,551,Aurora,IL,Mohammed Vaid,2021
+240,Innovaccer Inc.,Software & SaaS,550,San Francisco,CA,Abhinav Shashank,2021
+241,"Molecular Templates , Inc.",Biotechnology / pharmaceutical,549,Austin,TX,Eric E. Poma,2021
+242,Sysdig,Software & SaaS,549,San Francisco,CA,Suresh Vasudevan,2021
+243,jane.app,Software & SaaS,536,North Vancouver,BC,Alison Taylor,2021
+244,Sentry,Software & SaaS,533,San Francisco,CA,Milin Desai,2021
+245,Remitly,Software & SaaS,529,Seattle,WA,Matt Oppenheimer,2021
+246,LiveBarn Inc.,Digital content / media / entertainment,527,Montréal,QC,Farrel Miller,2021
+247,Genexa,Biotechnology / pharmaceutical,526,Atlanta,GA,David Johnson,2021
+248,Uniphore,Software & SaaS,526,Palo Alto,CA,Umesh Sachdev,2021
+249,Fountain,Software & SaaS,523,San Francisco,CA,Sean Behr,2021
+250,Vosker Technology,Software & SaaS,521,Victoriaville,QC,Yan Gagnon,2021
+251,MURAL,Software & SaaS,520,San Francisco,CA,Mariano Suarez - Battan,2021
+252,Red Canary,Software & SaaS,520,Denver,со,Brian Beyer,2021
+253,Phenom,Software & SaaS,519,Ambler,PA,Mahe Bayireddi,2021
+254,Wellframe,Software & SaaS,514,Boston .,MA,Jacob Sattelmair,2021
+255,ServiceTitan,Software & SaaS,513,Glendale,CA,Ara Mahdessian,2021
+256,Pipefy,Software & SaaS,507,San Francisco,CA,Alessio Alionço,2021
+257,PureSpectrum,Software & SaaS,504,Westlake Village,CA,Michael McCrary,2021
+258,Socialive,Digital content / media / entertainment,500,El Segundo,CA,David Moricca,2021
+259,"Datadog , Inc.",Software & SaaS,499,New York,NY,Olivier Pomel,2021
+260,Influence Mobile,Digital content / media / entertainment,498,Kirkland,WA,Daniel Todd,2021
+261,Quidel Corp.,Medical devices,498,San Diego,CA,Douglas C. Bryant,2021
+262,Adapex,Digital content / media / entertainment,497,New York,NY,Debra Fleenor,2021
+263,Eddyfi / NDT,Electronic devices / hardware,494,Québec,QC,Martin Thériault,2021
+264,Visual Lease,Software & SaaS,493,Woodbridge,NJ,Marc Betesh,2021
+265,Thinkific,Software & SaaS,489,Vancouver,BC,Greg Smith,2021
+266,GaN Systems,Semiconductor,485,Ottawa,ON,Jim Witham,2021
+267,Leaf Home,Software & SaaS,484,Hudson,OH,Rocco Mango,2021
+268,Textio,Software & SaaS,484,Seattle,WA,Kieran Snyder,2021
+269,Blue Prism,Software & SaaS,479,Austin,TX,Jason Kingdon,2021
+270,"Guardant Health , Inc.",Biotechnology / pharmaceutical,475,Redwood City,CA,Helmy A. Eltoukhy,2021
+271,InnoCaption,Communications / networking,474,Buena Park,CA,Joseph Lee,2021
+272,Introhive,Software & SaaS,473,Fredericton,NB,Jody Glidden,2021
+273,Quadrant Resource LLC,Software & SaaS,471,Redmond,WA,Vamshi Kancharakuntla,2021
+274,Piano,Software & SaaS,470,Philadelphia,PA,Trevor Kaufman,2021
+275,Poka,Software & SaaS,469,Québec,QC,Alexandre Leclerc,2021
+276,Evolve,Software & SaaS,467,Denver,со,Brian Egan,2021
+277,CoreView,Software & SaaS,466,Alpharetta,GA,Shawn Lankton,2021
+278,Applitools,Software & SaaS,465,San Mateo,CA,Gil Sever,2021
+279,"Alastin Skincare , Inc.",Biotechnology / pharmaceutical,465,Carlsbad,CA,Diane Goostree,2021
+280,In Market,Digital content / media / entertainment,463,Culver City,CA,Todd Dipaola,2021
+281,Exact Sciences Corporation,Biotechnology / pharmaceutical,461,Madison,WI,Kevin T. Conroy,2021
+282,Urgently,Software & SaaS,457,Vienna,VA,Chris Spanos,2021
+283,Blackbird Interactive Inc.,Digital content / media / entertainment,455,Vancouver,BC,Rob Cunningham,2021
+284,MannKind Corp.,Biotechnology / pharmaceutical,455,Westlake Village,CA,Michael E. Castagna,2021
+285,Everlance,Software & SaaS,453,San Francisco,CA,Alex Marlantes,2021
+286,Riva Solutions Inc.,Software & SaaS,452,McLean,VA,Naveen Krishnamurthy,2021
+287,One Drop,Medical devices,450,New York,NY,Jeff Dachis,2021
+288,Motus,Software & SaaS,450,Boston,MA,Craig Powell,2021
+289,"Alnylam Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,448,Cambridge,MA,John M. Maraganore,2021
+290,CENTEGIX,Software & SaaS,443,Atlanta,GA,Brent Cobb,2021
+291,good natured Products Inc.,Biotechnology / pharmaceutical,441,Vancouver,BC,Paul Antoniadis,2021
+292,SimpleNexus,Software & SaaS,433,Lehi,UT,Matt Hansen,2021
+293,Auvik Networks Inc.,Software & SaaS,430,Waterloo,ON,Marc Morin,2021
+294,ESSENTIAL Accessibility Inc.,Software & SaaS,428,Toronto,ON,Mark Steele,2021
+295,WellnessLiving,Software & SaaS,427,Richmond Hill,ON,Len Fridman,2021
+296,Rapid Novor Inc.,Biotechnology / pharmaceutical,422,Kitchener,ON,Mingjie Xie,2021
+297,"Field Effect Software , Inc.",Software & SaaS,421,Ottawa,ON,Matt Holland,2021
+298,ZoomInfo,Software & SaaS,419,Vancouver,WA,Henry Schuck,2021
+299,AscellaHealth,Biotechnology / pharmaceutical,417,Berwyn,PA,Dea Belazi,2021
+300,Jobber,Software & SaaS,416,Edmonton,AB,Sam Pillar,2021
+301,DISQO,Software & SaaS,414,Glendale,CA,Armen Adjemian,2021
+302,KnowBe4,Software & SaaS,410,Clearwater,FL,Stu Sjouwerman,2021
+303,Aterian,Electronic devices / hardware,409,New York,NY,Yaniv Sarig,2021
+304,Onit,Software & SaaS,408,Houston,TX,Eric M. Elfman,2021
+305,Compass Datacenters,Communications / networking,406,Dallas,TX,Chris Crosby,2021
+306,Hiya,Software & SaaS,406,Seattle,WA,Alex Algard,2021
+307,Eagle Eye Networks,Electronic devices / hardware,403,Austin,TX,Dean Drako,2021
+308,EmpiRx Health,Biotechnology / pharmaceutical,403,Montvale,NJ,Karthik Ganesh,2021
+309,Graylog,Software & SaaS,402,Houston,TX,Andy Grolnick,2021
+310,"DataCamp , Inc.",Software & SaaS,401,New York,NY,Jonathan Cornelissen,2021
+311,Podium,Software & SaaS,400,Lehi,UT,Eric Rea,2021
+312,Kajabi,Software & SaaS,400,Irvine,CA,Kenny Rueter,2021
+313,Ridgeline International,Software & SaaS,395,Tysons Corner,VA,Erik Wittreich,2021
+314,EngageSmart,Software & SaaS,393,Braintree,MA,Bob Bennett,2021
+315,Fleetio,Software & SaaS,393,Birmingham,AL,Tony Summerville,2021
+316,SheerID,Software & SaaS,387,Portland,OR,Jake Weatherly,2021
+317,Dental Intelligence,Software & SaaS,387,Pleasant Grove,UT,Weston Lunsford,2021
+318,Elastic,Software & SaaS,385,Mountain View,CA,Shay Banon,2021
+319,Sangoma Technologies,Communications / networking,383,Markham,ON,William Wignall,2021
+320,dv01,Software & SaaS,383,New York,NY,Perry Rahbar,2021
+321,Tipalti,Software & SaaS,382,San Mateo,CA,Chen Amit,2021
+322,Sentieo,Software & SaaS,381,San Francisco,CA,David Lichtblau,2021
+323,Qentelli LLC,Software & SaaS,376,Dallas,TX,Sanjay Jupudi,2021
+324,Bluecore,Software & SaaS,376,New York,NY,Fayez Mohamood,2021
+325,Sales Loft,Software & SaaS,375,Atlanta,GA,Kyle Porter,2021
+326,Insurify,Software & SaaS,375,Cambridge,MA,Snejina Zacharia,2021
+327,"Agios Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,372,Cambridge,MA,Jacqualyn A. Fouse,2021
+328,AdAdapted,Software & SaaS,372,Ann Arbor,MI,Mike Pedersen,2021
+329,Vectra Al,Software & SaaS,371,San Jose,CA,Hitesh Sheth,2021
+330,inVibe Labs,Software & SaaS,370,Costa Mesa,CA,Fabio Gratton,2021
+331,Salsify,Software & SaaS,365,Boston,MA,Jason Purcell,2021
+332,CoollT Systems,Electronic devices / hardware,364,Calgary,AB,Steven Walton,2021
+333,"Tandem Diabetes Care , Inc.",Medical devices,364,San Diego,CA,John F. Sheridan,2021
+334,AeroSafe Global,Biotechnology / pharmaceutical,362,Rochester,NY,Jay McHarg,2021
+335,OppFi,Software & SaaS,362,Chicago,IL,Jared Kaplan,2021
+336,CircleCl,Software & SaaS,360,San Francisco,CA,Jim Rose,2021
+337,CrowdStreet,Software & SaaS,360,Austin,TX,Tore Steen,2021
+338,"VYNE Therapeutics , Inc.",Biotechnology / pharmaceutical,358,Bridgewater,NJ,David Domzalski,2021
+339,"EyePoint Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,357,Watertown,MA,Nancy S. Lurker,2021
+340,Exabeam,Software & SaaS,357,Foster City,CA,Michael DeCesare,2021
+341,Reciprocity,Software & SaaS,352,San Francisco,CA,Ken Lynch,2021
+342,Seagen Inc.,Biotechnology / pharmaceutical,351,Bothell,WA,Clay B. Siegall,2021
+343,SecurityScorecard,Software & SaaS,350,New York,NY,Aleksandr Yampolskiy,2021
+344,MedShift,Medical devices,350,Charlotte,NC,Brian Phillips,2021
+345,Morning Consult,Software & SaaS,349,Washington,DC,Michael Ramlet,2021
+346,Amplitude,Software & SaaS,348,San Francisco,CA,Spenser Skates,2021
+347,Twilio,Software & SaaS,342,San Francisco,CA,Jeff Lawson,2021
+348,Seismic,Software & SaaS,341,San Diego,CA,Doug Winter,2021
+349,CloudBolt Software,Software & SaaS,341,Rockville,MD,Jeff Kukowski,2021
+350,Homecare.com,Software & SaaS,339,McLean,VA,Todd Walrath,2021
+351,IGEL,Software & SaaS,339,San Francisco,CA,Jed Ayres,2021
+352,doxo,Software & SaaS,338,Seattle,WA,Steve Shivers,2021
+353,"BioLife Solutions , Inc.",Biotechnology / pharmaceutical,336,Bothell,WA,Mike Rice,2021
+354,Head Light,Software & SaaS,334,Seattle,WA,George White,2021
+355,Wahoo Fitness,Electronic devices / hardware,333,Atlanta,GA,Mike Saturnia,2021
+356,Wavo.me Inc.,Digital content / media / entertainment,332,Montréal,QC,Conor Clarke,2021
+357,Automation Anywhere,Software & SaaS,331,San Jose,CA,Mihir Shukla,2021
+358,"Square , Inc.",Software & SaaS,329,San Francisco,CA,Jack Dorsey,2021
+359,Codecademy,Software & SaaS,328,New York,NY,Zach Sims,2021
+360,Ease,Software & SaaS,328,San Francisco,CA,David Reid,2021
+361,MacStadium,Communications / networking,327,Atlanta,GA,Gregory McGraw,2021
+362,7shifts,Software & SaaS,327,Saskatoon,SK,Jordan Boesch,2021
+363,Bitmovin,Software & SaaS,327,San Francisco,CA,Stefan Lederer,2021
+364,10x Genomics,Biotechnology / pharmaceutical,320,Pleasanton,CA,Serge Saxonov,2021
+365,Lucid,Software & SaaS,320,South Jordan,UT,Karl Sun,2021
+366,"Digital Turbine , Inc.",Software & SaaS,319,Austin,TX,William G. Stone,2021
+367,Alkami,Software & SaaS,318,Plano,TX,Mike Hansen,2021
+368,FM : Systems,Software & SaaS,318,Raleigh,NC,Kurt von Koch,2021
+369,Devo,Software & SaaS,318,Cambridge,MA,Marc van Zadelhoff,2021
+370,Stensul,Software & SaaS,318,New York,NY,Noah Dinkin,2021
+371,"Cytokinetics , Inc.",Biotechnology / pharmaceutical,318,South San Francisco,CA,Robert I. Blum,2021
+372,FLO | AddEnergie,Energy tech,317,Québec,ос,Louis Tremblay,2021
+373,Apollo Intelligence,Software & SaaS,316,Watertown,MA,Daniel S. Fitzgerald,2021
+374,Featurespace,Software & SaaS,316,Atlanta,GA,Martina King,2021
+375,Keyfactor,Software & SaaS,314,Independence,OH,Jordan Rackie,2021
+376,Recorded Future,Software & SaaS,313,Somerville,MA,Christopher Ahlberg,2021
+377,JobNimbus,Software & SaaS,310,Lehi,UT,Ben Hodson,2021
+378,Drips,Software & SaaS,308,Akron,OH,Aaron Christopher Evans,2021
+379,FormFree,Software & SaaS,308,Athens,GA,Brent Chandler,2021
+380,N2WS,Software & SaaS,306,West Palm Beach,FL,Ohad Kritz,2021
+381,Billing Platform,Software & SaaS,305,Centennial,со,Dennis Wall,2021
+382,Smartsheet Inc.,Software & SaaS,305,Bellevue,WA,Mark Patrick Mader,2021
+383,Robin,Software & SaaS,304,Boston,MA,Sam Dunn,2021
+384,Inspire Medical Systems,Medical devices,304,Golden Valley,MN,Tim Herbert,2021
+385,"Red Violet , Inc.",Software & SaaS,303,Boca Raton,FL,Derek Dubner,2021
+386,Icertis,Software & SaaS,303,Bellevue,WA,Samir Bodas,2021
+387,"Veritone , Inc.",Software & SaaS,300,Costa Mesa,CA,Chad Steelberg,2021
+388,AccuTitle,Software & SaaS,299,Ship Bottom,NJ,Bill Bartzak,2021
+389,TapClassifieds,Software & SaaS,298,San Jose,CA,Jaideep Jain,2021
+390,"CareDx , Inc.",Biotechnology / pharmaceutical,298,South San Francisco,CA,Reginald Seeto,2021
+391,OneStream Software,Software & SaaS,297,Rochester,MI,Tom Shea,2021
+392,Pattern,Software & SaaS,295,Lehi,UT,David Wright,2021
+393,Clinical Ink,Biotechnology / pharmaceutical,293,Horsham,PA,Ed Seguine,2021
+394,MineralTree,Software & SaaS,292,Waltham,MA,Micah Remley,2021
+395,Fusion Health,Software & SaaS,292,Woodbridge,NJ,Bryan Jakovcic,2021
+396,"Etsy , Inc.",Software & SaaS,291,Brooklyn,NY,Josh Silverman,2021
+397,Mentour Corporation,Software & SaaS,291,Edison,NJ,Sumanth Neelam,2021
+398,Urbint,Software & SaaS,291,New York,NY,Corey Capasso,2021
+399,Terminus,Software & SaaS,291,Atlanta,GA,Tim Kopp,2021
+400,Central Reach,Software & SaaS,290,Fort Lauderdale,FL,Chris Sullens,2021
+401,Attivo Networks,Software & SaaS,289,Fremont,CA,Tushar Kothari,2021
+402,"Athenex , Inc.",Biotechnology / pharmaceutical,288,Buffalo,NY,Johnson Y.N. Lau,2021
+403,eLuma,Software & SaaS,288,Lehi,UT,Jeremy Glauser,2021
+404,ActivTrak,Software & SaaS,287,Austin,TX,Rita Selvaggi,2021
+405,BiolQ,Software & SaaS,287,Atlanta,GA,Sean Slovenski,2021
+406,Intelligent Systems Corporation,Software & SaaS,286,Norcross,GA,J. Leland Strange,2021
+407,Iterate.ai,Software & SaaS,284,San Jose,CA,Jon Nordmark,2021
+408,JFrog,Software & SaaS,282,San Francisco,CA,Shlomi Ben Haim,2021
+409,Clutch,Digital content / media / entertainment,282,Washington,DC,Michael Beares,2021
+410,BitSight,Software & SaaS,280,Boston,MA,Steve Harvey,2021
+411,Sayari Labs,Software & SaaS,278,Washington,DC,Farley Mesko,2021
+412,Pushpay,Software & SaaS,278,Redmond,WA,Molly Matthews,2021
+413,Quanterix Corp.,Biotechnology / pharmaceutical,278,Billerica,MA,E. Kevin Hrusovsky,2021
+414,Sift Media,Digital content / media / entertainment,277,Durham,NC,Jud Bowman,2021
+415,Built In,Software & SaaS,277,Chicago,IL,Maria Christopoulos Katris,2021
+416,Alteryx,Software & SaaS,276,Irvine,CA,Mark Anderson,2021
+417,Hopper,Software & SaaS,275,Montréal,QC,Fred Lalonde,2021
+418,"TherapeuticsMD , Inc.",Biotechnology / pharmaceutical,275,Boca Raton,FL,Robert G. Finizio,2021
+419,"Precision BioSciences , Inc.",Biotechnology / pharmaceutical,275,Durham,NC,Matt Kane,2021
+420,Front,Software & SaaS,274,San Francisco,CA,Mathilde Collin,2021
+421,Panda Doc,Software & SaaS,272,San Francisco,CA,Mikita Mikado,2021
+422,Snowflake,Software & SaaS,271,Bozeman,MT,Frank Slootman,2021
+423,Triple Lift,Software & SaaS,271,New York,NY,Eric Berry,2021
+424,Apex Fintech Solutions LLC,Software & SaaS,270,Dallas,TX,Bill Capuzzi,2021
+425,Mosaic Group,Software & SaaS,269,New York,NY,Zachary Roseman,2021
+426,Doxim,Software & SaaS,269,Markham,ON,Michael Rogalski,2021
+427,Redis,Software & SaaS,268,Mountain View,CA,Ofer Bengal,2021
+428,LendingPoint,Software & SaaS,268,Kennesaw,GA,Tom Burnside,2021
+429,Docebo,Software & SaaS,267,Toronto,ON,Claudio Erba,2021
+430,MongoDB,Software & SaaS,267,New York .,NY,Dev C. Ittycheria,2021
+431,Brillient Corporation,Software & SaaS,266,Reston,VA,Sukumar lyer,2021
+432,NS1,Software & SaaS,266,New York,NY,Kris Beevers,2021
+433,SaaSOptics,Software & SaaS,266,Norcross,GA,Tim McCormick,2021
+434,Roadmunk,Software & SaaS,264,Kitchener,ON,Latif Nanji,2021
+435,"Okta , Inc.",Software & SaaS,264,San Francisco,CA,Todd McKinnon,2021
+436,Hifi,Energy tech,264,Calgary,AB,Steven Koles,2021
+437,Skilljar,Software & SaaS,264,Seattle,WA,Sandi Lin,2021
+438,"Pinterest , Inc.",Software & SaaS,258,San Francisco,CA,Ben Silbermann,2021
+439,OptimizeRx,Software & SaaS,257,Rochester,MI,William Febbo,2021
+440,Clearsense,Software & SaaS,254,Jacksonville,FL,Gene Scheurer,2021
+441,"Acadia Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,254,San Diego,CA,Stephen R. Davis,2021
+442,Saviynt,Software & SaaS,252,El Segundo,CA,Amit Saha,2021
+443,Appspace,Software & SaaS,251,Dallas,TX,Brandon Miles,2021
+444,Zimperium,Software & SaaS,251,Dallas,TX,Shridhar Mittal,2021
+445,Salute Mission Critical,Communications / networking,250,Clinton Twp,MI,Jason Okroy,2021
+446,"Sarepta Therapeutics , Inc.",Biotechnology / pharmaceutical,249,Cambridge,MA,Douglas S. Ingram,2021
+447,Zenoti,Software & SaaS,249,Bellevue,WA,Sudheer Koneru,2021
+448,BlueSnap,Software & SaaS,248,Waltham,MA,Ralph Dangelmaier,2021
+449,Health Union,Digital content / media / entertainment,247,Philadelphia,PA,Olivier Chateau,2021
+450,"Roku , Inc.",Digital content / media / entertainment,247,San Jose,CA,Anthony J. Wood,2021
+451,"ThinkOn , Inc.",Software & SaaS,246,Etobicoke,ON,Craig McLellan,2021
+452,3Gtms,Software & SaaS,246,Shelton,CT,Paul Brady,2021
+453,ThoughtExchange,Software & SaaS,245,Rossland,BC,Dave MacLeod,2021
+454,Ontra ( FKA InCloudCounsel ),Software & SaaS,245,San Francisco,CA,Troy Pospisil,2021
+455,"Paratek Pharmaceuticals , Inc.",Biotechnology / pharmaceutical,245,Boston,MA,Evan Loh,2021
+456,Foureyes,Software & SaaS,243,Portland,OR,David Steinberg,2021
+457,Zscaler,Software & SaaS,243,San Jose,CA,Jay Chaudhry,2021
+458,Noodle.ai,Software & SaaS,242,San Francisco,CA,Stephen Pratt,2021
+459,Zynex Medical,Medical devices,242,Englewood,со,Thomas Sandgaard,2021
+460,Sirion Labs,Software & SaaS,242,Bellevue,WA,Ajay Agrawal,2021
+461,Cloudbeds,Software & SaaS,241,San Diego,CA,Adam Harris,2021
+462,ClarisHealth,Software & SaaS,241,Nashville,TN,Jeff McNeese,2021
+463,Explorance,Software & SaaS,238,Montréal,QC,Samer Saab,2021
+464,Fundrise,Software & SaaS,238,Washington,DC,Ben Miller,2021
+465,Dataminr,Software & SaaS,237,New York,NY,Ted Bailey,2021
+466,Clear Touch Interactive,Electronic devices / hardware,236,Greenville,SC,Keone Trask,2021
+467,CampusLogic,Software & SaaS,235,Chandler,AZ,Gregg Scoresby,2021
+468,"TransMedics Group , Inc.",Medical devices,234,Andover,MA,Waleed Hassanein,2021
+469,Submittable,Software & SaaS,233,Missoula,MT,Thor Culverhouse,2021
+470,Zix Corp.,Software & SaaS,233,Dallas,TX,David J. Wagner,2021
+471,Ecopia Al,Software & SaaS,231,Toronto,ON,Yuanming Shu,2021
+472,AdCellerant,Digital content / media / entertainment,231,Denver,со,Brock Berry,2021
+473,PeerStreet,Software & SaaS,231,El Segundo,CA,Brew Johnson,2021
+474,"CareCloud , Inc.",Software & SaaS,230,Somerset,NJ,A. Hadi Chaudhry,2021
+475,Argos Health,Software & SaaS,230,Dallas,TX,Brent McCarty,2021
+476,Tulip,Software & SaaS,229,Kitchener,ON,Ali Asaria,2021
+477,TechnologyAdvice,Digital content / media / entertainment,228,Nashville,TN,Rob Bellenfant,2021
+478,RS21,Software & SaaS,227,Albuquerque,NM,Charles Rath,2021
+479,Canada Drives,Software & SaaS,226,Vancouver,BC,Cody Green,2021
+480,Newline Interactive,Electronic devices / hardware,226,Allen .,TX,Kevin Wang,2021
+481,Beyond Trust,Software & SaaS,226,Johns Creek,GA,Matt Dircks,2021
+482,Semrush,Software & SaaS,225,Boston,MA,Oleg Shchegolev,2021
+483,Avidbots,Electronic devices / hardware,225,Kitchener,ON,Faizan Sheikh,2021
+484,Visier,Software & SaaS,223,Vancouver,BC,Ryan Wong,2021
+485,"Sangamo Therapeutics , Inc.",Biotechnology / pharmaceutical,223,Brisbane,CA,Alexander D. Macrae,2021
+486,Dashlane,Software & SaaS,223,New York,NY,JD Sherman,2021
+487,Prodigy Education,Digital content / media / entertainment,223,Oakville,ON,Rohan Mahimker,2021
+488,LUMINOR Environmental Inc.,Electronic devices / hardware,223,Guelph,ON,Myron Lupal,2021
+489,iSpot.tv,Software & SaaS,222,Bellevue,WA,Sean Muller,2021
+490,Abzooba,Software & SaaS,221,Milpitas,CA,Vivek Vipul,2021
+491,Scalefast,Software & SaaS,221,El Segundo,CA,Nicolas Stehle,2021
+492,Blackline Safety,Software & SaaS,221,Calgary,AB,Cody Slater,2021
+493,Q4 Inc.,Software & SaaS,220,Toronto,ON,Darrell Heaps,2021
+494,"Cloudflare , Inc.",Software & SaaS,220,San Francisco,CA,Matthew Prince,2021
+495,ATSG,Communications / networking,219,New York,NY,Anthony D'Ambrosi,2021
+496,meQuilibrium,Software & SaaS,216,Boston,MA,Janesse Bruce,2021
+497,Instaclustr,Software & SaaS,215,Redwood City,CA,Peter Lilley,2021
+498,GROUNDFLOOR,Software & SaaS,212,Atlanta,GA,Brian Dally,2021
+499,Veru Inc.,Biotechnology / pharmaceutical,212,Miami,FL,Mitchell Steiner,2021
+500,DigniFi,Software & SaaS,212,Bellevue,WA,Richard Counihan,2021
+1,"Vir Biotechnology , Inc.",Life sciences,125138,San Francisco,CA,George Scangos,2022
+2,"Takeoff Technologies , Inc.",Software & services,53250,Waltham,MA,Max Pedro,2022
+3,Axonius,Software & services,46270,New York,NY,Dean Sysman,2022
+4,"Axonics , Inc.",Life sciences,25401,Irvine,CA,Raymond W. Cohen,2022
+5,VAST Data,Software & services,14985,New York,NY,Renen Hallak,2022
+6,Moderna,Life sciences,13575,Cambridge,ΜΑ,Stéphane Bancel,2022
+7,Flock Safety,Software & services,13117,Atlanta,GA,Garrett Langley,2022
+8,Corvus Insurance,Fintech,12394,Boston,MA,Madhu Tadikonda,2022
+9,Fluid Truck,Energy & sustainability technology,9899,Denver,CO,James Eberhard,2022
+10,Vontive,Fintech,9154,Seattle,WA,Charles McKinney,2022
+11,Syndax Pharmaceuticals,Life sciences,9110,Waltham,MA,Michael A. Metzger,2022
+12,Emerge,Software & services,8953,Scottsdale,AZ,Andrew Leto,2022
+13,CleanSpark,Software & services,8444,Henderson,NV,Zachary K. Bradford,2022
+14,ClickUp,Software & services,8196,San Diego,CA,Zeb Evans,2022
+15,Capital Rx,Life sciences,8168,New York,NY,AJ Loiacono,2022
+16,Evisort,Software & services,8121,San Francisco,CA,Jerry Ting,2022
+17,Tackle,Software & services,7977,Boise,ID,John Jahnke,2022
+18,Kobiton,Software & services,7947,Atlanta,GA,Sean Barry,2022
+19,Aisera,Software & services,7780,Palo Alto,CA,Muddu Sudhakar,2022
+20,Kiswe,Software & services,7638,New Providence,NJ,Glenn Booth,2022
+21,BigID,Software & services,7242,New York,NY,Dimitri Sirota,2022
+22,Guardhat,Software & services,6866,Detroit,MI,Saikat Dey,2022
+23,Dremio,Software & services,6834,Santa Clara,CA,Billy Bosworth,2022
+24,Certn,Software & services,6629,Victoria,BC,Andrew McLeod,2022
+25,Stord,Software & services,6513,Atlanta,GA,Sean Henry,2022
+26,Bloom Care Solutions Inc.,Life sciences,6503,Vaughan,ON,Benjamin Fluter,2022
+27,Truework,Software & services,5965,San Francisco,CA,Ryan Sandler,2022
+28,Jane Technologies,Software & services,5898,Santa Cruz,CA,Socrates Rosenfeld,2022
+29,Numerated,Fintech,5887,Boston,MA,Dan O'Malley,2022
+30,Harvest Hosts,Software & services,5704,Vail,CO,Joel Holland,2022
+31,Mistplay,Software & services,5369,Montréal,QC,Henri Machalani,2022
+32,Dynavax Technologies,Life sciences,5260,Emeryville,CA,Ryan Spencer,2022
+33,"Outset Medical , Inc.",Life sciences,5012,San Jose,CA,Leslie Trigg,2022
+34,Ideal Agent,Software & services,4871,Tampa,FL,Steve Johnston,2022
+35,Super ( FKA Snapcommerce ),Software & services,4617,San Francisco,CA,Hussein Fazal,2022
+36,CoinFlip,Fintech,4580,Chicago,IL,Benjamin Weiss,2022
+37,QualSights,Software & services,4555,Chicago,IL,Nihal Advani,2022
+38,"Fulgent Genetics , Inc.",Life sciences,4549,Temple City,CA,Ming Hsieh,2022
+39,Symend,Software & services,4518,Calgary,AB,Hanif Joshaghani,2022
+40,"Arcus Biosciences , Inc.",Life sciences,4484,Hayward,CA,Terry J. Rosen,2022
+41,Attentive,Software & services,4110,Hoboken,NJ,Brian Long,2022
+42,Wasabi Technologies,Software & services,4109,Boston,MA,David Friend,2022
+43,DriveWealth,Fintech,3911,Jersey City,NJ,Terry Angelos,2022
+44,ShipMonk,Software & services,3730,Fort Lauderdale,FL,Jan Bednar,2022
+45,Pie Insurance,Fintech,3668,Denver,CO,John Swigart,2022
+46,Syntiant Corp.,Hardware & semiconductors,3577,Irvine,CA,Kurt Busch,2022
+47,Guideway Care,Life sciences,3518,Birmingham,AL,Craig Parker,2022
+48,PrizePicks,Digital content / media / entertainment,3416,Atlanta,GA,Adam Wexler,2022
+49,Legion Technologies,Software & services,3329,Palo Alto,CA,Sanish Mondkar,2022
+50,"Clearcover , Inc.",Fintech,3284,Chicago,IL,Kyle Nakatsuji,2022
+51,"Pulmatrix , Inc.",Life sciences,3278,Lexington,MA,Ted Raad,2022
+52,MineSense Technologies,Hardware & semiconductors,3264,Vancouver,BC,Jeff More,2022
+53,Alpine Immune Sciences,Life sciences,3225,Seattle,WA,"Mitchell H. Gold , MD",2022
+54,Boulevard,Software & services,"3,199 .00 ,",Los Angeles,CA,Matt Danna,2022
+55,Skydio,Hardware & semiconductors,3165,San Mateo,CA,Adam Bry,2022
+56,Point,Fintech,3103,Palo Alto,CA,Eddie Lim,2022
+57,Popmenu,Software & services,3102,Atlanta,GA,Brendan Sweeney,2022
+58,Notarize,Software & services,3051,Boston,MA,Pat Kinsel,2022
+59,Adtelligent Inc.,Software & services,2981,Lewes,DE,Denys Tymchyk,2022
+60,Spocket,Software & services,2954,Vancouver,BC,Saba Mohebour,2022
+61,Arrive Health,Life sciences,2873,Denver,CO,Kyle Kiser,2022
+62,Maxwell,Fintech,2845,Denver,CO,John Paasonen,2022
+63,Samsara,Software & services,2828,San Francisco,CA,Sanjit Biswas,2022
+64,Semperis,Software & services,2826,Hoboken,NJ,Mickey Bresman,2022
+65,Alphawave IP,Hardware & semiconductors,2752,Toronto,ON,Tony Pialis,2022
+66,Stromcore Energy,Hardware & semiconductors,2606,Mississauga,ON,Maxime Vidricaire,2022
+67,Clutch,Software & services,2600,Toronto,ON,Dan Park,2022
+68,"Rush Street Interactive , Inc.",Software & services,2578,Chicago,IL,Richard Schwartz,2022
+69,Branch,Fintech,2417,Minneapolis,MN,Atif Siddiqi,2022
+70,Marble,Software & services,2402,Toronto,ON,James Bateman,2022
+71,AltaML,Software & services,2391,Edmonton,AB,Nicole Janssen,2022
+72,"Avidity Biosciences , Inc.",Life sciences,2361,San Diego,CA,Sarah Boyce,2022
+73,Coinme,Fintech,2349,Seattle,WA,Neil Bergquist,2022
+74,GoBolt,Fintech,2347,Toronto,ON,Mark Ang,2022
+75,Navitas Semiconductor,Hardware & semiconductors,2310,El Segundo,CA,Gene Sheridan,2022
+76,Sure,Software & services,2268,Santa Monica,CA,Wayne Slavin,2022
+77,Discord,Communications / networking,2263,San Francisco,CA,Jason Citron,2022
+78,CoreStack,Software & services,2207,Bellevue,WA,Ezhilarasan ( Ez ) Natarajan,2022
+79,Audigent,Software & services,2153,New York,NY,Drew Stein,2022
+80,Spatial Industries Group,Digital content / media / entertainment,2151,Toronto,ON,Raja Khanna,2022
+81,"Ocular Therapeutix , Inc.",Life sciences,2087,Bedford,MA,Antony Charles Mattessich,2022
+82,"MEI Pharma , Inc.",Life sciences,2045,San Diego,CA,Daniel Gold,2022
+83,SeekOut,Software & services,2016,Bellevue,WA,Anoop Gupta,2022
+84,springbig,Software & services,2013,Boca Raton,FL,Jeffrey Harris,2022
+85,"Revance Therapeutics , Inc.",Life sciences,1986,Nashville,TN,Mark J. Foley,2022
+86,Unite Us,Software & services,1927,New York,NY,Dan Brillman,2022
+87,Sunbit,Fintech,1874,Los Angeles,CA,Arad Levertov,2022
+88,Upside,Software & services,1858,Washington,DC,Alex Kinnier,2022
+89,Uscreen,Software & services,1829,Gaithersburg,MD,PJ Taei,2022
+90,Insmed Incorporated,Life sciences,1816,Bridgewater,NJ,William H. Lewis,2022
+91,Vector Remote Care,Life sciences,1802,Bend,OR,Kevin Hoffman,2022
+92,Gong,Software & services,1792,Palo Alto,CA,Amit Bendov,2022
+93,OJO Labs,Software & services,1769,Austin,TX,John Berkowitz,2022
+94,"Aytu BioPharma , Inc.",Life sciences,1693,Englewood,CO,Josh Disbrow,2022
+95,HomeLight,Software & services,1664,Scottsdale,AZ,Drew Uher,2022
+96,Dialogue Health Technologies Inc.,Software & services,1653,Montréal,QC,Cherif Habib,2022
+97,"Zoom Video Communications , Inc.",Software & services,1650,San Jose,CA,Eric Yuan,2022
+98,"LeafLink , Inc.",Software & services,1631,New York,NY,Ryan G. Smith,2022
+99,Fivetran,Software & services,1591,Oakland,CA,George Fraser,2022
+100,LinkSquares,Software & services,1582,Boston,MA,Vishal Sunak,2022
+101,"L7 Informatics , Inc.",Software & services,1543,Austin,TX,Vasu Rangadass,2022
+102,"Xos , Inc.",Energy & sustainability technology,1539,Los Angeles,CA,Dakota Semler,2022
+103,Hotspex Media,Software & services,1529,Toronto,ON,Shane Skillen,2022
+104,TabaPay,Fintech,1521,Mountain View,CA,Rodney Robinson,2022
+105,SleepScore Labs,Software & services,1471,Carlsbad,CA,Colin Lawlor,2022
+106,Arkose Labs,Software & services,1411,San Mateo,CA,Kevin Gosschalk,2022
+107,Fundrise,Fintech,1374,Washington,DC,Ben Miller,2022
+108,Accuhealth Technologies,Life sciences,1372,McAllen,TX,Stephen Samson,2022
+109,PetScreening,Software & services,1350,Mooresville,NC,John Bradford,2022
+110,Smile Digital Health,Software & services,1305,Toronto,ON,Duncan Weatherston,2022
+111,Staffy,Software & services,1300,Toronto,ON,Peter Faist,2022
+112,Open Reel,Software & services,1274,New York,NY,Lee Firestone,2022
+113,Bowery Valuation,Software & services,1253,New York,NY,Noah Isaacs,2022
+114,Splitit,Fintech,1230,Atlanta,GA,Nandan Sheth,2022
+115,ShipHero,Software & services,1228,Garnerville,NY,Aaron Rubin,2022
+116,"Cue Biopharma , Inc.",Life sciences,1208,Boston,MA,Dan Passeri,2022
+117,Properly,Fintech,1205,Toronto,ON,Anshul Ruparell,2022
+118,Cielo WiGle Inc.,Energy & sustainability technology,1195,Redmond,WA,Waseem Amer,2022
+119,Unqork,Software & services,1193,New York,NY,Gary Hoberman,2022
+120,Measured,Software & services,1190,Austin,TX,Trevor Testwuide,2022
+121,Influence Mobile,Software & services,1186,Kirkland,WA,Daniel Todd,2022
+122,MDalgorithms Inc.,Life sciences,1178,San Francisco,CA,Oded Harth,2022
+123,CUDDLY,Software & services,1169,Seal Beach,CA,John Hussey,2022
+124,"Anaptysbio , Inc.",Life sciences,1164,San Diego,CA,Dan Faga,2022
+125,Apprentice.io,Software & services,1159,Jersey City,NJ,Angelo Stracquatanio,2022
+126,Syndio,Software & services,1156,Seattle,WA,Maria Colacurcio,2022
+127,"EyePoint Pharmaceuticals , Inc.",Life sciences,1148,Watertown,MA,Nancy Lurker,2022
+128,Claroty,Software & services,1139,New York,NY,Yaniv Vardi,2022
+129,good natured Products Inc.,Life sciences,1139,Vancouver,BC,Paul Antoniadis,2022
+130,6sense,Software & services,1134,San Francisco,CA,Jason Zintak,2022
+131,Pax8,Software & services,1122,Greenwood Village,CO,John Street,2022
+132,Armis,Software & services,1101,Palo Alto,CA,Yevgeny Dibrov,2022
+133,Klue,Software & services,1079,Vancouver,BC,Jason Smith,2022
+134,Accredible,Software & services,1079,Mountain View,CA,Danny King,2022
+135,"Fate Therapeutics , Inc.",Life sciences,1078,San Diego,CA,Scott Wolchko,2022
+136,ConsenSys Software Inc.,Software & services,1070,New York,NY,Joseph Lubin,2022
+137,Paradox,Software & services,1061,Scottsdale,AZ,Aaron Matos,2022
+138,Timilon Corporation,Energy & sustainability technology,1039,Bonita Springs,FL,Bill Sanford,2022
+139,Alnylam Pharmaceuticals,Life sciences,1027,Cambridge,MA,Yvonne Greenstreet,2022
+140,"LifeMD , Inc.",Life sciences,1016,New York,NY,Justin Schreiber,2022
+141,Blockthrough,Software & services,1011,Toronto,ON,Marty Krátký - Katz,2022
+142,NortonLifeLock Inc.,Life sciences,1009,Tempe,AZ,Vincent Pilette,2022
+143,Vention,Hardware & semiconductors,1001,Montréal,QC,Etienne Lacroix,2022
+144,Biz2Credit,Fintech,997,New York,NY,Rohit Arora,2022
+145,Lattice,Software & services,989,San Francisco,CA,Jack Altman,2022
+146,Aviatrix,Software & services,982,Santa Clara,CA,Steve Mullaney,2022
+147,Cobalt Robotics,Software & services,979,Fremont,CA,Travis Deyle,2022
+148,Stax,Fintech,975,Orlando,FL,Suneera Madhani,2022
+149,Brainvire Infotech Inc.,Software & services,972,Plano,TX,Chintan Shah,2022
+150,"Precision Biosciences , Inc.",Life sciences,962,Durham,NC,Michael Amoroso,2022
+151,SaaS Labs,Software & services,960,San Francisco,CA,Gaurav Sharma,2022
+152,Copado,Software & services,945,Chicago,IL,Ted Elliott,2022
+153,Pipefy,Software & services,932,San Francisco,CA,Alessio Alionco,2022
+154,League,Software & services,932,Toronto,ON,Mike Serbinis,2022
+155,ClassWallet,Fintech,931,Hollywood,FL,Jamie Rosenberg,2022
+156,Noom,Software & services,931,New York,NY,Saeju Jeong,2022
+157,Sigmoid,Software & services,925,San Francisco,CA,Lokesh Anand,2022
+158,Curbio,Software & services,913,Potomac,MD,Rick Rudman,2022
+159,4G Clinical,Life sciences,909,Wellesley,ΜΑ,David Kelleher,2022
+160,Onna,Software & services,908,New York,NY,Kelly Griswold,2022
+161,Arctic Wolf,Software & services,907,Eden Prairie,MN,Nick Schneider,2022
+162,"Sales Boomerang |
+Mortgage Coach",Fintech,906,Owings Mills,MD,Richard Harris,2022
+163,Recharge,Fintech,906,Santa Monica,CA,Oisin O'Connor,2022
+164,Mezmo,Software & services,900,San Jose,CA,Tucker Callaway,2022
+165,Hopper,Software & services,892,Montréal,QC,Frederic Lalonde,2022
+166,Apollo GraphQL,Software & services,885,San Francisco,CA,Geoff Schmidt,2022
+167,Filevine,Software & services,881,Salt Lake City,UT,Ryan Anderson,2022
+168,GeoComply,Software & services,874,Vancouver,BC,Anna Sainsbury,2022
+169,Upgrade,Fintech,871,San Francisco,CA,Renaud Laplanche,2022
+170,ApplyBoard,Software & services,867,Kitchener,ON,"Meti , Martin , and Massi Basiri",2022
+171,LogicGate,Software & services,864,Chicago,IL,Matt Kunkel,2022
+172,Fantuan,Software & services,857,Vancouver,BC,Randy Wul,2022
+173,Propel Software,Software & services,853,Santa Clara,CA,Ray Hein,2022
+174,Artera ( formerly WELL Health ),Life sciences,848,Santa Barbara,CA,Guillaume de Zwirek,2022
+175,Forge Nano,Energy & sustainability technology,837,Thornton,CO,Paul Lichty,2022
+176,Freight Club .,Software & services,833,Reston,VA,Chris Randall,2022
+177,Arcadia,Energy & sustainability technology,831,Washington,DC,Kiran Bhatraju,2022
+178,Underknown,Digital content / media / entertainment,830,Toronto,ON,Steve Hulford,2022
+179,Grayshift,Software & services,821,Roswell,GA,David Miles,2022
+180,Wavo,Digital content / media / entertainment,821,Montréal,ос,Conor Clarke,2022
+181,Kami Vision Incorporated,Software & services,817,San Jose,CA,Yamin Durrani,2022
+182,SentinelOne,Software & services,814,Mountain View,CA,Tomer Weingarten,2022
+183,Embark Veterinary,Life sciences,813,Boston,MA,Ryan Boyko,2022
+184,Later,Software & services,803,Vancouver,BC,Roger Patterson,2022
+185,ScyllaDB,Software & services,800,Palo Alto,CA,Dor Laor,2022
+186,Ada,Software & services,794,Toronto,ON,Mike Murchison,2022
+187,Biktrix Electric Bikes,Hardware & semiconductors,794,Saskatoon,SK,Roshan Thomas,2022
+188,Appfire,Software & services,789,Burlington .,MA,Randall Ward,2022
+189,Beam Benefits,Software & services,782,Columbus,OH,Alex Frommeyer,2022
+190,AeroSafe Global,Life sciences,774,Rochester,NY,Jay McHarg,2022
+191,DoiT International,Software & services,773,Santa Clara,CA,Yoav Toussia - Cohen,2022
+192,BenchSci,Life sciences,771,Toronto,ON,Liran Belenzon,2022
+193,Eton Solutions,Software & services,769,Morrisville,NC,Robert Mallernee,2022
+194,AlayaCare,Software & services,759,Montréal,QC,Adrian Schauer,2022
+195,"Arrowhead Pharmaceuticals , Inc.",Life sciences,757,Pasadena,CA,Christopher Richard Anzalone,2022
+196,Clearco,Fintech,755,Toronto,ON,Michele Romanow,2022
+197,Fubo TV,Digital content / media / entertainment,753,New York,NY,David Gandler,2022
+198,Own Backup,Software & services,752,Englewood Cliffs,NJ,Sam Gutmann,2022
+199,Simplify Healthcare,Software & services,750,Aurora,IL,Mohammed Vaid,2022
+200,Domino Data Lab,Software & services,739,San Francisco,CA,Nick Elprin,2022
+201,Workato,Software & services,739,Mountain View,CA,Vijay Tella,2022
+202,All Right English School,Software & services,738,City of Wilmington,DE,Oleg Oksyuk,2022
+203,SpyCloud,Software & services,737,Austin,TX,Ted Ross,2022
+204,Full Scale,Software & services,734,Kansas City,KS,Matthew DeCoursey,2022
+205,SmartFinancial,Software & services,732,Costa Mesa,CA,Lev Barinskiy,2022
+206,IRONSCALES,Software & services,726,Atlanta,GA,Eyal Benishti,2022
+207,EBlock,Software & services,725,Gloucester,ON,Jason McClenahan,2022
+208,MagicLinks,Digital content / media / entertainment,725,Venice,CA,Brian Nickerson,2022
+209,VizyPay,Fintech,721,Waukee,IA,Austin Mac Nab,2022
+210,Premise,Software & services,721,San Francisco,CA,Maury Blackman,2022
+211,Kong Inc.,Software & services,720,San Francisco,CA,Augusto Marietti,2022
+212,ACCELQ,Software & services,711,Dallas,TX,Mahendra Alladi,2022
+213,Expel,Software & services,710,Herndon,VA,Dave Merkel,2022
+214,Loadsmart,Software & services,709,Chicago,IL,Felipe Capella,2022
+215,Agenus,Life sciences,704,Lexington,MA,Garo Armen,2022
+216,Aerie Pharmaceuticals,Life sciences,703,Durham,NC,Raj Kannan,2022
+217,BrightInsight,Software & services,701,San Jose,CA,"Kal Patel , MD",2022
+218,Cordless Media,Software & services,696,Tempe,AZ,Darren Chausse,2022
+219,Glia,Software & services,696,New York,NY,Dan Michaeli,2022
+220,CyberGRX,Software & services,695,Denver,со,Fred Kneip,2022
+221,Avidon Health,Life sciences,693,Cranford,NJ,Clark Lagemann,2022
+222,BlueVoyant,Software & services,685,New York,NY,Jim Rosenthal,2022
+223,Podimetrics,Life sciences,683,Somerville,MA,"Jon Bloom , MD",2022
+224,Cyware,Software & services,681,New York,NY,Anuj Goel,2022
+225,Upfeat,Software & services,681,Winnipeg,MB,Matthew Tate,2022
+226,Calendly,Software & services,671,Avondale Estates,GA,Tope Awotona,2022
+227,TheGuarantors,Fintech,667,New York,NY,Julien Bonneville,2022
+228,Enable,Fintech,666,San Francisco,CA,Andrew Butt,2022
+229,Biocryst Pharmaceuticals,Life sciences,661,Durham,NC,Jon P. Stonehouse,2022
+230,Skillz Inc.,Digital content / media / entertainment,656,San Francisco,CA,Andrew Paradise,2022
+231,Chargebee,Fintech,656,Walnut,CA,Krish Subramanian,2022
+232,eXp World Holdings,Fintech,654,Bellingham,WA,Glenn Sanford,2022
+233,"Alector , Inc.",Life sciences,653,South San Francisco,CA,Arnon Rosenthal,2022
+234,Leap Tools,Software & services,650,Toronto,ON,Pawel Rajszel,2022
+235,OneSignal,Software & services,649,San Mateo,CA,George Deglin,2022
+236,Overhaul,Software & services,646,Austin,TX,Barry Conlon,2022
+237,dbt Labs,Software & services,642,Philadelphia,PA,Tristan Handy,2022
+238,AscellaHealth,Life sciences,641,Berwyn,PA,Dea Belazi,2022
+239,Electric,Software & services,640,New York,NY,Ryan Denehy,2022
+240,Aligned Data Centers,Communications / networking,638,Plano,TX,Andrew Schaap,2022
+241,Qualio,Software & services,638,San Francisco,CA,Robert Fenton,2022
+242,"CrowdStrike Holdings , Inc.",Software & services,636,Austin,TX,George Kurtz,2022
+243,Innovaccer Inc.,Life sciences,624,San Francisco,CA,Abhinav Shashank,2022
+244,Quantum Metric,Software & services,623,Colorado Springs,со,Mario Ciabarra,2022
+245,Chainalysis,Fintech,622,New York,NY,Michael Gronager,2022
+246,Xoma Corp.,Life sciences,620,Emeryville,CA,James R. Neal,2022
+247,Data Dome,Software & services,618,New York,NY,Benjamin Fabre,2022
+248,Highspot,Software & services,614,Seattle,WA,Robert Wahbe,2022
+249,Trulioo,Software & services,613,Vancouver,BC,Steve Munford,2022
+250,SmartAsset,Fintech,612,New York,NY,Michael Carvin,2022
+251,Hatch,Hardware & semiconductors,611,Palo Alto,CA,Ann Crady Weiss,2022
+252,"Paratek Pharmaceuticals , Inc.",Life sciences,607,Boston,MA,Evan Loh,2022
+253,Karyopharm Therapeutics Inc.,Life sciences,592,Newton,MA,Richard Paulson,2022
+254,Edison Interactive,Digital content / media / entertainment,589,Denver,со,Jeremy Ostermiller,2022
+255,Mynd,Fintech,589,Oakland,CA,Doug Brien,2022
+256,Angion Biomedica Corp,Life sciences,588,Uniondale,NY,Jay Venkatesan,2022
+257,Accu Title,Software & services,583,Ship Bottom,NJ,Bill Bartzak,2022
+258,"Ultragenyx Pharmaceutical , Inc.",Life sciences,582,Novato,CA,Emil D. Kakkis,2022
+259,hireEZ,Software & services,578,Mountain View,CA,Steven Jiang,2022
+260,"Xencor , Inc.",Life sciences,578,Monrovia,CA,Bassil I. Dahiyat,2022
+261,Whatfix,Software & services,576,San Jose,CA,Khadim Batti,2022
+262,Alto Pharmacy,Life sciences,570,San Francisco,CA,Jamie Karraker,2022
+263,Accely Inc.,Software & services,569,Avenel,NJ,Nilesh Shah,2022
+264,Florence Healthcare,Life sciences,567,Atlanta,GA,Ryan Jones,2022
+265,MedShift,Life sciences,559,Charlotte,NC,Joe Gasque,2022
+266,Sense,Software & services,557,San Francisco,CA,Anil Darni,2022
+267,"Wyze Labs , Inc.",Hardware & semiconductors,553,Kirkland,WA,Yun Zhang,2022
+268,"Sight Sciences , Inc.",Life sciences,550,Menlo Park,CA,Paul Badawi,2022
+269,Rewind,Software & services,550,Ottawa,ON,Mike Potter,2022
+270,"Maravai LifeSciences
+Holdings , Inc.",Life sciences,545,San Diego,CA,Carl Hull,2022
+271,LASSO,Software & services,544,Nashville,TN,Clay Sifford,2022
+272,Bitwise Industries,Software & services,543,Fresno,CA,Irma Olguin Jr. and Jake Soberal,2022
+273,VOSKER,Software & services,541,Victoriaville,QC,Yan Gagnon,2022
+274,One Step GPS,Software & services,539,San Fernando,CA,Adam Ben Jacob,2022
+275,PyroGenesis,Hardware & semiconductors,539,Montréal,QC,Photis Pascali,2022
+276,Dragos Inc.,Software & services,538,Hanover,MD,Robert M. Lee,2022
+277,Thinkific,Software & services,536,Vancouver,BC,Greg Smith,2022
+278,HUNGRY,Software & services,534,Arlington,VA,Jeff Grass,2022
+279,PathogenDx,Life sciences,531,Scottsdale,AZ,Milan Patel,2022
+280,Sentry,Software & services,527,San Francisco,CA,Milin Desai,2022
+281,Viome Life Sciences,Life sciences,526,Bellevue,WA,Naveen Jain,2022
+282,ShipBob,Software & services,525,Chicago,IL,Dhruv Saxena,2022
+283,Tribe Property Technologies,Software & services,523,Vancouver,BC,Joseph Nakhla,2022
+284,"ID.me , Inc.",Software & services,520,McLean,VA,Blake Hall,2022
+285,Viral Nation,Digital content / media / entertainment,519,Mississauga,ON,Joe Gagliese,2022
+286,RFPIO,Software & services,516,Beaverton,OR,Ganesh Shankar,2022
+287,"Zillow Group , Inc.",Software & services,511,Seattle,WA,Richard N. Barton,2022
+288,Outreach,Software & services,508,Seattle,WA,Manny Medina,2022
+289,VirtuSense,Life sciences,502,Peoria,IL,David Park,2022
+290,"ProPhase Labs , Inc.",Life sciences,502,Garden City,NY,Ted Karkus,2022
+291,Cloud Synapps Inc.,Software & services,499,Mississauga,ON,Utkarsh Bhatnagar,2022
+292,Kenect,Software & services,499,Pleasant Grove,UT,Shaun Sorensen,2022
+293,Qumulo,Software & services,498,Seattle,WA,Bill Richter,2022
+294,Launch Potato,Digital content / media / entertainment,496,Delray Beach,FL,Greg Van Horn,2022
+295,AuditBoard,Software & services,492,Cerritos,CA,Scott Arnold,2022
+296,"Morphic Holding , Inc.",Life sciences,489,Waltham,MA,Praveen Tipirneni,2022
+297,Sysdig,Software & services,487,San Francisco,CA,Suresh Vasudevan,2022
+298,Jane,Software & services,487,North Vancouver,BC,Alison Taylor,2022
+299,ActivTrak,Software & services,485,Austin,TX,Rita Selvaggi,2022
+300,In Market,Digital content / media / entertainment,483,Culver City,CA,Todd Dipaola,2022
+301,LiveBarn,Digital content / media / entertainment,483,Montréal,QC,Farrel Miller,2022
+302,Roc360,Fintech,483,New York,NY,Arvind Raghunathan,2022
+303,AlertMedia,Software & services,478,Austin,TX,Christopher Kenessey,2022
+304,Aurora Solar,Energy & sustainability technology,478,San Francisco,CA,Christopher Hopper,2022
+305,Prove,Software & services,475,New York,NY,Rodger Desai,2022
+306,Skilljar,Software & services,474,Seattle,WA,Sandi Lin,2022
+307,Remitly,Fintech,473,Seattle,WA,Matt Oppenheimer,2022
+308,Valsoft Corporation,Software & services,472,Montréal,QC,Ouissam Youssef,2022
+309,Xometry,Software & services,468,Derwood,MD,Randy Altschuler,2022
+310,CoreView,Software & services,465,Atlanta,GA,Shawn Lankton,2022
+311,eVisit,Software & services,464,Mesa,AZ,Bret Larsen,2022
+312,Socure,Software & services,463,Incline Village,NV,Johnny Ayers,2022
+313,"HiredScore , Inc.",Software & services,460,New York,NY,Athena Karp,2022
+314,XSELL Technologies,Software & services,459,Chicago,IL,Matt Coughlin,2022
+315,"Mirati Therapeutics , Inc.",Life sciences,458,San Diego,CA,David Meek,2022
+316,"Ontrak , Inc.",Software & services,454,Henderson,NV,Jonathan Mayhew,2022
+317,"Akoustis Technologies , Inc.",Hardware & semiconductors,448,Huntersville,NC,Jeffrey B. Shealy,2022
+318,Allurion Technologies,Life sciences,444,Natick,MA,Shantanu Gaur,2022
+319,Previan,Hardware & semiconductors,440,Québec City,QC,Martin Theriault,2022
+320,"TherapeuticsMD , Inc.",Life sciences,440,Boca Raton,FL,Hugh O'Dowd,2022
+321,CENTEGIX,Software & services,440,Atlanta,GA,Brent Cobb,2022
+322,Full Story,Software & services,437,Atlanta,GA,Scott Voigt,2022
+323,¡ Lobby,Software & services,436,North York,ON,Ariel Mashiyev,2022
+324,"Block , Inc.",Fintech,435,San Francisco,CA,Jack Dorsey,2022
+325,"Seres Therapeutics , Inc.",Life sciences,434,Cambridge,MA,Eric Shaff,2022
+326,Mursion,Software & services,434,San Francisco,CA,Mark Atkinson,2022
+327,"Molecular Templates , Inc.",Life sciences,431,Austin,TX,Eric E. Poma,2022
+328,ScalePad,Software & services,429,Vancouver,BC,Dan Wensley,2022
+329,GoodTime,Software & services,423,San Francisco,CA,Ahryun Moon,2022
+330,Remesh,Software & services,422,Cleveland,OH,Andrew Konya,2022
+331,Loopio,Software & services,421,Toronto,ON,Zak Hemraj,2022
+332,Twist Bioscience Corp,Life sciences,420,South San Francisco,CA,Emily Leproust,2022
+333,Nozomi Networks,Software & services,420,San Francisco,CA,Edgard Capdevielle,2022
+334,"Datadog , Inc.",Software & services,419,New York,NY,Olivier Pomel,2022
+335,ZoomInfo,Software & services,418,Vancouver,WA,Henry Schuck,2022
+336,Tipalti,Fintech,410,San Mateo,CA,Chen Amit,2022
+337,Rhythm Group Management,Life sciences,410,Rockville,MD,Rhonda Bray,2022
+338,Flexe,Software & services,410,Seattle,WA,Karl Siebrecht,2022
+339,DeepSig Inc.,Communications / networking,408,Arlington,VA,Jim Shea,2022
+340,SmartLabs,Life sciences,408,Boston,MA,Amrit Chaudhuri,2022
+341,"Remark Holdings , Inc.",Software & services,408,Las Vegas,NV,Kai - Shing Tao,2022
+342,Proctorio,Software & services,404,Scottsdale,AZ,Mike Olsen,2022
+343,Coconut Software,Software & services,404,Saskatoon,SK,Katherine Regnier,2022
+344,Braze,Software & services,402,New York,NY,Bill Magnuson,2022
+345,Lendio,Fintech,401,Lehi,UT,Brock Blake,2022
+346,Petal,Life sciences,401,Québec City,QC,Patrice Gilbert,2022
+347,PartnerStack,Software & services,398,Toronto,ON,Bryn Jones,2022
+348,"Brazen Technologies , Inc.",Software & services,398,Arlington,VA,Ed Barrientos,2022
+349,AdQuick,Digital content / media / entertainment,398,Venice,CA,Matthew O'Connor,2022
+350,"Harpoon Therapeutics , Inc.",Life sciences,398,South San Francisco,CA,Julie Eastland,2022
+351,Pendo,Software & services,398,Raleigh,NC,Todd Olson,2022
+352,Karbon,Software & services,396,San Francisco,CA,Stuart McLeod,2022
+353,Zenoti,Software & services,396,Bellevue,WA,Sudheer Koneru,2022
+354,Aircall,Software & services,395,New York,NY,Michael Haske,2022
+355,Swimlane,Software & services,395,Louisville,со,James Brear,2022
+356,Enboarder,Software & services,393,Austin,TX,Brent Pearson,2022
+357,"Voyager Therapeutics , Inc.",Life sciences,391,Cambridge,MA,Al Sandrock,2022
+358,FreightWaves,Software & services,390,Chattanooga,TN,Craig Fuller,2022
+359,Weave,Software & services,389,Lehi,UT,Brett White,2022
+360,Jobber,Software & services,388,Edmonton,AB,Sam Pillar,2022
+361,"DermTech , Inc.",Life sciences,385,La Jolla,CA,John Dobak,2022
+362,Morning Consult,Software & services,381,Washington,DC,Michael Ramlet,2022
+363,Homecare.com,Software & services,379,McLean,VA,Todd Walrath,2022
+364,Clari,Software & services,378,Sunnyvale,CA,Andy Byrne,2022
+365,"ADMA Biologics , Inc.",Life sciences,377,Ramsey,NJ,Adam S. Grossman,2022
+366,Blueshift,Software & services,376,San Francisco,CA,Vijay Chittoor,2022
+367,XSOLIS,Life sciences,375,Nashville,TN,Joan Butters,2022
+368,"MedAvail Holdings , Inc.",Life sciences,374,Phoenix,AZ,Mark Doerr,2022
+369,Talent.com,Digital content / media / entertainment,373,Montréal,QC,Lucas Martinez,2022
+370,CEIPAL,Software & services,371,Rochester,NY,Sameer Penakalapati,2022
+371,Olo,Software & services,370,New York,NY,Noah Glass,2022
+372,Onit,Software & services,369,Houston,TX,Eric E. Elfman,2022
+373,Keyfactor,Software & services,366,Independence,OH,Jordan Rackie,2022
+374,AdAdapted,Software & services,366,Ann Arbor,MI,Mike Pedersen,2022
+375,"Adverum Biotechnologies , Inc.",Life sciences,365,Redwood City,CA,Laurent Fischer,2022
+376,Shipfusion,Software & services,365,Toronto,ON,Brandon Luft,2022
+377,RethinkFirst,Life sciences,364,New York,NY,Daniel Etra,2022
+378,Inspire Medical Systems,Life sciences,361,Golden Valley,MN,Tim Herbert,2022
+379,NowRx,Life sciences,359,Mountain View,CA,Cary Breese,2022
+380,Nylas,Software & services,356,San Francisco,CA,Gleb Polyakov,2022
+381,Taxfyle,Software & services,355,Miami,FL,Richard Lavina,2022
+382,StackAdapt,Software & services,353,Toronto,ON,Ildar Shar,2022
+383,Food Cycler,Energy & sustainability technology,351,Ottawa,ON,Bradley Crepeau,2022
+384,"Vertos Medical , Inc.",Life sciences,348,Aliso Viejo,CA,Eric Wichems,2022
+385,CrowdStreet,Fintech,348,Austin,TX,Tore Steen,2022
+386,Brillient Corporation,Software & services,339,Reston,VA,Sukumar lyer,2022
+387,Novarc,Hardware & semiconductors,339,North Vancouver,BC,Soroush Karimzadeh,2022
+388,JobNimbus,Software & services,338,Lehi,UT,Ben Hodson,2022
+389,Twilio,Software & services,337,San Francisco,CA,Jeff Lawson,2022
+390,"Enphase Energy , Inc.",Energy & sustainability technology,337,Fremont,CA,"Badrinarayanan
+Kothandaraman",2022
+391,Freestar,Software & services,334,Scottsdale,AZ,Kurt Donnell,2022
+392,"AudioEye , Inc.",Software & services,333,Tucson,AZ,David Moradi,2022
+393,G2,Software & services,332,Chicago,IL,Godard Abel,2022
+394,TechnologyAdvice,Digital content / media / entertainment,331,Nashville,TN,Rob Bellenfant,2022
+395,SourceKnowledge,Software & services,331,Montréal,QC,Patrick Hopf,2022
+396,09 Solutions,Software & services,330,Dallas,TX,Chakri Gottemukkala,2022
+397,NinjaOne,Software & services,328,Austin,TX,Sal Sferlazza,2022
+398,Cordial,Software & services,328,San Diego,CA,Jeremy Swift,2022
+399,LeanTaaS,Life sciences,327,Santa Clara,CA,Mohan Giridharadas,2022
+400,"Veritone , Inc.",Software & services,326,Denver,со,Chad Steelberg,2022
+401,Netlist Inc.,Hardware & semiconductors,325,Irvine,CA,C.K. Hong,2022
+402,Stirista,Software & services,324,San Antonio,TX,Ajay Gupta,2022
+403,Mysa,Hardware & semiconductors,320,St. John's,NL,Joshua Green,2022
+404,"Digital Turbine , Inc.",Software & services,319,Austin,TX,William G. Stone,2022
+405,Slice,Software & services,316,New York,NY,Ilir Sela,2022
+406,eStruxture Data Centers,Software & services,315,Montréal,ос,Todd Coleman,2022
+407,Incorta,Software & services,315,San Mateo,CA,Scott Jones,2022
+408,Data Robot,Software & services,313,Boston,MA,Debanjan Saha,2022
+409,"Guardant Health , Inc.",Life sciences,312,Palo Alto,CA,Helmy A. Eltoukhy,2022
+410,Submittable,Software & services,312,Missoula,MT,Thor Culverhouse,2022
+411,15 Five,Software & services,311,San Francisco,CA,David Hassell,2022
+412,SuperMoney,Fintech,311,Santa Ana,CA,Miron Lulic,2022
+413,Introhive,Software & services,311,Fredericton,NB,Jody Glidden,2022
+414,Interos,Software & services,310,Arlington,VA,Jennifer Bisceglie,2022
+415,Mindtickle,Software & services,309,San Francisco,CA,Krishna Gopal Depura,2022
+416,"Zynex , Inc.",Life sciences,308,Englewood,со,Thomas Sandgaard,2022
+417,Qmulos,Software & services,308,Chantilly,VA,Matt Coose,2022
+418,Dental Intelligence,Software & services,307,Pleasant Grove,UT,Dan Geraty,2022
+419,Branch Metrics Inc.,Software & services,307,Palo Alto,CA,Alex Austin,2022
+420,Komprise,Software & services,306,Campbell,CA,Kumar Goswami,2022
+421,Blueprint Medicines Corp.,Life sciences,304,Cambridge,MA,Kate Haviland,2022
+422,LeaseQuery,Software & services,304,Atlanta,GA,George Azih,2022
+423,Panda Doc,Software & services,303,San Francisco,CA,Mikita Mikado,2022
+424,Medfar Clinical Solutions,Software & services,303,Montréal,QC,Elias Farah,2022
+425,Clutch,Digital content / media / entertainment,301,Washington,DC,Sonny Ganguly,2022
+426,Qentelli LLC,Software & services,298,Dallas,TX,Sanjay Jupudi,2022
+427,Vive Crop Protection,Life sciences,296,Toronto,ON,Darren Anderson,2022
+428,Redfin Corp,Software & services,295,Seattle,WA,Glenn Kelman,2022
+429,CData Software,Software & services,294,Chapel Hill,NC,Amit Sharma,2022
+430,ATSG,Communications / networking,293,New York,NY,Anthony D'Ambrosi,2022
+431,Paystone,Fintech,289,London,ON,Tarique Al - Ansari,2022
+432,Exact Sciences Corporation,Life sciences,289,Madison,WI,Kevin Conroy,2022
+433,LUMINOR Environmental Inc.,Hardware & semiconductors,289,Guelph,ON,Brock Lupal,2022
+434,Lightspeed Commerce Inc.,Software & services,288,Montréal,QC,Jean Paul Chauvet,2022
+435,EngageSmart,Software & services,287,Braintree,MA,Bob Bennett,2022
+436,"Ardelyx , Inc.",Life sciences,287,Fremont,CA,Mike Raab,2022
+437,"CareDx , Inc.",Life sciences,287,South San Francisco,CA,Reginald Seeto,2022
+438,Veru,Life sciences,286,Miami,FL,Mitchell Steiner,2022
+439,Fleetio,Software & services,286,Birmingham,AL,Tony Summerville,2022
+440,ThinkOn Inc.,Software & services,285,Etobicoke,ON,Craig McLellan,2022
+441,Stensul,Software & services,285,New York,NY,Noah Dinkin,2022
+442,Wellness Living,Software & services,285,Markham,ON,Len Fridman,2022
+443,Sayari Labs Inc.,Software & services,284,Washington,DC,Farley Mesko,2022
+444,"Tandem Diabetes Care , Inc.",Life sciences,282,San Diego,CA,John F. Sheridan,2022
+445,SOCI,Software & services,282,San Diego,CA,Afif Khoury,2022
+446,AppViewX,Software & services,282,New York,NY,Gregory Webb,2022
+447,Fund That Flip,Fintech,281,New York,NY,Matt Rodak,2022
+448,FundThrough,Software & services,281,Toronto,ON,Steven Uster,2022
+449,Elastic,Software & services,280,Mountain View,CA,Ash Kulkarni,2022
+450,EverCommerce Inc.,Software & services,278,Denver,со,Eric Remer,2022
+451,"Magnite , Inc.",Software & services,276,New York,NY,Michael Barrett,2022
+452,PlayOn ! Sports,Digital content / media / entertainment,275,Atlanta,GA,David Rudolph,2022
+453,East Side Games,Digital content / media / entertainment,274,Vancouver,BC,Jason Bailey,2022
+454,COTA,Life sciences,274,New York,NY,Miruna Sasu,2022
+455,PureSpectrum,Software & services,272,Westlake Village,CA,Michael McCrary,2022
+456,"Roku , Inc.",Digital content / media / entertainment,272,San Jose,CA,Anthony J. Wood,2022
+457,CoollT Systems,Hardware & semiconductors,272,Calgary,AB,Steven Walton,2022
+458,Brandlive,Software & services,271,Portland,OR,Sam Kolbert - Hyle,2022
+459,Recorded Future,Software & services,271,Somerville,MA,Christopher Ahlberg,2022
+460,Lü Interactive Playground,Digital content / media / entertainment,271,Québec City,ос,Vincent Routhier,2022
+461,Appspace,Software & services,269,Dallas,TX,Tony DiBenedetto,2022
+462,FM : Systems,Software & services,269,Raleigh,NC,Kurt von Koch,2022
+463,CircleCl,Software & services,269,San Francisco,CA,Jim Rose,2022
+464,"Bill.com Holdings , Inc.",Software & services,267,San Jose,CA,René Lacerte,2022
+465,LendingPoint,Fintech,267,Kennesaw,GA,Tom Burnside,2022
+466,Boomi,Software & services,267,Chesterbrook,PA,David Meredith,2022
+467,Pattern,Software & services,266,Lehi,UT,David Wright,2022
+468,ScaleFlux,Hardware & semiconductors,265,Milpitas,CA,Hao Zhong,2022
+469,Microblink,Software & services,264,Brooklyn,NY,Darren Bassman,2022
+470,7shifts,Software & services,261,Saskatoon,SK,Jordan Boesch,2022
+471,Onfleet,Software & services,261,San Francisco,CA,Khaled Naim,2022
+472,Recollective Inc.,Software & services,261,Ottawa,ON,Alfred Jay,2022
+473,Salesloft,Software & services,260,Atlanta,GA,Kyle Porter,2022
+474,Robin,Software & services,258,Boston,MA,Micah Remley,2022
+475,Groove,Software & services,258,San Francisco,CA,Chris Rothstein,2022
+476,Zscaler,Software & services,254,San Jose,CA,Jay Chaudhry,2022
+477,Wahoo Fitness,Hardware & semiconductors,253,Atlanta,GA,Mike Saturnia,2022
+478,CareJourney,Life sciences,253,Arlington,VA,Dan Ross,2022
+479,Fountain,Software & services,252,San Francisco,CA,Sean Behr,2022
+480,iLearning Engines Inc.,Software & services,252,Bethesda,MD,Harish Chidambaran,2022
+481,Zimperium,Software & services,252,Dallas,TX,Shridhar Mittal,2022
+482,Ease,Software & services,251,San Francisco,CA,David Reid,2022
+483,Peraso Inc.,Hardware & semiconductors,250,San Jose,CA,Ronald Glibbery,2022
+484,"Snap , Inc.",Digital content / media / entertainment,249,Santa Monica,CA,Evan Spiegel,2022
+485,ClarisHealth,Software & services,248,Brentwood,TN,Jeff McNeese,2022
+486,"Smartsheet , Inc.",Software & services,247,Bellevue,WA,Mark Patrick Mader,2022
+487,Repligen Corp.,Life sciences,246,Waltham,MA,Anthony John Hunt,2022
+488,KnowBe4,Software & services,245,Clearwater,FL,Stu Sjouwerman,2022
+489,Territory Foods,Software & services,244,New York,NY,Ellis McCue,2022
+490,Skupos,Software & services,244,Denver,со,Jake Bolling,2022
+491,Billing Platform,Software & services,243,Centennial,со,Dennis Wall,2022
+492,Salsify,Software & services,243,Boston,MA,Jason Purcell,2022
+493,Emburse,Fintech,242,Los Angeles,CA,Eric Friedrichsen,2022
+494,Total Expert,Fintech,242,Minneapolis,MN,Joe Welu,2022
+495,"Chinook Therapeutics , Inc.",Life sciences,242,Seattle,WA,Eric Dobmeier,2022
+496,Altus Assessments Inc.,Software & services,242,Toronto,ON,Rich Emrich,2022
+497,Clinical ink,Life sciences,241,Horsham,PA,Ed Seguine,2022
+498,"Pinterest , Inc.",Software & services,241,San Francisco,CA,Bill Ready,2022
+499,Podium,Software & services,241,Lehi,UT,Eric Rea,2022
+500,"Cloudflare , Inc.",Software & services,241,San Francisco,CA,Matthew Prince,2022
